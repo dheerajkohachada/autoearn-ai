@@ -5,6 +5,7 @@ import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+from html.parser import HTMLParser
 
 INPUT_FILE = "trend_report.md"
 OUTPUT_FILE = "content_drafts.md"
@@ -71,6 +72,27 @@ be been being this that these those as it its after before over under
 about into than then who what when where why how says said report
 reports according latest update updates news today live watch
 """.split())
+
+
+class TextExtractor(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.parts = []
+
+    def handle_data(self, data):
+        text = data.strip()
+        if text:
+            self.parts.append(text)
+
+    def get_text(self):
+        return " ".join(self.parts)
+
+
+def clean_text(value):
+    parser = TextExtractor()
+    parser.feed(html.unescape(value or ""))
+    text = parser.get_text()
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def classify_topic(topic):
@@ -149,6 +171,8 @@ def get_headlines(topic):
             title = item.findtext("title", "").strip()
             link = item.findtext("link", "").strip()
             date = item.findtext("pubDate", "").strip()
+            description = item.findtext("description", "")
+
             source_element = item.find("source")
 
             source = (
@@ -159,7 +183,8 @@ def get_headlines(topic):
 
             if title and link:
                 headlines.append({
-                    "title": html.unescape(title),
+                    "title": clean_text(title),
+                    "description": clean_text(description),
                     "link": link,
                     "date": date,
                     "source": source
@@ -185,12 +210,6 @@ def meaningful_words(title, topic):
 
 
 def find_story_group(headlines, topic):
-    """
-    Filter out previews and viewing information.
-    Group event headlines with overlapping specific words.
-    This does not independently verify facts.
-    """
-
     candidates = []
 
     for headline in headlines:
@@ -233,70 +252,109 @@ def find_story_group(headlines, topic):
     return unique[:4] if len(unique) >= 2 else []
 
 
+def make_script(category, topic, headlines):
+    primary = headlines[0]
+    title = primary["title"]
+    summary = primary["description"]
+
+    # Remove publisher suffix sometimes added to titles.
+    title = re.sub(r"\s+-\s+[^-]+$", "", title).strip()
+
+    script = []
+
+    script.append(
+        "Here's an important update from " + category + "."
+    )
+
+    script.append(title + ".")
+
+    if summary:
+        sentences = re.split(r"(?<=[.!?])\s+", summary)
+
+        useful = [
+            sentence.strip()
+            for sentence in sentences
+            if len(sentence.strip()) > 20
+        ]
+
+        for sentence in useful[:3]:
+            script.append(sentence)
+
+    else:
+        script.append(
+            "The available news feed did not provide a detailed "
+            "summary. More reporting is needed before adding details."
+        )
+
+    script.append(
+        "Follow InfoRush for more updates and important stories."
+    )
+
+    narration = " ".join(script)
+
+    return narration
+
+
 def create_draft(category, topic, headlines):
     lines = []
 
+    narration = make_script(category, topic, headlines)
+
     lines.append("## " + category + ": " + topic)
     lines.append("")
-    lines.append("**Status:** Candidate — verify before publishing")
+    lines.append("**Status:** Candidate — manual verification required")
     lines.append("")
-    lines.append("### Related event headlines")
+
+    lines.append("### Sources")
     lines.append("")
 
     for index, item in enumerate(headlines, 1):
         lines.append(f"{index}. **{item['title']}**")
         lines.append(f"   - Publisher: {item['source']}")
         lines.append(f"   - Published: {item['date'] or 'Not listed'}")
-        lines.append(f"   - Source: {item['link']}")
+        lines.append(f"   - Link: {item['link']}")
+
+        if item["description"]:
+            lines.append(
+                "   - Available summary: " + item["description"]
+            )
+
         lines.append("")
 
-    lines.append("### Reel script — 30 to 45 seconds")
+    lines.append("### Automatic Reel narration")
     lines.append("")
-    lines.append(
-        "**HOOK:** A major update is attracting attention in "
-        + category + "."
-    )
+    lines.append(narration)
     lines.append("")
-    lines.append(
-        "**WHAT HAPPENED:** [State the specific confirmed event, "
-        "including the people or organisations involved.]"
-    )
+
+    word_count = len(narration.split())
+    lines.append(f"**Word count:** {word_count}")
+    lines.append("**Estimated duration:** Depends on speaking speed.")
     lines.append("")
-    lines.append(
-        "**KEY DETAILS:** [Add confirmed figures, dates, location "
-        "and important developments.]"
-    )
-    lines.append("")
-    lines.append(
-        "**WHY IT MATTERS:** [Explain the verified significance "
-        "in simple English.]"
-    )
-    lines.append("")
-    lines.append(
-        "**ENDING:** Follow InfoRush for more important updates."
-    )
-    lines.append("")
+
     lines.append("### Caption")
     lines.append("")
     lines.append(
-        "Here is the latest update on " + topic
-        + ". Follow InfoRush for more."
+        "A closer look at " + topic
+        + ". Read the latest reports and follow InfoRush for more."
     )
     lines.append("")
+
     lines.append("### Hashtags")
     lines.append("")
     lines.append(
         "#InfoRush #LatestNews #Trending #DiscoverMore"
     )
     lines.append("")
-    lines.append("### Verification checklist")
+
+    lines.append("### Important verification checklist")
     lines.append("")
-    lines.append("- [ ] Confirm both headlines describe the same event.")
-    lines.append("- [ ] Open and read the original articles.")
-    lines.append("- [ ] Verify names, dates, numbers and locations.")
+    lines.append("- [ ] Open the original source articles.")
+    lines.append("- [ ] Confirm the reports describe the same event.")
+    lines.append("- [ ] Verify all names, dates, figures and locations.")
+    lines.append("- [ ] Compare the summaries with the original articles.")
     lines.append("- [ ] Check for newer developments or corrections.")
-    lines.append("- [ ] Add only facts supported by reliable sources.")
-    lines.append("- [ ] Review the final script before publishing.")
+    lines.append("- [ ] Remove any unsupported or misleading statement.")
+    lines.append("- [ ] Review the final narration before publishing.")
     lines.append("")
     lines.append("---")
     lines.append("")
@@ -318,7 +376,6 @@ def main():
     categories = categories[shift:] + categories[:shift]
 
     selected = []
-    used_categories = set()
 
     for category in categories:
         if len(selected) >= 2:
@@ -343,8 +400,6 @@ def main():
                     "topic": candidate["topic"],
                     "headlines": story_group
                 })
-
-                used_categories.add(category)
                 break
 
     output = [
@@ -354,17 +409,16 @@ def main():
             "%Y-%m-%d %H:%M:%S UTC"
         ),
         "",
-        "Automated research candidates only. Headline similarity "
-        "does not establish that reports describe the same event "
-        "or prove their accuracy.",
+        "Automatic drafts generated from Google News RSS headlines "
+        "and available feed summaries. These are not independently "
+        "fact-checked. Verify all details before publishing.",
         ""
     ]
 
     if not selected:
         output.append(
-            "No story passed the current headline filters. "
-            "No Reel draft was generated. This is preferable "
-            "to publishing an unrelated or misleading story."
+            "No story passed the current filters. No Reel draft "
+            "was generated."
         )
     else:
         output.append(
