@@ -1,43 +1,43 @@
 # InfoRush Trending Topics
-Updated: 2026-11-09 18:30:21.397880 UTC
+Updated: 2026-11-09 18:36:18.552676 UTC
 
 These are trend candidates, not verified news.
 
 ## India
-1. বৃহস্পতি
-2. अमृता खानविलकर
+1. अमृता खानविलकर
+2. বৃহস্পতি
 3. pawan kalyan divorce
 4. u19 asia cup cricket
 5. भारत न्यूजीलैंड वनडे सीरीज
 6. james gunn
-7. ibps rrb po prelims admit card download
-8. জ্যোতিষশাস্ত্র
-9. arasan movie
-10. ipl 2026
+7. six
+8. ibps rrb po prelims admit card download
+9. জ্যোতিষশাস্ত্র
+10. arasan movie
 
 ## United States
-1. davon godchaux
-2. college basketball rankings
+1. ap top 25 basketball
+2. davon godchaux
 3. princess of wales
-4. clayface box office
-5. frío
-6. jamal musiala
-7. ncis origins season 3 ending
-8. ozempic zepbound eye risk warnings
-9. dianna russini
-10. msc seascape
+4. college basketball rankings
+5. clayface box office
+6. frío
+7. jamal musiala
+8. ncis origins season 3 ending
+9. ozempic zepbound eye risk warnings
+10. dianna russini
 
 ## United Kingdom
-1. itn
-2. ricky wilson
-3. im a celeb
-4. ftse 100 index
-5. rishi sunak
-6. bt
-7. taxpayers
-8. botoşani - oțelul
-9. fa cup draw today
-10. glasgow hydro bare knuckle brawl
+1. ricky martin
+2. nationwide black friday payment warning
+3. activision
+4. itn
+5. ricky wilson
+6. im a celeb
+7. ftse 100 index
+8. rishi sunak
+9. bt
+10. taxpayers
 
 ## Canada
 1. johnny depp
