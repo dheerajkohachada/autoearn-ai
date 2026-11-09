@@ -1,4 +1,3 @@
-
 import re
 import html
 import time
@@ -14,7 +13,7 @@ INPUT_FILE = "trend_report.md"
 OUTPUT_FILE = "content_drafts.md"
 
 USER_AGENT = (
-    "Mozilla/5.0 (compatible; InfoRushBot/1.0; "
+    "Mozilla/5.0 (compatible; InfoRushBot/2.0; "
     "+https://github.com/dheerajkohachada/autoearn-ai)"
 )
 
@@ -34,53 +33,78 @@ SKIP_PATTERN = re.compile(
 )
 
 PREVIEW_PATTERN = re.compile(
-    r"\b(live streaming|where to watch|how to watch|"
-    r"schedule|fixtures|preview|predicted lineup|"
-    r"probable playing|ticket booking|live score)\b",
+    r"\b(live streaming|where to watch|how to watch|schedule|"
+    r"fixtures|preview|predicted lineup|probable playing|"
+    r"ticket booking|live score)\b",
     re.I,
 )
 
 EVENT_PATTERN = re.compile(
-    r"\b(won|beat|defeated|qualified|launched|"
-    r"announced|discovered|reported|revealed|"
-    r"confirmed|approved|banned|signed|"
-    r"elected|resigned|opened|released|"
-    r"achieved|found|created|developed|"
-    r"declared|appointed|died|injured|"
-    r"scored|increased|decreased|recorded)\b",
+    r"\b(won|beat|defeated|qualified|launched|announced|"
+    r"discovered|reported|revealed|confirmed|approved|banned|"
+    r"signed|elected|resigned|opened|released|achieved|found|"
+    r"created|developed|declared|appointed|died|injured|"
+    r"scored|increased|decreased|recorded|warned|said|"
+    r"began|started|completed|reached|filed|ordered)\b",
     re.I,
 )
 
 STOP_WORDS = {
-    "the", "and", "for", "with", "from", "that", "this",
-    "have", "has", "was", "were", "are", "will", "into",
-    "over", "after", "before", "their", "they", "them",
-    "about", "says", "said", "its", "his", "her", "who",
-    "what", "when", "where", "which", "while", "than",
-    "under", "between", "more", "most", "also", "been",
-    "being", "latest", "news", "update", "updates",
+    "the", "and", "for", "with", "from", "that", "this", "have",
+    "has", "was", "were", "are", "will", "into", "over", "after",
+    "before", "their", "they", "them", "about", "says", "said",
+    "its", "his", "her", "who", "what", "when", "where", "which",
+    "while", "than", "under", "between", "more", "most", "also",
+    "been", "being", "latest", "news", "update", "updates",
+    "here", "there", "today", "report", "reports",
 }
 
+BOILERPLATE_PATTERN = re.compile(
+    r"\b(subscribe|sign in|log in|cookie policy|advertisement|"
+    r"all rights reserved|privacy policy|terms of use|"
+    r"read more|click here|follow us|newsletter|"
+    r"your browser|enable javascript)\b",
+    re.I,
+)
 
-class TextExtractor(HTMLParser):
+
+class ArticleParser(HTMLParser):
+    """Collect paragraph text, not arbitrary page fragments."""
+
     def __init__(self):
-        super().__init__()
-        self.parts = []
+        super().__init__(convert_charrefs=True)
+        self.paragraphs = []
+        self.current = []
+        self.in_paragraph = False
         self.skip_depth = 0
+        self.skip_tags = {
+            "script", "style", "nav", "footer", "header",
+            "aside", "form", "noscript", "svg",
+        }
 
     def handle_starttag(self, tag, attrs):
-        if tag in ("script", "style", "nav", "footer", "header"):
+        if tag in self.skip_tags:
             self.skip_depth += 1
+        if tag == "p" and self.skip_depth == 0:
+            self.in_paragraph = True
+            self.current = []
 
     def handle_endtag(self, tag):
-        if tag in ("script", "style", "nav", "footer", "header"):
+        if tag == "p" and self.in_paragraph:
+            value = clean_text(" ".join(self.current))
+            if value:
+                self.paragraphs.append(value)
+            self.current = []
+            self.in_paragraph = False
+
+        if tag in self.skip_tags:
             self.skip_depth = max(0, self.skip_depth - 1)
 
     def handle_data(self, data):
-        if self.skip_depth == 0:
+        if self.in_paragraph and self.skip_depth == 0:
             value = data.strip()
             if value:
-                self.parts.append(value)
+                self.current.append(value)
 
 
 def clean_text(value):
@@ -90,50 +114,50 @@ def clean_text(value):
     return value.strip()
 
 
-def fetch_url(url, timeout=12):
+def fetch_url(url, timeout=15):
     request = urllib.request.Request(
         url,
         headers={
             "User-Agent": USER_AGENT,
-            "Accept": "text/html,application/rss+xml,*/*",
+            "Accept": "text/html,application/xhtml+xml,*/*",
         },
     )
-
     with urllib.request.urlopen(request, timeout=timeout) as response:
-        return response.read(), response.geturl()
+        return response.read(), response.geturl(), response.headers.get(
+            "Content-Type", ""
+        )
 
 
 def classify_topic(topic):
     value = topic.lower()
 
     if any(x in value for x in [
-        "cricket", "football", "soccer", "tennis",
-        "olympic", "sport", "match", "tournament",
+        "cricket", "football", "soccer", "tennis", "olympic",
+        "sport", "match", "tournament",
     ]):
         return "Sports"
 
     if any(x in value for x in [
         "technology", "artificial intelligence", " ai ",
-        "robot", "smartphone", "google", "apple",
-        "microsoft", "software", "cyber",
+        "robot", "smartphone", "google", "apple", "microsoft",
+        "software", "cyber",
     ]):
         return "Technology & AI"
 
     if any(x in value for x in [
-        "science", "space", "nasa", "research",
-        "discovery", "scientist", "climate",
+        "science", "space", "nasa", "research", "discovery",
+        "scientist", "climate",
     ]):
         return "Science & Discoveries"
 
     if any(x in value for x in [
-        "viral", "internet trend", "meme",
-        "social media", "instagram", "youtube",
+        "viral", "internet trend", "meme", "social media",
+        "instagram", "youtube",
     ]):
         return "Viral Trends"
 
     if any(x in value for x in [
-        "fact", "mystery", "world record",
-        "interesting", "amazing",
+        "fact", "mystery", "world record", "interesting", "amazing",
     ]):
         return "Interesting Facts"
 
@@ -149,13 +173,10 @@ def read_topics():
         return []
 
     topics = []
-
     for line in lines:
         match = re.match(r"^\s*\d+[\.\)]\s+(.+)", line)
-
         if match:
             topic = clean_text(match.group(1))
-
             if len(topic) >= 3:
                 topics.append(topic)
 
@@ -171,18 +192,17 @@ def get_headlines(topic):
     )
 
     try:
-        data, _ = fetch_url(url)
+        data, _, _ = fetch_url(url)
         root = ET.fromstring(data)
     except Exception as error:
         print("RSS error:", topic, error)
         return []
 
     stories = []
-
     for item in root.findall(".//item"):
         title = clean_text(item.findtext("title", ""))
         description = clean_text(item.findtext("description", ""))
-        link = item.findtext("link", "")
+        link = (item.findtext("link", "") or "").strip()
         pub_date = item.findtext("pubDate", "")
 
         source_element = item.find("source")
@@ -194,13 +214,8 @@ def get_headlines(topic):
 
         if not title or not link:
             continue
-
-        if SKIP_PATTERN.search(title):
+        if SKIP_PATTERN.search(title) or PREVIEW_PATTERN.search(title):
             continue
-
-        if PREVIEW_PATTERN.search(title):
-            continue
-
         if not EVENT_PATTERN.search(title):
             continue
 
@@ -214,34 +229,43 @@ def get_headlines(topic):
             "article_url": link,
         })
 
-    return stories[:8]
+    return stories[:10]
 
 
 def meaningful_words(text):
     words = re.findall(r"[a-z0-9]+", text.lower())
-
     return {
         word for word in words
         if len(word) > 3 and word not in STOP_WORDS
     }
 
 
+def title_similarity(title_a, title_b):
+    words_a = meaningful_words(title_a)
+    words_b = meaningful_words(title_b)
+
+    if not words_a or not words_b:
+        return 0.0
+
+    intersection = len(words_a & words_b)
+    union = len(words_a | words_b)
+    return intersection / union if union else 0.0
+
+
 def find_story_group(headlines):
+    """
+    Strict grouping: compare each headline with the first headline
+    in a group. This avoids loose, chain-based keyword clustering.
+    """
     groups = []
 
     for story in headlines:
-        words = meaningful_words(story["title"])
         placed = False
-
         for group in groups:
-            group_words = set()
-
-            for existing in group:
-                group_words |= meaningful_words(existing["title"])
-
-            overlap = len(words & group_words)
-
-            if overlap >= 2:
+            similarity = title_similarity(
+                story["title"], group[0]["title"]
+            )
+            if similarity >= 0.42:
                 group.append(story)
                 placed = True
                 break
@@ -255,78 +279,72 @@ def find_story_group(headlines):
 
 def extract_article_text(url):
     try:
-        data, final_url = fetch_url(url, timeout=15)
+        data, final_url, content_type = fetch_url(url, timeout=18)
 
-        content_type = ""
-        # The response may be HTML or another format.
-        # HTML extraction is attempted only on readable text.
-        raw = data.decode("utf-8", errors="ignore")
-
-        if not raw or "<html" not in raw.lower():
+        if "html" not in content_type.lower():
             return "", final_url
 
-        parser = TextExtractor()
+        raw = data.decode("utf-8", errors="ignore")
+        if not raw:
+            return "", final_url
+
+        parser = ArticleParser()
         parser.feed(raw)
 
         paragraphs = []
+        for paragraph in parser.paragraphs:
+            paragraph = clean_text(paragraph)
 
-        for part in parser.parts:
-            text = clean_text(part)
-
-            if len(text) < 55:
+            if len(paragraph) < 65 or len(paragraph) > 1000:
+                continue
+            if BOILERPLATE_PATTERN.search(paragraph):
                 continue
 
-            if len(text) > 1200:
-                continue
+            paragraphs.append(paragraph)
 
-            if re.search(
-                r"(subscribe|sign in|log in|cookie policy|"
-                r"advertisement|all rights reserved|"
-                r"privacy policy|terms of use)",
-                text,
-                re.I,
-            ):
-                continue
-
-            paragraphs.append(text)
-
-        # Remove exact duplicate paragraphs.
+        # Remove duplicate paragraphs while preserving their order.
         paragraphs = list(dict.fromkeys(paragraphs))
-
-        return " ".join(paragraphs[:35]), final_url
+        return " ".join(paragraphs[:45]), final_url
 
     except Exception as error:
-        print("Article extraction failed:", error)
+        print("Article extraction failed:", url, error)
         return "", url
 
 
 def split_sentences(text):
     text = clean_text(text)
-
     pieces = re.split(r"(?<=[.!?])\s+", text)
-
     result = []
 
     for sentence in pieces:
         sentence = sentence.strip()
 
-        if len(sentence.split()) < 8:
+        # Reject fragments and very long blocks.
+        word_count = len(sentence.split())
+        if word_count < 11 or word_count > 65:
             continue
-
-        if len(sentence) > 450:
+        if len(sentence) < 65 or len(sentence) > 450:
             continue
-
-        if re.search(
-            r"(subscribe|click here|read more|"
-            r"sign up|follow us|advertisement)",
-            sentence,
-            re.I,
-        ):
+        if not re.search(r"[.!?]$", sentence):
+            continue
+        if BOILERPLATE_PATTERN.search(sentence):
             continue
 
         result.append(sentence)
 
     return result
+
+
+def is_headline_like(sentence, title):
+    sentence_words = meaningful_words(sentence)
+    title_words = meaningful_words(title)
+
+    if not sentence_words or not title_words:
+        return False
+
+    overlap = len(sentence_words & title_words)
+    ratio = overlap / max(1, len(sentence_words))
+    return ratio >= 0.72 and len(sentence.split()) < 24
 
 
 def sentence_score(sentence, topic_words):
@@ -335,8 +353,7 @@ def sentence_score(sentence, topic_words):
 
     if re.search(r"\d", sentence):
         score += 1
-
-    if len(sentence.split()) > 12:
+    if len(sentence.split()) >= 15:
         score += 1
 
     return score
@@ -344,77 +361,63 @@ def sentence_score(sentence, topic_words):
 
 def collect_facts(group):
     topic_words = set()
-
     for story in group:
         topic_words |= meaningful_words(story["title"])
 
     collected = []
-    seen = set()
+    seen_sentences = set()
+    publishers_with_facts = set()
 
     for story in group:
         article_text, final_url = extract_article_text(story["link"])
-
         story["article_text"] = article_text
         story["article_url"] = final_url
 
+        # No RSS-description fallback: headlines/descriptions alone
+        # are not enough to create a narration draft.
         sentences = split_sentences(article_text)
-
-        if not sentences:
-            # RSS descriptions are used only as a limited fallback.
-            fallback = split_sentences(story["description"])
-            sentences = fallback
 
         ranked = sorted(
             sentences,
-            key=lambda sentence: sentence_score(
-                sentence, topic_words
-            ),
+            key=lambda sentence: sentence_score(sentence, topic_words),
             reverse=True,
         )
 
-        added = 0
-
+        added_for_publisher = 0
         for sentence in ranked:
-            key = re.sub(r"[^a-z0-9]", "", sentence.lower())
-
-            if key in seen:
+            if is_headline_like(sentence, story["title"]):
                 continue
 
-            seen.add(key)
+            key = re.sub(r"[^a-z0-9]", "", sentence.lower())
+            if key in seen_sentences:
+                continue
 
+            seen_sentences.add(key)
             collected.append({
                 "sentence": sentence,
                 "publisher": story["publisher"],
                 "url": story["article_url"],
             })
+            publishers_with_facts.add(story["publisher"])
+            added_for_publisher += 1
 
-            added += 1
-
-            if added >= 3:
+            if added_for_publisher >= 2:
                 break
 
         time.sleep(1)
 
-    return collected
+    return collected, publishers_with_facts
 
 
-def make_script(group, facts):
-    lead = group[0]["title"]
-
-    # Use the actual event headline as the hook.
-    hook = "Here's what happened: " + lead + "."
-
+def make_script(topic, facts):
     selected = []
-    used_words = len(hook.split())
+    used_words = 0
 
     for fact in facts:
         sentence = fact["sentence"]
         word_count = len(sentence.split())
 
-        if sentence in selected:
-            continue
-
-        if used_words + word_count > 105:
+        if used_words + word_count > 95:
             continue
 
         selected.append(sentence)
@@ -423,108 +426,96 @@ def make_script(group, facts):
         if len(selected) >= 4:
             break
 
-    if not selected:
+    if len(selected) < 3 or used_words < 35:
         return None
 
     script = [
-        "HOOK: " + hook,
+        "HOOK: Here are the key details being reported about "
+        + topic + ".",
         "",
         "FACTUAL DETAILS:",
     ]
 
-    for sentence in selected:
-        script.append(sentence)
-
+    script.extend(selected)
     script.extend([
         "",
-        "ENDING: Follow InfoRush for more important updates.",
+        "ENDING: Follow InfoRush for more updates.",
     ])
 
     return "\n".join(script), used_words
 
 
-def create_draft(category, topic, group, facts):
-    result = make_script(group, facts)
+def create_draft(category, topic, group, facts, publishers):
+    # Demand multiple independent publishers and multiple article facts.
+    if len(publishers) < 2 or len(facts) < 3:
+        return None
 
+    result = make_script(topic, facts)
     if not result:
         return None
 
     script, word_count = result
-
-    if word_count < 35:
-        return None
-
-    if len(facts) < 2:
-        return None
-
-    output = []
-
-    output.append("## " + category + ": " + topic)
-    output.append("**Status:** Candidate — human verification required")
-    output.append("")
-    output.append("### Related reports")
+    output = [
+        "## " + category + ": " + topic,
+        "**Status:** Candidate — human verification required",
+        "",
+        "### Related reports",
+    ]
 
     for index, story in enumerate(group, start=1):
-        output.append(
-            str(index) + ". **" + story["title"] + "**"
-        )
-        output.append("- Publisher: " + story["publisher"])
-        output.append("- Published: " + (story["date"] or "Not provided"))
-        output.append("- Article: " + story["article_url"])
-        output.append("")
+        output.extend([
+            str(index) + ". **" + story["title"] + "**",
+            "- Publisher: " + story["publisher"],
+            "- Published: " + (story["date"] or "Not provided"),
+            "- Article: " + story["article_url"],
+            "",
+        ])
 
-    output.append("### Extracted factual sentences")
-
+    output.append("### Article-body sentences extracted")
     for fact in facts:
         output.append("- " + fact["sentence"])
-        output.append(
-            "  - Source: " + fact["publisher"]
-        )
-        output.append(
-            "  - Link: " + fact["url"]
-        )
+        output.append("  - Publisher: " + fact["publisher"])
+        output.append("  - Article: " + fact["url"])
 
-    output.append("")
-    output.append("### Reel script — draft")
-    output.append("**Estimated narration:** " + str(word_count) + " words")
-    output.append("")
-    output.append(script)
-    output.append("")
-    output.append("### Caption")
-    output.append(
-        "What happened in " + topic +
-        "? Here are the reported details. Follow InfoRush for more."
-    )
-    output.append("")
-    output.append("### Hashtags")
-    output.append(
-        "#InfoRush #NewsUpdate #DiscoverMore #LatestUpdates"
-    )
-    output.append("")
-    output.append("### Human verification checklist")
-    output.append("- Open the original articles.")
-    output.append("- Confirm that all reports describe the same event.")
-    output.append("- Verify every name, number, date and quotation.")
-    output.append("- Check whether the story has been corrected or updated.")
-    output.append("- Remove any sentence that cannot be confirmed.")
-    output.append("- Approve the final narration before publishing.")
-    output.append("")
-    output.append("---")
-    output.append("")
+    output.extend([
+        "",
+        "### Reel script — draft",
+        "**Estimated narration:** " + str(word_count) + " words",
+        "",
+        script,
+        "",
+        "### Caption",
+        "Here are the reported details about " + topic
+        + ". Check the original sources for context. "
+        + "Follow InfoRush for more.",
+        "",
+        "### Hashtags",
+        "#InfoRush #NewsUpdate #DiscoverMore #LatestUpdates",
+        "",
+        "### Human verification checklist",
+        "- Open each original publisher article.",
+        "- Confirm that every article covers the same specific event.",
+        "- Verify every name, number, date and quotation.",
+        "- Check whether any article has been corrected or updated.",
+        "- Remove any detail that cannot be independently confirmed.",
+        "- Approve the final narration before publishing.",
+        "",
+        "---",
+        "",
+    ])
 
     return "\n".join(output)
 
 
 def main():
     topics = read_topics()
-
     now = datetime.now(timezone.utc)
 
     report = [
         "# InfoRush Content Drafts",
         "Generated: " + now.strftime("%Y-%m-%d %H:%M:%S UTC"),
         "",
-        "Free RSS and article-text extraction. "
+        "Free RSS discovery and publisher article-text extraction.",
         "These are research candidates, not independently verified news.",
         "",
     ]
@@ -534,13 +525,11 @@ def main():
 
     category_order = CATEGORIES[:]
     rotation = now.timetuple().tm_yday % len(category_order)
-    category_order = (
-        category_order[rotation:] + category_order[:rotation]
-    )
+    category_order = category_order[rotation:] + category_order[:rotation]
 
-    selected_categories = set()
     selected_count = 0
     skipped_count = 0
+    attempted_count = 0
 
     for category in category_order:
         if selected_count >= 2:
@@ -549,56 +538,65 @@ def main():
         for topic in topics:
             if classify_topic(topic) != category:
                 continue
-
             if SKIP_PATTERN.search(topic):
                 continue
 
+            attempted_count += 1
             headlines = get_headlines(topic)
 
             if len(headlines) < 2:
-                continue
-
-            groups = find_story_group(headlines)
-
-            if not groups or len(groups[0]) < 2:
-                continue
-
-            group = groups[0]
-
-            facts = collect_facts(group)
-
-            draft = create_draft(
-                category, topic, group, facts
-            )
-
-            if not draft:
                 skipped_count += 1
                 continue
 
-            report.append(draft)
-            selected_categories.add(category)
-            selected_count += 1
+            groups = find_story_group(headlines)
+            usable_groups = [group for group in groups if len(group) >= 2]
 
-            print("Selected:", topic)
+            if not usable_groups:
+                skipped_count += 1
+                continue
 
-            break
+            # Try the strongest groups one by one. Do not merge them.
+            draft_created = False
+            for group in usable_groups[:3]:
+                facts, publishers = collect_facts(group)
+                draft = create_draft(
+                    category, topic, group, facts, publishers
+                )
 
-    report.append("")
-    report.append("## Run summary")
-    report.append("- Drafts created: " + str(selected_count))
-    report.append("- Stories skipped for insufficient information: " + str(skipped_count))
-    report.append("")
-    report.append(
-        "Important: Similar headlines do not prove accuracy. "
-        "Article extraction can fail, RSS descriptions may be incomplete, "
-        "and all scripts require human verification."
-    )
+                if draft:
+                    report.append(draft)
+                    selected_count += 1
+                    draft_created = True
+                    print("Selected:", topic)
+                    break
+
+            if not draft_created:
+                skipped_count += 1
+
+            if selected_count >= 2:
+                break
+
+    report.extend([
+        "",
+        "## Run summary",
+        "- Drafts created: " + str(selected_count),
+        "- Topics attempted: " + str(attempted_count),
+        "- Topics skipped for insufficient article information: "
+        + str(skipped_count),
+        "",
+        "Important: This program uses free RSS discovery and basic "
+        "publisher-page extraction. It does not independently verify "
+        "facts, understand context, or generate AI-written summaries. "
+        "Publisher pages may block extraction or provide incomplete text. "
+        "If information is insufficient, the topic is skipped.",
+    ])
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
         file.write("\n".join(report))
 
     print("InfoRush content report created.")
     print("Drafts:", selected_count)
+    print("Topics attempted:", attempted_count)
     print("Skipped:", skipped_count)
 
 
