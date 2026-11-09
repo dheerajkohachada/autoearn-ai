@@ -1,10 +1,10 @@
+
 import re
 import html
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
-from collections import Counter
 
 INPUT_FILE = "trend_report.md"
 OUTPUT_FILE = "content_drafts.md"
@@ -48,12 +48,28 @@ SKIP_PATTERN = re.compile(
     re.IGNORECASE
 )
 
+PREVIEW_PATTERN = re.compile(
+    r"live streaming|where to watch|when and where|live telecast|"
+    r"schedule|fixtures|how to watch|tv channel|broadcast|"
+    r"match preview|live coverage",
+    re.IGNORECASE
+)
+
+EVENT_PATTERN = re.compile(
+    r"\b(won|wins|win|beat|beats|defeated|defeats|lost|loses|loss|"
+    r"qualified|qualifies|advanced|advances|eliminated|scored|"
+    r"announced|launched|discovered|approved|signed|resigned|"
+    r"arrested|acquired|released|appointed|elected|died|"
+    r"injured|opened|closed|reported|revealed|confirmed|"
+    r"banned|selected|reached|surpassed|breaks|broke)\b",
+    re.IGNORECASE
+)
+
 STOP_WORDS = set("""
 the a an and or but of to in on at for from by with is are was were
 be been being this that these those as it its after before over under
 about into than then who what when where why how says said report
 reports according latest update updates news today live watch
-schedule result results team teams match tournament asia cup
 """.split())
 
 
@@ -111,8 +127,10 @@ def read_topics():
 
 def get_headlines(topic):
     query = urllib.parse.quote(topic)
+
     url = (
-        "https://news.google.com/rss/search?q=" + query
+        "https://news.google.com/rss/search?q="
+        + query
         + "&hl=en-US&gl=US&ceid=US:en"
     )
 
@@ -168,116 +186,117 @@ def meaningful_words(title, topic):
 
 def find_story_group(headlines, topic):
     """
-    Find headlines with overlapping specific details.
-    This is only an automated similarity check, not fact verification.
+    Filter out previews and viewing information.
+    Group event headlines with overlapping specific words.
+    This does not independently verify facts.
     """
 
-    scored = []
+    candidates = []
 
     for headline in headlines:
-        headline["keywords"] = meaningful_words(
-            headline["title"], topic
-        )
+        title = headline["title"]
 
-    for first in headlines:
+        if PREVIEW_PATTERN.search(title):
+            continue
+
+        if not EVENT_PATTERN.search(title):
+            continue
+
+        headline["keywords"] = meaningful_words(title, topic)
+        candidates.append(headline)
+
+    best_group = []
+
+    for first in candidates:
         group = [first]
 
-        for second in headlines:
+        for second in candidates:
             if first is second:
                 continue
 
             overlap = first["keywords"] & second["keywords"]
 
-            if len(overlap) >= 1:
+            if len(overlap) >= 2:
                 group.append(second)
 
-        if len(group) > len(scored):
-            scored = group
-
-    # Require at least two headlines with some specific overlap.
-    if len(scored) < 2:
-        return []
+        if len(group) > len(best_group):
+            best_group = group
 
     unique = []
     seen = set()
 
-    for item in scored:
+    for item in best_group:
         if item["link"] not in seen:
             seen.add(item["link"])
             unique.append(item)
 
-    return unique[:4]
+    return unique[:4] if len(unique) >= 2 else []
 
 
 def create_draft(category, topic, headlines):
     lines = []
 
-    lines.append("# " + category + ": " + topic)
+    lines.append("## " + category + ": " + topic)
     lines.append("")
-    lines.append("**Story status:** Candidate — manual verification required")
+    lines.append("**Status:** Candidate — verify before publishing")
     lines.append("")
-    lines.append("## Related research headlines")
+    lines.append("### Related event headlines")
     lines.append("")
 
     for index, item in enumerate(headlines, 1):
-        lines.append(
-            f"{index}. **{item['title']}**"
-        )
+        lines.append(f"{index}. **{item['title']}**")
         lines.append(f"   - Publisher: {item['source']}")
-        lines.append(f"   - Date: {item['date'] or 'Not listed'}")
-        lines.append(f"   - Link: {item['link']}")
+        lines.append(f"   - Published: {item['date'] or 'Not listed'}")
+        lines.append(f"   - Source: {item['link']}")
         lines.append("")
 
-    lines.append("## 30–45 second Reel script draft")
+    lines.append("### Reel script — 30 to 45 seconds")
     lines.append("")
     lines.append(
-        "**HOOK:** A developing story in " + category
-        + " is attracting attention."
+        "**HOOK:** A major update is attracting attention in "
+        + category + "."
     )
     lines.append("")
     lines.append(
-        "**INTRODUCTION:** The story concerns: [Insert the exact "
-        "event after checking the sources]."
+        "**WHAT HAPPENED:** [State the specific confirmed event, "
+        "including the people or organisations involved.]"
     )
     lines.append("")
     lines.append(
-        "**MAIN UPDATE:** [Explain what happened, who is involved, "
-        "where it happened and when. Use only confirmed details.]"
+        "**KEY DETAILS:** [Add confirmed figures, dates, location "
+        "and important developments.]"
     )
     lines.append("")
     lines.append(
-        "**WHY IT MATTERS:** [Explain the confirmed significance "
-        "in one or two simple sentences.]"
+        "**WHY IT MATTERS:** [Explain the verified significance "
+        "in simple English.]"
     )
     lines.append("")
     lines.append(
-        "**ENDING:** Follow InfoRush for more updates, technology "
-        "and interesting discoveries."
+        "**ENDING:** Follow InfoRush for more important updates."
     )
     lines.append("")
-    lines.append("## Caption")
+    lines.append("### Caption")
     lines.append("")
     lines.append(
-        "A closer look at this developing story: "
-        + topic + ". Follow InfoRush for more."
+        "Here is the latest update on " + topic
+        + ". Follow InfoRush for more."
     )
     lines.append("")
-    lines.append("## Hashtags")
+    lines.append("### Hashtags")
     lines.append("")
-    tag = re.sub(r"[^a-zA-Z0-9]", "", category.title().replace("&", ""))
     lines.append(
-        "#InfoRush #" + tag + " #LatestNews #Trending "
-        "#DiscoverMore"
+        "#InfoRush #LatestNews #Trending #DiscoverMore"
     )
     lines.append("")
-    lines.append("## Before publishing")
+    lines.append("### Verification checklist")
     lines.append("")
-    lines.append("- [ ] Confirm that all headlines describe the same event.")
-    lines.append("- [ ] Read the original source articles.")
-    lines.append("- [ ] Confirm names, dates, locations and numbers.")
-    lines.append("- [ ] Check for corrections or newer updates.")
+    lines.append("- [ ] Confirm both headlines describe the same event.")
+    lines.append("- [ ] Open and read the original articles.")
+    lines.append("- [ ] Verify names, dates, numbers and locations.")
+    lines.append("- [ ] Check for newer developments or corrections.")
     lines.append("- [ ] Add only facts supported by reliable sources.")
-    lines.append("- [ ] Review the final script before recording.")
+    lines.append("- [ ] Review the final script before publishing.")
     lines.append("")
     lines.append("---")
     lines.append("")
@@ -292,8 +311,8 @@ def main():
         print("No suitable categorized topics found.")
         return
 
-    # Rotate category priority each day.
     categories = list(CATEGORIES.keys())
+
     day_number = datetime.now(timezone.utc).timetuple().tm_yday
     shift = day_number % len(categories)
     categories = categories[shift:] + categories[:shift]
@@ -312,8 +331,10 @@ def main():
 
         for candidate in candidates[:3]:
             headlines = get_headlines(candidate["topic"])
+
             story_group = find_story_group(
-                headlines, candidate["topic"]
+                headlines,
+                candidate["topic"]
             )
 
             if len(story_group) >= 2:
@@ -322,6 +343,7 @@ def main():
                     "topic": candidate["topic"],
                     "headlines": story_group
                 })
+
                 used_categories.add(category)
                 break
 
@@ -332,16 +354,17 @@ def main():
             "%Y-%m-%d %H:%M:%S UTC"
         ),
         "",
-        "These are candidate stories. Similarity matching does not "
-        "prove that reports describe the same event. Verify every "
-        "story manually before publishing.",
+        "Automated research candidates only. Headline similarity "
+        "does not establish that reports describe the same event "
+        "or prove their accuracy.",
         ""
     ]
 
     if not selected:
         output.append(
-            "No story had enough related headlines today. "
-            "No Reel draft was generated. Try again later."
+            "No story passed the current headline filters. "
+            "No Reel draft was generated. This is preferable "
+            "to publishing an unrelated or misleading story."
         )
     else:
         output.append(
