@@ -1,52 +1,52 @@
 # InfoRush Trending Topics
-Updated: 2026-11-09 18:50:18.399701 UTC
+Updated: 2026-11-09 19:06:31.792330 UTC
 
 These are trend candidates, not verified news.
 
 ## India
-1. campus drivers (2026)
-2. अमृता खानविलकर
-3. বৃহস্পতি
-4. pawan kalyan divorce
-5. u19 asia cup cricket
-6. भारत न्यूजीलैंड वनडे सीरीज
-7. james gunn
-8. six
-9. ibps rrb po prelims admit card download
-10. জ্যোতিষশাস্ত্র
+1. wainwright
+2. new year
+3. new year 2026
+4. brad pitt
+5. ps5 pro
+6. campus drivers (2026)
+7. अमृता खानविलकर
+8. বৃহস্পতি
+9. pawan kalyan
+10. u19 asia cup cricket
 
 ## United States
-1. ap top 25 basketball
-2. davon godchaux
-3. princess of wales
-4. college basketball rankings
-5. frío
-6. clayface box office
-7. jamal musiala
-8. ncis origins season 3 ending
-9. ozempic zepbound eye risk warnings
-10. dianna russini
+1. fall out boy tour
+2. supper mario broth
+3. mike tomlin dallas cowboys coaching rumors
+4. activision
+5. andre cisco
+6. ahmed moor
+7. pawan kalyan
+8. davon godchaux
+9. princess of wales
+10. college basketball rankings
 
 ## United Kingdom
-1. nationwide black friday payment warning
-2. ricky martin
-3. activision
-4. itn
-5. ricky wilson
-6. ftse 100 index
-7. rishi sunak
-8. bt
-9. taxpayers
-10. botoşani - oțelul
+1. dover athletic
+2. guiseley afc
+3. afc fylde
+4. wimborne
+5. itn news
+6. itchen bridge
+7. frankie cooper mobland
+8. crewe alexandra
+9. home and away spoilers
+10. nancy xu
 
 ## Canada
-1. davon godchaux
-2. government debt
-3. johnny depp
-4. joey saputo
-5. carly rae jepsen
-6. james gunn
-7. sarah huckabee sanders
-8. weekly horoscope
-9. nbc sunday night football
-10. stock markets
+1. playstation handheld
+2. stock market futures
+3. andre cisco
+4. davon godchaux
+5. government debt
+6. johnny depp
+7. joey saputo
+8. carly rae jepsen
+9. james gunn
+10. sarah huckabee sanders
