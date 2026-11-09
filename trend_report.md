@@ -1,5 +1,5 @@
 # InfoRush Trending Topics
-Updated: 2026-11-09 19:13:56.470269 UTC
+Updated: 2026-11-09 19:21:34.193621 UTC
 
 These are trend candidates, not verified news.
 
@@ -40,13 +40,13 @@ These are trend candidates, not verified news.
 10. itn news
 
 ## Canada
-1. stock market futures
-2. playstation handheld
-3. andre cisco
-4. davon godchaux
-5. government debt
-6. johnny depp
-7. joey saputo
-8. carly rae jepsen
-9. james gunn
-10. sarah huckabee sanders
+1. fable 5.2
+2. pont jacques cartier
+3. stock market futures
+4. playstation handheld
+5. andre cisco
+6. nfl trades
+7. davon godchaux
+8. government debt
+9. johnny depp
+10. joey saputo
