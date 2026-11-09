@@ -3,6 +3,7 @@ import os
 import re
 import xml.etree.ElementTree as ET
 import urllib.request
+import urllib.parse
 from datetime import datetime
 
 INPUT_FILE = "trend_report.md"
