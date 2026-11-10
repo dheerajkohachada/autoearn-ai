@@ -1,5 +1,5 @@
 # InfoRush Trending Topics
-Updated: 2026-11-10 09:43:04.410833 UTC
+Updated: 2026-11-10 09:47:53.735237 UTC
 
 These are trend candidates, not verified news.
 
@@ -28,8 +28,8 @@ These are trend candidates, not verified news.
 10. 黄乐
 
 ## United Kingdom
-1. armistice day
-2. izzy neale
+1. izzy neale
+2. armistice day
 3. chris packham
 4. josh o'connor
 5. jet blast
