@@ -1,31 +1,31 @@
 # InfoRush Trending Topics
-Updated: 2026-11-10 09:33:58.853695 UTC
+Updated: 2026-11-10 09:43:04.410833 UTC
 
 These are trend candidates, not verified news.
 
 ## India
-1. mohit ulva
-2. weather kolkata
-3. రిజర్వేషన్లు
-4. ধোঁয়াশা
-5. arpita singh
-6. salma khan
-7. நவம்பர் 10
-8. ശോഭന
-9. लॉरेंस बिश्नोई
-10. एक्शन
+1. netflix stranger things
+2. bbc news tamil
+3. weather kolkata
+4. mohit ulva
+5. विमानन
+6. రిజర్వేషన్లు
+7. arpita singh
+8. ধোঁয়াশা
+9. salma khan
+10. நவம்பர் 10
 
 ## United States
-1. shilo sanders
-2. chicago heights
-3. stargate sg-1
-4. bob boone
-5. empresario
-6. cox
-7. 黄乐
-8. when is black friday 2026
-9. theo james
-10. jemima goldsmith
+1. earls kitchen bar surcharge reaction
+2. week 10 waiver wire
+3. red
+4. shilo sanders
+5. chicago heights
+6. stargate sg-1
+7. bob boone
+8. empresario
+9. cox
+10. 黄乐
 
 ## United Kingdom
 1. armistice day
@@ -44,9 +44,9 @@ These are trend candidates, not verified news.
 2. toronto blue jays
 3. news today
 4. taylor swift
-5. système de paiement
-6. cra
-7. macklin celebrini
-8. air france
-9. brandon williams
-10. weather forecast snow storm
+5. canada china joint financial statement
+6. système de paiement
+7. cra
+8. macklin celebrini
+9. air france
+10. brandon williams
