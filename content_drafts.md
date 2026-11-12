@@ -1,83 +1,87 @@
 # InfoRush Content Drafts
-Generated: 2026-11-11 04:24:46 UTC
+Generated: 2026-11-12 04:24:50 UTC
 
 Free RSS research and article extraction.
 All drafts are candidates, not verified news.
 
-## World News: sensex today
+## Interesting Facts: amazing race
 **Status:** MULTI-SOURCE CANDIDATE — VERIFY BEFORE PUBLISHING
 
 **Important:** This is an automated research draft, not confirmed news.
 
 ### Related reports
-1. **Stock Market LIVE Updates, Sensex Today: Sensex Jumps 1,100 Points As Oil Eases, Asian Markets Rally - NDTV**
-- Publisher: NDTV
-- Published: Wed, 11 Nov 2026 04:07:56 GMT
-- Article: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUGgxN1hZbkZJMjNYWWNTRTFzc0J4TElfcDB1eTdDOEljVDh6LWc2eWJ6R216c3k2UThnVUtzVDlicGxpN2hZR3pKY0poeHoxNFY1R001RWRhdEE3QWZYQnlteU5CeUVaczNOYWN5VU5Pd2w4ZUo2SkVGV2pFOE1xa3M0U1diNmJjemNOdGplYllJeEp3SDhNQ0tIM1hJWW5nMFd0cVlDbWlhbFhkZEtKWUdZcGJNSHZZSUdNSDFRWmhybWZKZVZYSzhZdGx4bU1N0gHYAUFVX3lxTE40YUhFWmNXZVJqRWFwenVtMWN3N2RfSUxIOUdBZXZqQnp5NHNqNGVQcGlVSlR0UnBDeWNRRm03dVR1UV9hQllvLVIyYTM0dHZXdUc5eElxam9XaTY1aHdKaWthMmRXOXZUcGwwSEs2R1VMa1BkWTdoNEZ2UzM1SjhVWXY4M25HeFBvM2txbWQzdkpBMEZJUzMxZHFEZnloODJQSXUzOEIyd29xSXl3M2NUcHBnVGk2VGZ1RHItTlVwVmRNSEwwYXUza0tIdjJaQ29SNDlDdTdFLQ?oc=5&hl=en-US&gl=US&ceid=US:en
+1. **Who Went Home on 'The Amazing Race 39' Tonight? Another U-Turn Takes Out the Frontrunners! - Parade Magazine**
+- Publisher: Parade Magazine
+- Published: Thu, 12 Nov 2026 04:00:00 GMT
+- Article: https://news.google.com/rss/articles/CBMilgFBVV95cUxNc2t1Z3hIY1g1RmFYeGI0NElsUGhrcDUxSE9zRWlfZWhVQ29xenJIdHNNN3lST21JR1R5MllFN0JRYTVhenVvelNiQ2RwMUY2TVB2MjVvNVc3ZEI4N3NvVVZSTEg0aXF5UEg4cG9LLWV1UDRwVnBWU1c2NFdyNFV5bDZFRHFBb0xKUU9YYjF5RHZwcW40UFE?oc=5&hl=en-US&gl=US&ceid=US:en
 
-2. **Sensex Today | Stock Market LIVE Updates: Nifty at 25,350, Sensex jumps 1,20 pts; IndiGo, M&M, Axis Bank top gainers - Moneycontrol.com**
-- Publisher: Moneycontrol.com
-- Published: Wed, 11 Nov 2026 04:22:48 GMT
-- Article: https://news.google.com/rss/articles/CBMiowJBVV95cUxNZEpHUTdiNTRublo5US0xTmVuOFFFWDczV0oycFBIRm9OMmRpVHo0b2Z1MHFkTl81aXZMbEdOSEV6N3hWTVlaUmM4ZzQyVzRiYjlvazUycUY2TW5EZVU1NHhqb0NUMU13OXpqd1pMLS0tbk92UXFyVFZJT1BBcXZrb1BGclItQ2hsWTd6Z2RJU2E0R2ppNWFqNkp4QThHUy1McUt2NW1HYW1DY0d0UGcyRnUycnZZcmhxWVZsUFQ3b0NhZzVMS1RUQ3RkTjFrSmhqbUVETDZZMklsMFpUMGltNGhacUVEdjNSR3dRNE8wYTFwTlU2Q0lsRG1wdG5nV0dXWDZYSlhUd3VJVTRNckVMeGI5eVFZM3diMWgyVUNqR2RiVFnSAagCQVVfeXFMUHRqUFRUR1RVRXdSdnBHbmtnV2hRRTdVWTRKOTV3bzBibDBLTTRfTzRrQ0o1Y0JnN2J4UXpKclQ3MXRXTlJUTlV5ckZ2UzFfd1VXUUtvNjJWNlc5ZjJaTnZpczZFeXltRVNRcVJUSW5Dei1zVGNwbGxpN3JzR1pzQ1hGRXpRdlVNX3g2X3daT0Q3MDg2OWNZVWFoaXZiMTJpX1lBc2xxSnJfNXd2bDNDTm5HSHE3ZGdBNG1sNEhySHpCVDAwYXJrSng4R2lnUWhzQWNCT0U4bGpXSGIzN2FqeGFkLWR0Q1ZPYkxGdGw3T2tIM25LaFY4NWpyM3RHQjZGbGIybGtUSXlic19uYVVoVTY5ZmVMTS1qME1EYWEwcEE1X0gxQVZCVDc?oc=5&hl=en-US&gl=US&ceid=US:en
+2. **LIVE: Who was eliminated on 'The Amazing Race' tonight'? Who went home? - Bergen Record**
+- Publisher: Bergen Record
+- Published: Thu, 12 Nov 2026 03:07:00 GMT
+- Article: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0RfM09iSzBSN1ByaW5kYmJuelloSzJLa0lCUmlsaFlOaGxNX1AyYVlYTTF3OEU2MEhZc1pydktDeDdpWWZfMzBBVEVscGpiaEpJY1BiY1lpY2tEM0kxZ21Sb1haX19wbWZzSjZKXy1oTzg2RWpzN2VScWNBbDhlajJjOW83R21PZFlaUEVmb01obUc5cE1OWWJCdGhuc19Ya1QxYnpLTGdyZ0lMb3NKRl9uWGRfay1u?oc=5&hl=en-US&gl=US&ceid=US:en
 
-3. **Stock Market Today: Sensex Jumps Over 1,100 Points, Nifty 50 Opens Above 25,300; IndiGo, M&M, Asian Paints Top Gainers - NDTV Profit**
-- Publisher: NDTV Profit
-- Published: Wed, 11 Nov 2026 03:45:41 GMT
-- Article: https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeTYtODdweFhZS2g5dDJRMGlWWl91dFozRmRBdTFSeDE0Ty1waXgtRUNVQUllVEl0dGpFMjYzZE5QeFU3Mk9KZ0c1OUI2cXYwUW1OcS0xWkNQR1J6WC16SUhsdXJZWjJKNGU5cXVhSmoxRllBQzZkZU5PbDRLMEtDUnhJV2hmU185X2pmY2ExWWpXeWliSzhJRFJWb1BDclN1dS1zXzQwNHpJamZWUnZaOWdiM0NBMi1WRW16YjNtQV8tQW9VU1Vtc3dXXzZRdFBNcGltV2o5UjV4eUN3ZEY0WERyZXhoWG_SAe8BQVVfeXFMTS1nc2N5SjYyWml1NzBGVHJzcUc1dFZlMmRHZFFxTGhNSlpzX0NMN3V6d2U3c09HSHJ2eUlfdXdnSVJfTE9uZ1dPWmMza0p3TEE3Uld1MGZkWUQyVG15M0ZvNGppS0hBQVljcTRURDJSZUV4V0hER21aRXZMMDlwaU9yaGhpcWc3NHJsdE9STm1Ja2FsTHV6aFRYY3dpc2tzQTFRR2g4dHdWSEtsNE1JZnhmdlY3dGpWbUtzbkUxZWw4V3hYS1ZTUUs1LUtCU3htbWZleVg1VTBJM1d2eURQUmRiZnQ2TktzRGFYWTQ2NE0?oc=5&hl=en-US&gl=US&ceid=US:en
+3. **Amazing Race 39 Contestants Daisha and Dalton Share Behind-the-Scenes Look at Episode 7 in Sri Lanka - Calhoun Journal**
+- Publisher: Calhoun Journal
+- Published: Fri, 06 Nov 2026 17:44:29 GMT
+- Article: https://news.google.com/rss/articles/CBMixwFBVV95cUxPcGhLbkNhcVU0VnZBRHVkWHh0aVVLN1dvSnZ0QXZEM1haZ09adGF5UjczWXU3VmpBR2RIMmhmcXE5ejZfSWxqZHUwZTZOUDhMM0VWc1NsVkdDS3NxMjVQOXVxODVJeHIzel9GaFlfbFd3MnFEdmhudFF4Z29id29pZ1VvQzEzOXdBYll5RnUyMEhhSkw5UWhIaHphSU1JVU5xTXc5VXQ1dUNDd01jcWI3ek5ITHpOeXdpbWszMm1JOGdxTGM1Q1ow?oc=5&hl=en-US&gl=US&ceid=US:en
 
-4. **Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Flat - شبكة تواصل الإخبارية**
-- Publisher: شبكة تواصل الإخبارية
-- Published: Wed, 11 Nov 2026 03:18:02 GMT
-- Article: https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Nck1QN3ZxUGpERGhRUnd1ZVdEUHEwRnU3RlpmZDltUDZYa0Q3TFpLWnkzMEJjMTlIaGdCLVdldm10b25WMEJEMmJlUEtvNE5TNTJR?oc=5&hl=en-US&gl=US&ceid=US:en
+4. **‘The Amazing Race’: Doug & Dylan Explain Roadblock Struggles & Gatekeeping Clue Box Directions - TV Insider**
+- Publisher: TV Insider
+- Published: Fri, 06 Nov 2026 18:37:17 GMT
+- Article: https://news.google.com/rss/articles/CBMipwFBVV95cUxOZGtMVFp2cTk0X3hqUWlIc2EtS2dKQXhBd3NFRllsZ3l1Z3o3eVpVVmVEYnVvT2c2Q01icTdjWGotamc1Ykw4VnE1S2RBNFFQek11UTY5TDI0Q0pNLUhaQXB3aVFnaWM1Q2sxOG80WTRBTjkteDJJRjZuQ2hoR0VZRkx4bTVVVkZaeVFIZnE0T1RVYy0zT0xSRVUyNEVhbkpSdEJhbTl5aw?oc=5&hl=en-US&gl=US&ceid=US:en
 
-5. **Stock Market Today: Sensex, Nifty Surge 1.7% at Pre-Open - HDFC Sky**
-- Publisher: HDFC Sky
-- Published: Wed, 11 Nov 2026 03:40:40 GMT
-- Article: https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmZXRmphYkxQYnIxT3ZHMi1xMlBhMkZ5NEhGajFjcTR6bzU5WmFXMDNwbkg3NkREZ18wNkZNbjhDTXNSZ1VzUlYyR0hjWUV4aE5LN3hKNEp0U1U4dF85dHVrZVBMS1NZZk5LcEtUQlN2bXhMQjhuX1lmX2lXZEdjOEs4NGdSc1Rsd0JpM1VGZ1VZMXc5UzFjU28yRQ?oc=5&hl=en-US&gl=US&ceid=US:en
+5. **The Amazing Race Recap: A Double U-Turn Vote Cracks The Race Wide Open - TVLine**
+- Publisher: TVLine
+- Published: Thu, 05 Nov 2026 04:00:00 GMT
+- Article: https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmxydEVwYy02MVhnS0Vjb2ozak9scG4xU1B0eWxXOHZ5bGVJdGdhTmozZXZhZkZBd3pJc2hSSUs5QU9vamY3dEoyYXdUUmg5TE5JQWwyaHF0R21ldnNsZXBuNHNra05NMVVhanlVUmNGNzdlODl5SHVyblgzZWMzS1Y0aVc0cnFwWXN4Z2RibXJDYzVBTXdxZENCUXIxeHZZQUNJcVBndVp3UEhQWm5UWU5LX0I?oc=5&hl=en-US&gl=US&ceid=US:en
 
-6. **Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV**
-- Publisher: NDTV
-- Published: Tue, 10 Nov 2026 01:14:31 GMT
-- Article: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjgxUE5jbWc4X3pleGN0VXRSbGM2REFCQ19GbVVDZ18xS0NSU2JtNFVqZVFGRWZIN1Y3SDVNQW1iVUE3Y0d5QUlpUmNFb3NMYlNScFpsWk1RWm9fVWlHelhLS04zQjZMVlFQcmhRYU1LSUcxVGw3WVVoRFFwQUFhWWd1LUphUkE4RTFPMXBhbmJSeDhPelFQY1RyLW9fa0VRWmhrVVp5QncwLVZFNXVhMVlmR0xsbzB3VGpvVW5tQ0sydE93NzdzRWowSmFWNWV4QmhXN3VB0gHeAUFVX3lxTFBkWmJ3QWxnNjQ2VHgyMDdLOVhfX2RRdEZTTy1ROTZfY3NhY3hsU05OM1phakkxdzNyQWdhTXkzNnQ2b3hYVjF3eGRwYkE5S2txeEtaRFdQRFFZMUM5UG11N1hoTlc3TFZna0x6NVJXR0w2WDltLXNlajJwUVg5OVZTaFY2UXNYVHVQaXFNQVdhX0lLTTktVy1vdmZlVkMxcnlxVG52T2J4SURzTGxVMWxlUnFscFV4cnd0Ykpfb0RqOHBJRS1lZXRrS0FqWVk0MkxpZlE5ZGxzczU3UHJBUQ?oc=5
+6. **‘The Amazing Race’: Doug & Dylan Explain Roadblock Struggles & Gatekeeping Clue Box Directions - IMDb**
+- Publisher: IMDb
+- Published: Fri, 06 Nov 2026 19:17:28 GMT
+- Article: https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MVVREOTRwcWcxQVdZeFM1czc1V2VOb3U0dm1ucVdubVE3bVljSzhDNERhX2dXdjgtb3lJV2pCeUFUNHlLRlRVLW9JSXFGbExPNzNFcE52STRxWTM0TlJCTHAwWl9VQQ?oc=5
 
-7. **Stock Market Today: Massive jump in Sensex, Nifty! ₹4.5 lakh cr wealth added in a few mins - Reasons for bullish party - Livemint**
-- Publisher: Livemint
-- Published: Wed, 11 Nov 2026 04:03:17 GMT
-- Article: https://news.google.com/rss/articles/CBMikwJBVV95cUxPTHpkbnYzaEFFLWxqWWlWekoybUl6Wkg3bDNvektzOXBrakpVNUtGZHAzV005dWZubC1FendXbmxBUEJ0WEMtSDFUVzl2cTJBOVBZdVVndkxMQmVoRUpITmhCQUp4c2pBMHE4aEEtQzBXa0xrcHJCalFlMDRreDg4MF9PeEZzX1ByZ2dmZmNkeVNUemM4MTE0OURDbEJrMXEwOUVUX2ctaC1hMkRpUkdzdkxwOG16VUhtMFBySVdidy1CQjZ1b2xjNng3cjlGRlNqRnk1b1czT0JOa1d2d0FEajJyeThUZEg3dWxuVUdQeXNRaDd4NktENU1zaF85a2wwTkh1d2txODZzYWJ0clgxNWRjWdIBmAJBVV95cUxQRDB4cFlEWUVBWDJhcDZUQ21BZ3dBcWNfcEtPaE1RempXdk03Vm1fNGRfQ2I1M2xzaXA0dmN3bnBhMHlWTlVqd29PMkE1YUZfaWlJNktZZ2toSzNwQjhGQWhsSHB5UGMzb0ZDZm04WldCSlVDS2IyckoyUHZ0akRsYVdENnJ4Skx2X09wU2ZiQWFHdTRic0hvbndkZ3c5NWdzNmdCYjAtU1puZ0JoNTlyRVBhdHE2bXNJaVU4ZWM2UThaSG5ZQXF4ZlNFbFZOUnpocUpVWkFqeUdvU1pYanA4U1k3RXp0WklCZTdKdDh0aVprcWRCOHBCamR6eDY1ZVdLSWhsRjRYSk4tSDNsNXd2MVpNSjZqNTRM?oc=5
+7. **A SHOCKING TWIST SHAKES UP THE RACE AND TEAMS HATCH A PLAN WITH DEVASTATING CONSEQUENCES, ON “THE AMAZING RACE,” WEDNESDAY, NOV. 11 - Paramount Press Express**
+- Publisher: Paramount Press Express
+- Published: Thu, 05 Nov 2026 20:00:00 GMT
+- Article: https://news.google.com/rss/articles/CBMiygJBVV95cUxOazRPX0JIS0xOYTRrel9Hc05UUzE3Uy1oRFN1RnY5TloxeW9MYlBLTmJlM0s2amxTanp6b294LWVpaWhlNV8yNURlc0Y5MEl0M0pueE9qTEM2ZHpFaHVIUG5lZXJmZFNRdEp1cjhncV9GaE9EWXQ3cm53MXB1NWM3UE8xS0RmZEtvYm5HanhZUGRNVnhHcmotM2o0ajJvQUN2QkNtN0U5NHQ2RXQ4NHZNbTB0UGpDRi1GckpDcTIxVkdweDNnR1YyM3RWRDZzX181TzJRaEdnTThGT0ZhczRhSjNkRFVYeFhqb05SSTN3SjUwNHY1dFlXb0FKT2tkY2tZek1lRmFIYVNfelM1SkFzbXUybS03ME55eUFLVDZxdGgydzhubmZXMlJGT3hibUtHbUpXWndLZmpmd25pcWxjN1NHV3p2VmZqU3c?oc=5
 
 ### Extracted information
-- Sensex Today | Stock Market LIVE Updates: Nifty at 25,350, Sensex jumps 1,20 pts; IndiGo, M&M, Axis Bank top gainers Moneycontrol.com
-  - Publisher: Moneycontrol.com
+- Who Went Home on 'The Amazing Race 39' Tonight?
+  - Publisher: Parade Magazine
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMiowJBVV95cUxNZEpHUTdiNTRublo5US0xTmVuOFFFWDczV0oycFBIRm9OMmRpVHo0b2Z1MHFkTl81aXZMbEdOSEV6N3hWTVlaUmM4ZzQyVzRiYjlvazUycUY2TW5EZVU1NHhqb0NUMU13OXpqd1pMLS0tbk92UXFyVFZJT1BBcXZrb1BGclItQ2hsWTd6Z2RJU2E0R2ppNWFqNkp4QThHUy1McUt2NW1HYW1DY0d0UGcyRnUycnZZcmhxWVZsUFQ3b0NhZzVMS1RUQ3RkTjFrSmhqbUVETDZZMklsMFpUMGltNGhacUVEdjNSR3dRNE8wYTFwTlU2Q0lsRG1wdG5nV0dXWDZYSlhUd3VJVTRNckVMeGI5eVFZM3diMWgyVUNqR2RiVFnSAagCQVVfeXFMUHRqUFRUR1RVRXdSdnBHbmtnV2hRRTdVWTRKOTV3bzBibDBLTTRfTzRrQ0o1Y0JnN2J4UXpKclQ3MXRXTlJUTlV5ckZ2UzFfd1VXUUtvNjJWNlc5ZjJaTnZpczZFeXltRVNRcVJUSW5Dei1zVGNwbGxpN3JzR1pzQ1hGRXpRdlVNX3g2X3daT0Q3MDg2OWNZVWFoaXZiMTJpX1lBc2xxSnJfNXd2bDNDTm5HSHE3ZGdBNG1sNEhySHpCVDAwYXJrSng4R2lnUWhzQWNCT0U4bGpXSGIzN2FqeGFkLWR0Q1ZPYkxGdGw3T2tIM25LaFY4NWpyM3RHQjZGbGIybGtUSXlic19uYVVoVTY5ZmVMTS1qME1EYWEwcEE1X0gxQVZCVDc?oc=5&hl=en-US&gl=US&ceid=US:en
-- Stock Market Today: Sensex Jumps Over 1,100 Points, Nifty 50 Opens Above 25,300; IndiGo, M&M, Asian Paints Top Gainers NDTV Profit
-  - Publisher: NDTV Profit
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNc2t1Z3hIY1g1RmFYeGI0NElsUGhrcDUxSE9zRWlfZWhVQ29xenJIdHNNN3lST21JR1R5MllFN0JRYTVhenVvelNiQ2RwMUY2TVB2MjVvNVc3ZEI4N3NvVVZSTEg0aXF5UEg4cG9LLWV1UDRwVnBWU1c2NFdyNFV5bDZFRHFBb0xKUU9YYjF5RHZwcW40UFE?oc=5&hl=en-US&gl=US&ceid=US:en
+- LIVE: Who was eliminated on 'The Amazing Race' tonight'?
+  - Publisher: Bergen Record
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeTYtODdweFhZS2g5dDJRMGlWWl91dFozRmRBdTFSeDE0Ty1waXgtRUNVQUllVEl0dGpFMjYzZE5QeFU3Mk9KZ0c1OUI2cXYwUW1OcS0xWkNQR1J6WC16SUhsdXJZWjJKNGU5cXVhSmoxRllBQzZkZU5PbDRLMEtDUnhJV2hmU185X2pmY2ExWWpXeWliSzhJRFJWb1BDclN1dS1zXzQwNHpJamZWUnZaOWdiM0NBMi1WRW16YjNtQV8tQW9VU1Vtc3dXXzZRdFBNcGltV2o5UjV4eUN3ZEY0WERyZXhoWG_SAe8BQVVfeXFMTS1nc2N5SjYyWml1NzBGVHJzcUc1dFZlMmRHZFFxTGhNSlpzX0NMN3V6d2U3c09HSHJ2eUlfdXdnSVJfTE9uZ1dPWmMza0p3TEE3Uld1MGZkWUQyVG15M0ZvNGppS0hBQVljcTRURDJSZUV4V0hER21aRXZMMDlwaU9yaGhpcWc3NHJsdE9STm1Ja2FsTHV6aFRYY3dpc2tzQTFRR2g4dHdWSEtsNE1JZnhmdlY3dGpWbUtzbkUxZWw4V3hYS1ZTUUs1LUtCU3htbWZleVg1VTBJM1d2eURQUmRiZnQ2TktzRGFYWTQ2NE0?oc=5&hl=en-US&gl=US&ceid=US:en
-- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Flat شبكة تواصل الإخبارية
-  - Publisher: شبكة تواصل الإخبارية
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0RfM09iSzBSN1ByaW5kYmJuelloSzJLa0lCUmlsaFlOaGxNX1AyYVlYTTF3OEU2MEhZc1pydktDeDdpWWZfMzBBVEVscGpiaEpJY1BiY1lpY2tEM0kxZ21Sb1haX19wbWZzSjZKXy1oTzg2RWpzN2VScWNBbDhlajJjOW83R21PZFlaUEVmb01obUc5cE1OWWJCdGhuc19Ya1QxYnpLTGdyZ0lMb3NKRl9uWGRfay1u?oc=5&hl=en-US&gl=US&ceid=US:en
+- Amazing Race 39 Contestants Daisha and Dalton Share Behind-the-Scenes Look at Episode 7 in Sri Lanka Calhoun Journal
+  - Publisher: Calhoun Journal
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Nck1QN3ZxUGpERGhRUnd1ZVdEUHEwRnU3RlpmZDltUDZYa0Q3TFpLWnkzMEJjMTlIaGdCLVdldm10b25WMEJEMmJlUEtvNE5TNTJR?oc=5&hl=en-US&gl=US&ceid=US:en
-- Stock Market Today: Sensex, Nifty Surge 1.7% at Pre-Open HDFC Sky
-  - Publisher: HDFC Sky
+  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPcGhLbkNhcVU0VnZBRHVkWHh0aVVLN1dvSnZ0QXZEM1haZ09adGF5UjczWXU3VmpBR2RIMmhmcXE5ejZfSWxqZHUwZTZOUDhMM0VWc1NsVkdDS3NxMjVQOXVxODVJeHIzel9GaFlfbFd3MnFEdmhudFF4Z29id29pZ1VvQzEzOXdBYll5RnUyMEhhSkw5UWhIaHphSU1JVU5xTXc5VXQ1dUNDd01jcWI3ek5ITHpOeXdpbWszMm1JOGdxTGM1Q1ow?oc=5&hl=en-US&gl=US&ceid=US:en
+- ‘The Amazing Race’: Doug & Dylan Explain Roadblock Struggles & Gatekeeping Clue Box Directions TV Insider
+  - Publisher: TV Insider
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmZXRmphYkxQYnIxT3ZHMi1xMlBhMkZ5NEhGajFjcTR6bzU5WmFXMDNwbkg3NkREZ18wNkZNbjhDTXNSZ1VzUlYyR0hjWUV4aE5LN3hKNEp0U1U4dF85dHVrZVBMS1NZZk5LcEtUQlN2bXhMQjhuX1lmX2lXZEdjOEs4NGdSc1Rsd0JpM1VGZ1VZMXc5UzFjU28yRQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxOZGtMVFp2cTk0X3hqUWlIc2EtS2dKQXhBd3NFRllsZ3l1Z3o3eVpVVmVEYnVvT2c2Q01icTdjWGotamc1Ykw4VnE1S2RBNFFQek11UTY5TDI0Q0pNLUhaQXB3aVFnaWM1Q2sxOG80WTRBTjkteDJJRjZuQ2hoR0VZRkx4bTVVVkZaeVFIZnE0T1RVYy0zT0xSRVUyNEVhbkpSdEJhbTl5aw?oc=5&hl=en-US&gl=US&ceid=US:en
+- The Amazing Race Recap: A Double U-Turn Vote Cracks The Race Wide Open TVLine
+  - Publisher: TVLine
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmxydEVwYy02MVhnS0Vjb2ozak9scG4xU1B0eWxXOHZ5bGVJdGdhTmozZXZhZkZBd3pJc2hSSUs5QU9vamY3dEoyYXdUUmg5TE5JQWwyaHF0R21ldnNsZXBuNHNra05NMVVhanlVUmNGNzdlODl5SHVyblgzZWMzS1Y0aVc0cnFwWXN4Z2RibXJDYzVBTXdxZENCUXIxeHZZQUNJcVBndVp3UEhQWm5UWU5LX0I?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Reel script — draft
-**Estimated narration:** 88 words
+**Estimated narration:** 73 words
 
-HOOK: Here's what happened: Stock Market LIVE Updates, Sensex Today: Sensex Jumps 1,100 Points As Oil Eases, Asian Markets Rally - NDTV.
+HOOK: Here's what happened: Who Went Home on 'The Amazing Race 39' Tonight? Another U-Turn Takes Out the Frontrunners! - Parade Magazine.
 
 REPORTED DETAILS:
-Sensex Today | Stock Market LIVE Updates: Nifty at 25,350, Sensex jumps 1,20 pts; IndiGo, M&M, Axis Bank top gainers Moneycontrol.com
-Stock Market Today: Sensex Jumps Over 1,100 Points, Nifty 50 Opens Above 25,300; IndiGo, M&M, Asian Paints Top Gainers NDTV Profit
-Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Flat شبكة تواصل الإخبارية
-Stock Market Today: Sensex, Nifty Surge 1.7% at Pre-Open HDFC Sky
+Who Went Home on 'The Amazing Race 39' Tonight?
+LIVE: Who was eliminated on 'The Amazing Race' tonight'?
+Amazing Race 39 Contestants Daisha and Dalton Share Behind-the-Scenes Look at Episode 7 in Sri Lanka Calhoun Journal
+‘The Amazing Race’: Doug & Dylan Explain Roadblock Struggles & Gatekeeping Clue Box Directions TV Insider
 
 ENDING: Follow InfoRush for more important updates.
 
 ### Caption
-What happened in sensex today? Here are the reported details. Follow InfoRush for more.
+What happened in amazing race? Here are the reported details. Follow InfoRush for more.
 
 ### Hashtags
 #InfoRush #NewsUpdate #DiscoverMore #LatestUpdates
@@ -94,79 +98,84 @@ What happened in sensex today? Here are the reported details. Follow InfoRush fo
 
 ---
 
-## World News: nse share price
+## World News: melbourne stars vs brisbane heat
 **Status:** MULTI-SOURCE CANDIDATE — VERIFY BEFORE PUBLISHING
 
 **Important:** This is an automated research draft, not confirmed news.
 
 ### Related reports
-1. **Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV**
-- Publisher: NDTV
-- Published: Tue, 10 Nov 2026 01:14:31 GMT
-- Article: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjgxUE5jbWc4X3pleGN0VXRSbGM2REFCQ19GbVVDZ18xS0NSU2JtNFVqZVFGRWZIN1Y3SDVNQW1iVUE3Y0d5QUlpUmNFb3NMYlNScFpsWk1RWm9fVWlHelhLS04zQjZMVlFQcmhRYU1LSUcxVGw3WVVoRFFwQUFhWWd1LUphUkE4RTFPMXBhbmJSeDhPelFQY1RyLW9fa0VRWmhrVVp5QncwLVZFNXVhMVlmR0xsbzB3VGpvVW5tQ0sydE93NzdzRWowSmFWNWV4QmhXN3VB0gHeAUFVX3lxTFBkWmJ3QWxnNjQ2VHgyMDdLOVhfX2RRdEZTTy1ROTZfY3NhY3hsU05OM1phakkxdzNyQWdhTXkzNnQ2b3hYVjF3eGRwYkE5S2txeEtaRFdQRFFZMUM5UG11N1hoTlc3TFZna0x6NVJXR0w2WDltLXNlajJwUVg5OVZTaFY2UXNYVHVQaXFNQVdhX0lLTTktVy1vdmZlVkMxcnlxVG52T2J4SURzTGxVMWxlUnFscFV4cnd0Ykpfb0RqOHBJRS1lZXRrS0FqWVk0MkxpZlE5ZGxzczU3UHJBUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+1. **MLSW vs BRHW, 19th Match, Womens Big Bash League 2026 - Live Stream - Cricbuzz**
+- Publisher: Cricbuzz
+- Published: Thu, 12 Nov 2026 04:16:15 GMT
+- Article: https://news.google.com/rss/articles/CBMipgFBVV95cUxNMHNmTFpXWHduZWdZZnR5dWp4MlREbVl4WlRoSXVVVFl3T2xtU1JNLWpyNk1YWTU1VmNGbGp4cmVqdWlYWGU4UXU4c096N3ZyUGlkejNpd2JUNVVhUF90dXJKblk4dVZkd2RLUVlPdXBiaFVUdk9oVVdRUEJ2RVRPNGYwSTZtQW42VWUwZHJVbXk3Tm9jM05zeTBLanJrUUhoYURNQlpn?oc=5&hl=en-US&gl=US&ceid=US:en
 
-2. **Ahead of Market: 10 things that will decide stock market action on Wednesday - The Economic Times**
-- Publisher: The Economic Times
-- Published: Tue, 10 Nov 2026 16:01:59 GMT
-- Article: https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeEQ4OVQ1MTM5Vy16eGhvUF9YZlh5NHMzSWN1MXVkWnZwbGJUQVBmQklGR3VpdnVTeTBWa3Jhay1jbGJldF9Xd1lxNHU0RF9fSGV2RUpETnQ5TDdkcXp4SGlkZW52YlBnUEJPUEpKdmw1UThRWG5PeENWTDB4UVY0Ty1tRUNIaWVRRVJfaGIta2FGc0liZnBFU0ZHam1RT0dVMk5MNlN3a2dfRU9KNlIxWjlDcVdLaEFCUTQ3Nm01YkNIVmlHMEphYW5VTE04T0QzZEtSUkwxM3o2c2U5R2l4WTh2Y9IB6AFBVV95cUxNNklaVHZicXk5ekJ5TU1lTHpBNTRaY2hEUzFyU3N4MVN0OF9SN25WM0xEckNjZ0pSYlZQcXNRWTdUajU5Q3dKMlZVQmhqSkp1M3ltVENhN28wVEF5bE1IbTRxajllaXBlUlJXQUtfcU1ZVWtia0NrSTQtMmU5Q0FvRElnYmFQamc1bWQ1YXdwejVpZGNUbUZ4TEpnRk0yV29qNmNxcF9aYWxRRTBUa1NyTWJ4WkJyaGJESjBHakc2Z0FHaWNET1RXblYycFZKUHh2SkFMNWt2TUVQYW0yZkRQZFQ0R3h2dDVn?oc=5&hl=en-US&gl=US&ceid=US:en
+2. **Match Predictions: Womens Big Bash League 2026 - 19th & 20th Match - Stars W vs Heat W; Renegades W vs Sixers W - November 12th - Cricket World**
+- Publisher: Cricket World
+- Published: Wed, 11 Nov 2026 15:54:44 GMT
+- Article: https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbXRtLThkRjRYUVBhNk9YOFBHMnFSWWk1ckpVSDBOR3VDdWs4OWlyX3otVmMyN3hVU0JRQzQxSDdySHVaWWVxTW5ueXNUdXRoUVpPcV9DZl9sZW5ZVFlDbDNaT3NsUzZ1bEpPSTR4ekk4VnhDSFpZVjNUOGZ3RE5OOGlVejA5TFhTOE9DS1V6WVJJT0s0NVZpY3NXOFZrX1RXVlhFOXcxYkkzaVFTZm1DUG5TbzNRbERES3RKSmtOa1Q1LXZoZmtlcHo0REIzWEREcEd1TldGV0t4SW9CVUN4M1JFX3BoaWw1anpZaDB3?oc=5&hl=en-US&gl=US&ceid=US:en
 
-3. **Stock market holiday today: Are NSE, BSE open or closed today? Check GIFT Nifty levels - Moneycontrol.com**
-- Publisher: Moneycontrol.com
-- Published: Tue, 10 Nov 2026 05:56:13 GMT
-- Article: https://news.google.com/rss/articles/CBMimgJBVV95cUxOM25SZmRYOHBwMVQwOVVWSzhnNkxVb0hhYUpYOGJuTEFkbDZ2YXpJWURJWDVLX05lWEItTXNoV2ZIN2RfVTItcnZaaWxnZjlTdjlKZzRUOEFnMEFITmZGdFY1R19sSWdNLUVVLVR5NEs5MTVwbXB5V1hqNnVIOTJSOHVMTUZnQjViNDBMcTJudlIyWTNBX1RkemM2M1dGT3hKWnlQbnFveGlhRHdWOFc0OVBvRmVZMTU5MWVhVTVYdklBeDFiT0Q0azdRSEt1OTVQNWhYeklJdGs2VmUtSFFfOV9EMFlOZUtEY1NfeFBGMlRqa3ZzTWFzcHhsdE4xMmdwcm1BbzZXMnVTdUFVelFOdHZ0Ujd3U0VrMUHSAZ8CQVVfeXFMT3VnT3gxeF9Na3BnZVhmS3JobFJNQk5ab1NDa2tldlB0QzNoakczaERTZ2JzZ3lENW42Yl9tR1dpOWdkRU92dUh6Mm1VWEtBQmVIUzlkZE8wUFRLeEhpbDRIc3VPMktoTG4tVTJnTFFRb2FEM2dEMDM1RTloZ1c0Sk5UR0pxWE5LbVM2OFkycHpMcUV3cEJSN01ubU94cWlVa1VuR1NYSFlkaDhMaFpoSTNGZ2ZmU2o3YUR4RE9JcEdHRERsTXc5NnJQcVlzaU1KYnZOQ0Jya1pnRGJFZWM1SGVNNFctdUY5eHJHVXhidEVVMzlqeGgxWWdqTm9WYlY2Q2ZjdUZsM3lkZjRrdmRWZ1d1RExhSllHS2xSWXMtZGc?oc=5&hl=en-US&gl=US&ceid=US:en
+3. **Melbourne Stars Women vs Brisbane Heat Women - Jagran**
+- Publisher: Jagran
+- Published: Wed, 11 Nov 2026 08:03:50 GMT
+- Article: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUWI5MV9ZZXNvdkxNdjRmejJRTWFIdS1GakFjZ3JqQVlIeWpnQTNQN2tvY2E0OV9HNnlhTHRob05WRWthUXhnbXpkMW5YeWthVFdrMm5iYVg3aDhuVnl5VUw0WF9uckRKeEhPZWJmTml5bXBCRHJCSTNhcGxwXy1wOGh6Nnp4NE5YRzExeVlta2RTdVdTMkdkVWk3aVdneXVWc0d4akowUFBOOEViRDNIamU4YUpWaHdTUjhvZUNWQ19TUTcxcUF6Z213aW9NX3NoLUdGVjZ3?oc=5&hl=en-US&gl=US&ceid=US:en
 
-4. **Stock Market Holiday Today: NSE, BSE Closed on November 10 for Diwali-Balipratipada; Check Details? - APAC Media**
-- Publisher: APAC Media
-- Published: Tue, 10 Nov 2026 07:06:46 GMT
-- Article: https://news.google.com/rss/articles/CBMiigFBVV95cUxOVWFiaHpjeGVTOFBsZHRnWERwQjY0ZVpBSnlHb0RLUHd0elJuYmF5NE05bkRISEVoMVlTX0lJaFNGbEFBa1R2eXVIMno5bU0wdkZGQktPNkpvaTlCS3ZreUw4Zk40UnZadk5wemFaSFFreVhjNlZVQ1pWLVVtQ05mcmlqV3YtU1NDS1E?oc=5&hl=en-US&gl=US&ceid=US:en
+4. **WRIGLEY IN FOR HEAT | Replaces Lucy Bourke - Brisbane Heat**
+- Publisher: Brisbane Heat
+- Published: Wed, 11 Nov 2026 05:23:07 GMT
+- Article: https://news.google.com/rss/articles/CBMickFVX3lxTFBYRnZ2cFk1Z1NIeVk4amtpQUlwN1RWVkUxVFNYVnZRdU1ZUnFUMTdibGxwUkNXUTFoTHE2ckdhUWJJaF9GM1pzZjVPdjZySlBKTHhYRmRMajZzT2hyZkZKejBfWXg1b3VwM0NSZjJ0MWc4UQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
-5. **Stock Market Holiday Tomorrow: NSE, BSE Closed for Diwali-Balipratipada - HDFC Sky**
-- Publisher: HDFC Sky
-- Published: Mon, 09 Nov 2026 10:40:34 GMT
-- Article: https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEhnc0I0MjRHZ2NiLTFzb09iUVM0TVBrc0ZiY2k0RzlJMERVYS1fX1d1WEdvQVVuSnBncHZ5NWg3OHhyMW4xQzZEQ21uWnZNSnhsQkdsR1pzNEpvczczdFVlTlJuaVFTMndDd1Rfb0hQMEI0ZC1kQzZ4YkFacGlPQ2xYU3JaMmJhRVZ0aURoOWpjYlFjWHRqRk1R?oc=5&hl=en-US&gl=US&ceid=US:en
+5. **WBBL SQUAD: Stars ready to face the Heat - Melbourne Stars**
+- Publisher: Melbourne Stars
+- Published: Wed, 11 Nov 2026 05:39:26 GMT
+- Article: https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2lDS09jV2ZzbVpnWDMtdktIcVBUUTNMeFdsbGpMbTBQMzNEZVV2QlN5eDA3OEFHYWxkRGp3QnB5akhZQlYySWNpano3dFByWnI5VFpfY3RSdGNuV3Y2X08tODc4UFhWdGJfY3JkR3c1TlBObjduNzNieDV2ZTZPd01YdjdYLUlNRVR6UWZ4dVc?oc=5&hl=en-US&gl=US&ceid=US:en
 
-6. **Stock market holiday: Will NSE and BSE remain closed on Tuesday, November 10? Check list of holidays this month - Upstox**
-- Publisher: Upstox
-- Published: Mon, 09 Nov 2026 11:10:16 GMT
-- Article: https://news.google.com/rss/articles/CBMihgJBVV95cUxPc3JEYmc1SUlWTmlZcjFuVHBZWG93Umd2ckVpdHY4eDRENzQzWXZrR2dQWVJ0LTllQTc4N0tldmQza1h2RFRXcnVjZmxiVk9JZ3RVU3dJR1BrWVFjUmRKME9ycUZIOFh3WDdRNlM4M193LVl1aHJaVEhyOWRJa19pOWlieEZsZFVzeEhUZ09hOUxIWEREbWl2ZXNPT2xCWHI3aWRLV3NXbEJScmlxMEdIQXVTRHJtRWFPZHFBYjZlZERRRlk1ZlVITjJKbnJzZE5adFpKNXJnaHYyOTVTZGNfSURZbjdXZFpUVTVudmFlXzJTdkhXN2pVeS1ZNlpxVnFjVW9YOUhB?oc=5
+6. **Perth Scorchers Women vs Sydney Thunder Women - Jagran**
+- Publisher: Jagran
+- Published: Wed, 11 Nov 2026 08:03:49 GMT
+- Article: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkJYWHZqeE92THRUNzNCUDYxblR5UXVVRUdSODBuankxcUo2TDFJWmxSYkFHWmV6SERSV3BpbGxjNk0zUzNHM2c5eXNsbHVvdDdjeDZQaDU5eC1QdUZXNWNOREhfNmFjc3RBQzZPNC1vbmNXdDNYVXNJTzFlTTJJWVR6UnBQdFYxZXNxblFUWXFyWC1qbGdZZjJZTUxDY2UtRU1vazMyLWZ5WC00dmYyZnBNOXVqSzg1QWRiRlQ4VmdNU3pHTk1xLUFXa3FPejY5MVE?oc=5
+
+7. **Tabatana vs Mbizo Cricket Club - Jagran**
+- Publisher: Jagran
+- Published: Wed, 11 Nov 2026 13:36:40 GMT
+- Article: https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTJtbjZaREZ6b3pKRENTdXVKN0kzam9ucHNXVENMdTFoR05iUUxYZEF6TjJ3VEdremZ4Q3ZmTXBlUUJiREpHRFdPTFE2REhFWHdWQ1pPaFVfalhKcmpoTzRjaEowcEc5Q2xKcjlWQVRkdlBDd2VOdklFdlVsckZ1dVNFdDVpUjRZbC0tX2lnak9rMUFsOEJDQ1hfdGVFS2FXT2tvT01Qa2ZCaVFVRkVRWEhSWkRrUQ?oc=5
 
 ### Extracted information
-- Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume?
-  - Publisher: NDTV
+- MLSW vs BRHW, 19th Match, Womens Big Bash League 2026 - Live Stream Cricbuzz
+  - Publisher: Cricbuzz
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjgxUE5jbWc4X3pleGN0VXRSbGM2REFCQ19GbVVDZ18xS0NSU2JtNFVqZVFGRWZIN1Y3SDVNQW1iVUE3Y0d5QUlpUmNFb3NMYlNScFpsWk1RWm9fVWlHelhLS04zQjZMVlFQcmhRYU1LSUcxVGw3WVVoRFFwQUFhWWd1LUphUkE4RTFPMXBhbmJSeDhPelFQY1RyLW9fa0VRWmhrVVp5QncwLVZFNXVhMVlmR0xsbzB3VGpvVW5tQ0sydE93NzdzRWowSmFWNWV4QmhXN3VB0gHeAUFVX3lxTFBkWmJ3QWxnNjQ2VHgyMDdLOVhfX2RRdEZTTy1ROTZfY3NhY3hsU05OM1phakkxdzNyQWdhTXkzNnQ2b3hYVjF3eGRwYkE5S2txeEtaRFdQRFFZMUM5UG11N1hoTlc3TFZna0x6NVJXR0w2WDltLXNlajJwUVg5OVZTaFY2UXNYVHVQaXFNQVdhX0lLTTktVy1vdmZlVkMxcnlxVG52T2J4SURzTGxVMWxlUnFscFV4cnd0Ykpfb0RqOHBJRS1lZXRrS0FqWVk0MkxpZlE5ZGxzczU3UHJBUQ?oc=5&hl=en-US&gl=US&ceid=US:en
-- Ahead of Market: 10 things that will decide stock market action on Wednesday The Economic Times
-  - Publisher: The Economic Times
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNMHNmTFpXWHduZWdZZnR5dWp4MlREbVl4WlRoSXVVVFl3T2xtU1JNLWpyNk1YWTU1VmNGbGp4cmVqdWlYWGU4UXU4c096N3ZyUGlkejNpd2JUNVVhUF90dXJKblk4dVZkd2RLUVlPdXBiaFVUdk9oVVdRUEJ2RVRPNGYwSTZtQW42VWUwZHJVbXk3Tm9jM05zeTBLanJrUUhoYURNQlpn?oc=5&hl=en-US&gl=US&ceid=US:en
+- Match Predictions: Womens Big Bash League 2026 - 19th & 20th Match - Stars W vs Heat W; Renegades W vs Sixers W - November 12th Cricket World
+  - Publisher: Cricket World
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeEQ4OVQ1MTM5Vy16eGhvUF9YZlh5NHMzSWN1MXVkWnZwbGJUQVBmQklGR3VpdnVTeTBWa3Jhay1jbGJldF9Xd1lxNHU0RF9fSGV2RUpETnQ5TDdkcXp4SGlkZW52YlBnUEJPUEpKdmw1UThRWG5PeENWTDB4UVY0Ty1tRUNIaWVRRVJfaGIta2FGc0liZnBFU0ZHam1RT0dVMk5MNlN3a2dfRU9KNlIxWjlDcVdLaEFCUTQ3Nm01YkNIVmlHMEphYW5VTE04T0QzZEtSUkwxM3o2c2U5R2l4WTh2Y9IB6AFBVV95cUxNNklaVHZicXk5ekJ5TU1lTHpBNTRaY2hEUzFyU3N4MVN0OF9SN25WM0xEckNjZ0pSYlZQcXNRWTdUajU5Q3dKMlZVQmhqSkp1M3ltVENhN28wVEF5bE1IbTRxajllaXBlUlJXQUtfcU1ZVWtia0NrSTQtMmU5Q0FvRElnYmFQamc1bWQ1YXdwejVpZGNUbUZ4TEpnRk0yV29qNmNxcF9aYWxRRTBUa1NyTWJ4WkJyaGJESjBHakc2Z0FHaWNET1RXblYycFZKUHh2SkFMNWt2TUVQYW0yZkRQZFQ0R3h2dDVn?oc=5&hl=en-US&gl=US&ceid=US:en
-- Stock market holiday today: Are NSE, BSE open or closed today?
-  - Publisher: Moneycontrol.com
+  - Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbXRtLThkRjRYUVBhNk9YOFBHMnFSWWk1ckpVSDBOR3VDdWs4OWlyX3otVmMyN3hVU0JRQzQxSDdySHVaWWVxTW5ueXNUdXRoUVpPcV9DZl9sZW5ZVFlDbDNaT3NsUzZ1bEpPSTR4ekk4VnhDSFpZVjNUOGZ3RE5OOGlVejA5TFhTOE9DS1V6WVJJT0s0NVZpY3NXOFZrX1RXVlhFOXcxYkkzaVFTZm1DUG5TbzNRbERES3RKSmtOa1Q1LXZoZmtlcHo0REIzWEREcEd1TldGV0t4SW9CVUN4M1JFX3BoaWw1anpZaDB3?oc=5&hl=en-US&gl=US&ceid=US:en
+- Melbourne Stars Women vs Brisbane Heat Women Jagran
+  - Publisher: Jagran
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMimgJBVV95cUxOM25SZmRYOHBwMVQwOVVWSzhnNkxVb0hhYUpYOGJuTEFkbDZ2YXpJWURJWDVLX05lWEItTXNoV2ZIN2RfVTItcnZaaWxnZjlTdjlKZzRUOEFnMEFITmZGdFY1R19sSWdNLUVVLVR5NEs5MTVwbXB5V1hqNnVIOTJSOHVMTUZnQjViNDBMcTJudlIyWTNBX1RkemM2M1dGT3hKWnlQbnFveGlhRHdWOFc0OVBvRmVZMTU5MWVhVTVYdklBeDFiT0Q0azdRSEt1OTVQNWhYeklJdGs2VmUtSFFfOV9EMFlOZUtEY1NfeFBGMlRqa3ZzTWFzcHhsdE4xMmdwcm1BbzZXMnVTdUFVelFOdHZ0Ujd3U0VrMUHSAZ8CQVVfeXFMT3VnT3gxeF9Na3BnZVhmS3JobFJNQk5ab1NDa2tldlB0QzNoakczaERTZ2JzZ3lENW42Yl9tR1dpOWdkRU92dUh6Mm1VWEtBQmVIUzlkZE8wUFRLeEhpbDRIc3VPMktoTG4tVTJnTFFRb2FEM2dEMDM1RTloZ1c0Sk5UR0pxWE5LbVM2OFkycHpMcUV3cEJSN01ubU94cWlVa1VuR1NYSFlkaDhMaFpoSTNGZ2ZmU2o3YUR4RE9JcEdHRERsTXc5NnJQcVlzaU1KYnZOQ0Jya1pnRGJFZWM1SGVNNFctdUY5eHJHVXhidEVVMzlqeGgxWWdqTm9WYlY2Q2ZjdUZsM3lkZjRrdmRWZ1d1RExhSllHS2xSWXMtZGc?oc=5&hl=en-US&gl=US&ceid=US:en
-- Stock Market Holiday Today: NSE, BSE Closed on November 10 for Diwali-Balipratipada; Check Details?
-  - Publisher: APAC Media
+  - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUWI5MV9ZZXNvdkxNdjRmejJRTWFIdS1GakFjZ3JqQVlIeWpnQTNQN2tvY2E0OV9HNnlhTHRob05WRWthUXhnbXpkMW5YeWthVFdrMm5iYVg3aDhuVnl5VUw0WF9uckRKeEhPZWJmTml5bXBCRHJCSTNhcGxwXy1wOGh6Nnp4NE5YRzExeVlta2RTdVdTMkdkVWk3aVdneXVWc0d4akowUFBOOEViRDNIamU4YUpWaHdTUjhvZUNWQ19TUTcxcUF6Z213aW9NX3NoLUdGVjZ3?oc=5&hl=en-US&gl=US&ceid=US:en
+- WRIGLEY IN FOR HEAT | Replaces Lucy Bourke Brisbane Heat
+  - Publisher: Brisbane Heat
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxOVWFiaHpjeGVTOFBsZHRnWERwQjY0ZVpBSnlHb0RLUHd0elJuYmF5NE05bkRISEVoMVlTX0lJaFNGbEFBa1R2eXVIMno5bU0wdkZGQktPNkpvaTlCS3ZreUw4Zk40UnZadk5wemFaSFFreVhjNlZVQ1pWLVVtQ05mcmlqV3YtU1NDS1E?oc=5&hl=en-US&gl=US&ceid=US:en
-- Stock Market Holiday Tomorrow: NSE, BSE Closed for Diwali-Balipratipada HDFC Sky
-  - Publisher: HDFC Sky
+  - Link: https://news.google.com/rss/articles/CBMickFVX3lxTFBYRnZ2cFk1Z1NIeVk4amtpQUlwN1RWVkUxVFNYVnZRdU1ZUnFUMTdibGxwUkNXUTFoTHE2ckdhUWJJaF9GM1pzZjVPdjZySlBKTHhYRmRMajZzT2hyZkZKejBfWXg1b3VwM0NSZjJ0MWc4UQ?oc=5&hl=en-US&gl=US&ceid=US:en
+- WBBL SQUAD: Stars ready to face the Heat Melbourne Stars
+  - Publisher: Melbourne Stars
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEhnc0I0MjRHZ2NiLTFzb09iUVM0TVBrc0ZiY2k0RzlJMERVYS1fX1d1WEdvQVVuSnBncHZ5NWg3OHhyMW4xQzZEQ21uWnZNSnhsQkdsR1pzNEpvczczdFVlTlJuaVFTMndDd1Rfb0hQMEI0ZC1kQzZ4YkFacGlPQ2xYU3JaMmJhRVZ0aURoOWpjYlFjWHRqRk1R?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2lDS09jV2ZzbVpnWDMtdktIcVBUUTNMeFdsbGpMbTBQMzNEZVV2QlN5eDA3OEFHYWxkRGp3QnB5akhZQlYySWNpano3dFByWnI5VFpfY3RSdGNuV3Y2X08tODc4UFhWdGJfY3JkR3c1TlBObjduNzNieDV2ZTZPd01YdjdYLUlNRVR6UWZ4dVc?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Reel script — draft
-**Estimated narration:** 68 words
+**Estimated narration:** 78 words
 
-HOOK: Here's what happened: Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV.
+HOOK: Here's what happened: MLSW vs BRHW, 19th Match, Womens Big Bash League 2026 - Live Stream - Cricbuzz.
 
 REPORTED DETAILS:
-Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume?
-Ahead of Market: 10 things that will decide stock market action on Wednesday The Economic Times
-Stock market holiday today: Are NSE, BSE open or closed today?
-Stock Market Holiday Today: NSE, BSE Closed on November 10 for Diwali-Balipratipada; Check Details?
+MLSW vs BRHW, 19th Match, Womens Big Bash League 2026 - Live Stream Cricbuzz
+Match Predictions: Womens Big Bash League 2026 - 19th & 20th Match - Stars W vs Heat W; Renegades W vs Sixers W - November 12th Cricket World
+Melbourne Stars Women vs Brisbane Heat Women Jagran
+WRIGLEY IN FOR HEAT | Replaces Lucy Bourke Brisbane Heat
 
 ENDING: Follow InfoRush for more important updates.
 
 ### Caption
-What happened in nse share price? Here are the reported details. Follow InfoRush for more.
+What happened in melbourne stars vs brisbane heat? Here are the reported details. Follow InfoRush for more.
 
 ### Hashtags
 #InfoRush #NewsUpdate #DiscoverMore #LatestUpdates
