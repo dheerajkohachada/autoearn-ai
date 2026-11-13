@@ -1,52 +1,52 @@
 # InfoRush Trending Topics
-Updated: 2026-11-12 04:24:49.607809 UTC
+Updated: 2026-11-13 04:23:43.269017 UTC
 
 These are trend candidates, not verified news.
 
 ## India
-1. melbourne stars vs brisbane heat
-2. टैरो
-3. kalyan jewellers share price
-4. वायु गुणवत्ता सूचकांक
-5. irfc share
-6. ind vs afg
-7. cupid share
-8. hindustan copper share
-9. jio recharge plan
-10. india vix
+1. joe root
+2. cupid share price
+3. cdsl share
+4. microsoft stock
+5. meesho share price
+6. ജെന്സന് ഹുവാങ്
+7. jack edwards
+8. suns vs hornets
+9. page industries share
+10. naruto
 
 ## United States
-1. franz wagner
-2. alperen şengün
-3. mlb mvp
-4. eric chen su
-5. ducks
-6. warriors score
-7. kayla harrison
-8. amazing race
-9. science fiction
-10. isaiah hartenstein
+1. stefon diggs cardi b
+2. arizona vs ucla
+3. wordle hint nov 12
+4. terry mclaurin
+5. parker kingston
+6. jameis winston
+7. desi lydic
+8. jevon holland
+9. charlotte hornets vs phoenix suns match player stats
+10. utep basketball
 
 ## United Kingdom
-1. stephen curry
-2. coach
-3. jemima khan
-4. trail blazers vs thunder
-5. steph curry
-6. rockets vs warriors
-7. willie mullins
-8. winter storm
-9. ricky alvarez
-10. bulls vs spurs
+1. hmp wandsworth
+2. putin news
+3. eng vs aus
+4. new zealand vs india
+5. student finance
+6. stock market news
+7. bruno fernandes contract negotiations united
+8. inheritance
+9. new york giants
+10. new zealand national cricket team vs india national cricket team match scorecard
 
 ## Canada
-1. measles
-2. dwayne johnson
-3. gsw
-4. doomsday
-5. edmonton oilers
-6. tyler herro
-7. lakers vs milwaukee bucks match player stats
-8. i play rocky
-9. jakob chychrun nick cousins hit
-10. oilers score
+1. stefon diggs
+2. surrey
+3. arvell reese
+4. finn allen
+5. jevon holland
+6. cameron skattebo
+7. la kings
+8. wizards
+9. iran news
+10. anthony davis
