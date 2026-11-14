@@ -1,52 +1,52 @@
 # InfoRush Trending Topics
-Updated: 2026-11-13 04:23:43.269017 UTC
+Updated: 2026-11-14 04:19:18.621493 UTC
 
 These are trend candidates, not verified news.
 
 ## India
-1. joe root
-2. cupid share price
-3. cdsl share
-4. microsoft stock
-5. meesho share price
-6. ജെന്സന് ഹുവാങ്
-7. jack edwards
-8. suns vs hornets
-9. page industries share
-10. naruto
+1. clippers vs thunder
+2. ஜூனியர் விகடன்
+3. వెబ్ సిరీస్
+4. वित्त मंत्रालय
+5. under 19 asia cup 2026
+6. शेयर एक्सचेंज
+7. भारत
+8. kumamoto masters japan 2026
+9. trade fair 2026
+10. விமானம்
 
 ## United States
-1. stefon diggs cardi b
-2. arizona vs ucla
-3. wordle hint nov 12
-4. terry mclaurin
-5. parker kingston
-6. jameis winston
-7. desi lydic
-8. jevon holland
-9. charlotte hornets vs phoenix suns match player stats
-10. utep basketball
+1. draymond green
+2. alperen şengün
+3. mega millions drawing
+4. mater dei football
+5. utah state basketball
+6. keegan murray
+7. texas high school football playoffs
+8. ace bailey
+9. nashville predators
+10. depaul basketball
 
 ## United Kingdom
-1. hmp wandsworth
-2. putin news
-3. eng vs aus
-4. new zealand vs india
-5. student finance
-6. stock market news
-7. bruno fernandes contract negotiations united
-8. inheritance
-9. new york giants
-10. new zealand national cricket team vs india national cricket team match scorecard
+1. winter fuel payment
+2. spurs vs warriors
+3. guatemala vs canada
+4. bulls vs hawks
+5. new orleans cruise ship collision
+6. heat vs cavaliers
+7. jesús owono
+8. rockstar gta vi
+9. l3harris
+10. magic vs bucks
 
 ## Canada
-1. stefon diggs
-2. surrey
-3. arvell reese
-4. finn allen
-5. jevon holland
-6. cameron skattebo
-7. la kings
-8. wizards
-9. iran news
-10. anthony davis
+1. dylan garand
+2. marvel spider man 2 update
+3. stephon castle
+4. alexis lafrenière
+5. sarah huckabee sanders
+6. boston blue
+7. vancouver canucks
+8. davion mitchell
+9. glenn gawdin
+10. united states immigration and customs enforcement
