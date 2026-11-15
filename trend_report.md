@@ -1,52 +1,52 @@
 # InfoRush Trending Topics
-Updated: 2026-11-14 04:19:18.621493 UTC
+Updated: 2026-11-15 04:22:04.480083 UTC
 
 These are trend candidates, not verified news.
 
 ## India
-1. clippers vs thunder
-2. ஜூனியர் விகடன்
-3. వెబ్ సిరీస్
-4. वित्त मंत्रालय
-5. under 19 asia cup 2026
-6. शेयर एक्सचेंज
-7. भारत
-8. kumamoto masters japan 2026
-9. trade fair 2026
-10. விமானம்
+1. naman dhir
+2. ईशान किशन
+3. nitto atp finals
+4. अक्षर पटेल
+5. eng बनाम aus
+6. ufc 335
+7. ishan kishan
+8. england cricket team
+9. sam curran
+10. yousri belgaroui
 
 ## United States
-1. draymond green
-2. alperen şengün
-3. mega millions drawing
-4. mater dei football
-5. utah state basketball
-6. keegan murray
-7. texas high school football playoffs
-8. ace bailey
-9. nashville predators
-10. depaul basketball
+1. ed orgeron
+2. sean strickland
+3. la mansion vip
+4. middleweight ufc
+5. uc davis football
+6. aeropuerto internacional de miami
+7. hawaii football
+8. deion sanders phone call keyshawn
+9. dylan stewart
+10. anthony olascuaga
 
 ## United Kingdom
-1. winter fuel payment
-2. spurs vs warriors
-3. guatemala vs canada
-4. bulls vs hawks
-5. new orleans cruise ship collision
-6. heat vs cavaliers
-7. jesús owono
-8. rockstar gta vi
-9. l3harris
-10. magic vs bucks
+1. aus vs eng
+2. game pass
+3. ufc 336
+4. icc
+5. zion williamson
+6. david adeleye
+7. ind vs nz
+8. heat vs pistons
+9. kids choice awards 2026
+10. timberwolves vs bulls
 
 ## Canada
-1. dylan garand
-2. marvel spider man 2 update
-3. stephon castle
-4. alexis lafrenière
-5. sarah huckabee sanders
-6. boston blue
-7. vancouver canucks
-8. davion mitchell
-9. glenn gawdin
-10. united states immigration and customs enforcement
+1. klay thompson
+2. ilia malinin
+3. michael j fox
+4. ewan mcgregor
+5. nhl standings
+6. uf
+7. john mulaney
+8. hockey games tonight
+9. florida panthers
+10. jane seymour

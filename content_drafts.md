@@ -1,88 +1,92 @@
 # InfoRush Content Drafts
-Generated: 2026-11-14 04:19:19 UTC
+Generated: 2026-11-15 04:22:06 UTC
 
 Free RSS research and article extraction.
 All drafts are candidates, not verified news.
 
-## World News: clippers vs thunder
+## Sports: england cricket team
 **Status:** MULTI-SOURCE CANDIDATE — VERIFY BEFORE PUBLISHING
 
 **Important:** This is an automated research draft, not confirmed news.
 
 ### Related reports
-1. **Thunder vs. Clippers: Live updates, highlights for Friday's game - Yahoo Sports**
-- Publisher: Yahoo Sports
-- Published: Sat, 14 Nov 2026 02:30:00 GMT
-- Article: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPalBnWUVnNVl2Y0FkaVFUTFhCOXpGMFNTWGxBV3lWbHp0VjJUUDhfT2JJWkw2UWhkTTM3b0U5amxYTjZ6MUZEZ0hfdm1zdlNubDJhZDhoODBBa1hVclhEOUtRaS16Zm1qVG1xN29lRllJZlV2cnVFOTRkYTktUDg4a2ZUb3c4ZUEz?oc=5&hl=en-US&gl=US&ceid=US:en
+1. **ENG vs SL, 3rd ODI, Sri Lanka tour of England, 2026 - Scorecard - Cricbuzz**
+- Publisher: Cricbuzz
+- Published: Sat, 14 Nov 2026 18:40:17 GMT
+- Article: https://news.google.com/rss/articles/CBMipgFBVV95cUxOcm5lRGF3WU84enM3aHFJQkxYQ2pWd3hSQ2JBVVE2VzBEc24zWWpCckh3al9WV294YUpUZjhqdDM3NU9XS2MxTnBQRzFscmlFRXE4Z1JvUFRhS1l0ckt5RXd1ZjhyamVrb0QwQVFiMTk5ODkwdG5iSDdWV2NoZjBiWW1DMlJNbGhNOWxfbWdyWWV2Q3VCaVo4UlU5ZGpPUGg4b29zLVJ3?oc=5&hl=en-US&gl=US&ceid=US:en
 
-2. **Thunder vs Clippers Prediction, Pick, NBA Odds for Friday, November 13 - Yahoo Sports**
-- Publisher: Yahoo Sports
-- Published: Fri, 13 Nov 2026 14:39:18 GMT
-- Article: https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUhsV1kzdkhwQjZtcFZrWS1pOElWcVU1UlZaNWdKVDFiQy1CZDZFNTNUMzJaN1FLUUx3OG54YkpTbk1IcEJlMFdDWGR1SWUxQUZHdF9FcFI0YzhDY3UzbWZCNlZRSEdtZmJmNzgtZDNSZkdLNWNGZ1lOTWdRUFp0TllCbGJ0dFU5UVZiVA?oc=5&hl=en-US&gl=US&ceid=US:en
+2. **ENG vs PAK Cricket Scorecard, 2nd Test at London, August 27 - 30, 2026 - Cricinfo**
+- Publisher: Cricinfo
+- Published: Thu, 25 Jun 2026 20:39:28 GMT
+- Article: https://news.google.com/rss/articles/CBMivgFBVV95cUxObVNoTF9LRjdIVkoyRGhDMDJWcWRxM2E1YzB5QXdfekpQcDZsai1RMGpuVmxFcGZTU2ZsX2NMQlJNblZnZ3ZnbEpSYlh1eG9LZEFEM2tybkJLeWtxeERBQ19rbXFJTlFrRk1jLW9qT2puNGdWY01xTXJYazI2ME1ZMFRRRUZYNHBwajdpUFAyTno3X2lnWFhhUmh5anlQZUdvWkNqeXZydWctS0FwT1F6RVo4TlRDV0g4SElMWVJ3?oc=5&hl=en-US&gl=US&ceid=US:en
 
-3. **!![LIVE@TV] Oklahoma City Thunder vs. Los Angeles Clippers ＬＩＶＥ Ｓｔｒｅａｍｓ NBA - 日本取引所グループ**
-- Publisher: 日本取引所グループ
-- Published: Sat, 14 Nov 2026 04:06:07 GMT
-- Article: https://news.google.com/rss/articles/CBMiygJBVV95cUxOOXVidEZGMG9kMWNqTkxPUjRRZTlFMHhlYlc0TWZrSk5wc1lERVQ0dFpac0Z6V2VXVGpBNlZ3OEVEcDNIanRyWjhWTjNacmJJMVlCY2lsemprcllCcHdJdTlCMnlZWEh6Zm1BV29xbHZZTFBNejZiQW9hN2NiMnRGYmhMYjFwOFJsNHRvMGtOVTFfU1B1OFh4eDJhRDRkMmtIVDJUbEFPUVQ5ei1YbGo0UzNSR1llczFUU1FLUktFUHVsS2tlS1dQVzJGUHhTb0FwR2IwVnRmWWwzT2FXZ0tFcHkycTdpVEt4QmR4VlBHWUE0eHdIdEU1QVlvZlNaZER4a0NDdzU5M0Rfck45U3JPTTRBWmliV3B3b3MwU1F5cjBqYWNWTDJmY1JzOGpqT1ZoWnJBaG82bjZxc0IxRmhtNmZqSjlMdjlTWVE?oc=5&hl=en-US&gl=US&ceid=US:en
+3. **England Cricket Team matches, scorecards, news and statistics - Cricbuzz**
+- Publisher: Cricbuzz
+- Published: Sat, 14 Nov 2026 17:57:04 GMT
+- Article: https://news.google.com/rss/articles/CBMiZkFVX3lxTE92ZE52V2VrUWRVTTl6VzhkWkllajRCclpsTmluc0ViZUl2M2w0bW5RVWFjek4yYk51X2F3aGF6OG1fRG5oaEM1Nl9EdUFsQkg5Nlp1am9oN1NhbU1keFJ6aXVaaUxHZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
-4. **Clippers vs Thunder Injury Report Rules Out Nine Players for NBA Cup Matchup - Yahoo Sports**
-- Publisher: Yahoo Sports
-- Published: Fri, 13 Nov 2026 14:54:14 GMT
-- Article: https://news.google.com/rss/articles/CBMiigFBVV95cUxObzBBc3lMZ3ZJV2VGcjNuV3BaNUFQc1FMSnJnTTdMcGx1cWRQZndoNUlnaEFpd082VFNrOHJWekF3aUpOeUNBVFBIcjdsT1AxemtXOTBqc2tIT1RnR3NtSVZPSzhNa3NZVW1PS0NoemcwY0JMa2w5N0ZyQ0VyenQxUWx5Y3VTSzFoaVE?oc=5&hl=en-US&gl=US&ceid=US:en
+4. **Australia vs England LIVE: Second ODI, Adelaide Oval - cricket score, commentary & updates - BBC**
+- Publisher: BBC
+- Published: Sun, 15 Nov 2026 03:11:14 GMT
+- Article: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wU2JOQU40TDMzMlNPRWVPY2Q1Ym5GdWFpYnNEVzZOZTVGaUpueUFHb1RxSEFaNG5fem1kRlJvZk0tenZHc0VJT0RRSm82WTVzcHJXSzIyQlJMOFFHVVR2Wg?oc=5&hl=en-US&gl=US&ceid=US:en
 
-5. **Nikola Topic to make 2026-27 regular season debut in Thunder-Clippers game - OKC Thunder Wire**
-- Publisher: OKC Thunder Wire
-- Published: Fri, 13 Nov 2026 15:21:00 GMT
-- Article: https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQ29uZkFWRjIyS0xFd0xTVkJLS3M2Z2pZT196b21yalRuVzltQjlfWW1oU0MtajRvMFY0SEZyUFY2Wk1CeG5ETTBIaTdFUWd3dDI4ZEZxNzByOEFIem5ya2stWWRKLXpJTFA4Z0FidHp5amo2bEF1N0xSeDRqQUhhLVExWWxXMU4yaldWR0VxM1FKMnZEcnlFTXB2SmxqZFA3U3JWc3NyUFo0TzJYUFlGMXhkU3pXQXZWTWM5ODhNVVhmRERKbVJocFI0Y045b0dMaUVESWZmMk5GdnNMWnA4OXZ2bVhyekdTTnVxWkJJc08?oc=5&hl=en-US&gl=US&ceid=US:en
+5. **England ready to play first Test in Zimbabwe since bad-tempered 1996 tour - The Guardian**
+- Publisher: The Guardian
+- Published: Sat, 14 Nov 2026 08:00:00 GMT
+- Article: https://news.google.com/rss/articles/CBMipAFBVV95cUxQWC1Tck9FQXVwUmN2aGxSRGhCWm94TUs3V0gxVVhaS1ctNXktTU5BcDMxWDBBcU9oSE1VcE53X25uX0FsdG9ma0t5dEpQenh5cjFDZndXOEVGZWRtLUo5UDJzZllEcG1xZzUxTjR0bENoUVBud25uaWVaTVltOERCbl92aFRrd0FkTE85SE83V1UyWk5vRmhKaTA1U3hPMWR1QVdGMA?oc=5&hl=en-US&gl=US&ceid=US:en
 
-6. **Thunder vs Clippers: Prediction, Team News and Oklahoma City After Portland - Squawka**
-- Publisher: Squawka
-- Published: Fri, 13 Nov 2026 11:54:43 GMT
-- Article: https://news.google.com/rss/articles/CBMigwFBVV95cUxOdlNGclo2UGFLX0hJZHlhUWNUUGwtWE84aDRnbzVERl9XZXZBYTdpbHRrTTlqVVNJQnFGWmhzbnZ0MW1EcGVuZlh0bERpdkk5M1NwSmhDOWQzbHUzeUNVV0k1b0g4c21KZVhOcFdtZVA0NEFLUXo1dU1sMEFmZkM2dTRIcw?oc=5
+6. **Australia v England: second men’s cricket one-day international – live - The Guardian**
+- Publisher: The Guardian
+- Published: Sun, 15 Nov 2026 04:15:05 GMT
+- Article: https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEJreldTWkZuS3Rvem9PZUI3Y2dLV1Y1aEZxbkt4clc3TkNEdFUxNjhXQU9fUTBLMkJVVk1KTi11M1Y4UW5KOXk0M0xVVmUyak14eU56RjgzUVItOF9uYnl0OEpYNmhwU3dRWGRtdGVpVnlXTHZLcURldzFINVlfTlpCQWhfTkJ6ODNodWszX25ITlBxNzdNR1BNQVU1ZkJrUHNYb2UtZTY3UDA3RVk5Wlp2SkpubE43UTBBN1NLemY5MXhmR0NkOWxzaXpTS0RuR0dUcURSZmlwc0xkZ1dF?oc=5
 
-7. **Oklahoma City Thunder vs Los Angeles Clippers | November 14, 2026 | NBA Matchup - theScore**
-- Publisher: theScore
-- Published: Sat, 14 Nov 2026 04:04:14 GMT
-- Article: https://news.google.com/rss/articles/CBMibkFVX3lxTE5tSkpzNUtYZS1nampEbHpLTWpiOTdVMk1aUnJ2T29ReVpQTEpDaGhkNmg0N1RmRGR2TVNQLVg2RENTV3FtOXppMnRnRmg2b01iNm56cUhNYTM5ZUl6Q2tLempsRFZ3MnJLdGVGT3Jn?oc=5
+7. **Australia beat England by seven wickets in first men’s cricket ODI – as it happened - The Guardian**
+- Publisher: The Guardian
+- Published: Fri, 13 Nov 2026 09:22:00 GMT
+- Article: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa21GZnpDWmxSZVNpSjBzaDN6M2tCYTRjOG8zaXJBLVd6SHp4QTMzYld5Z1RNYWVlNUlLbGVweGlfWEV6cUtIR0x3UHA5cGZCNEw1TDBTM1UtcDBWNVNBR1laMHBRNUZGR1dCMzlWcV9jVnB3bU5Lb2tSRWFMTTA4M0lqUXQxQUdlQmZEbjI4MldwS3ZKdENZcE5SWXo1VXFkeVI3Qk1LUFloaGs1djJ2eXB3d0JLdWtXdm02WDBicFR2RGxPUzhnOXEtb2FFYU1lMTBlU2ItMEtHdw?oc=5
 
-8. **Thunder Have More Draft Capital Coming Courtesy of the Clippers - Yahoo Sports**
-- Publisher: Yahoo Sports
-- Published: Fri, 13 Nov 2026 19:15:09 GMT
-- Article: https://news.google.com/rss/articles/CBMiigFBVV95cUxOTS1FNjE2ZGtVcjZ0aVRiMVRFOERzRVRfR2ZJVldBMVhqaFJMMFZyZmR6cWQtVFVnRUh3UGtfd3d6QkE5MGN1YlhmdnlWMW0ybllHVkU0MmV3bnYwbWZIaHZ2ZHJjWkdlREhRN1otMkNKZVJkUklZTE00cDQzV1lraXVfMU9iNzJtTHc?oc=5
+8. **Australia v England second ODI Tips: Root and head to deliver top-bat wins - Betfair**
+- Publisher: Betfair
+- Published: Sat, 14 Nov 2026 11:13:05 GMT
+- Article: https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb2VxLV9VUHNxYjB5RzJlcU9adEZTMkFMYjh6RzAwTHRMYnM1WVFIVk01MjBqMjVhQURqWjFtUzRCUGswREg2SFZRdnhYUlAtMGZsbHZFbXlNbG1WNnBFOGU3VEdmWVNzMlA0Wi1kcjUzMTM2R3dSM3oyaXpnT2ZyVnppQUp4enJPQk1TcFZVcW16YVhmSHpJNkpENThBYUJDLWZaNlBPN2JQMFpZaVNNU182UnhGQ0pxN3JTZzVoNHozbmg2cnFIbm1CM3BkcWZ4QlJraFg4cmnSAeABQVVfeXFMTktEc3JhZmJiNUQycXFXVUx4NGpMNTN3Yk5YUGduaUVHS3YzOUtGY3MzXzZYVnA5Y2FtOTVSLVJwUnk0NkZ1WHVyc1o3UGRNbTU3OHgtV0gzNzYwM2gzUXRMc0pwZmdCNHFLR2JzdDZMeFl3NVpUMEU1TVh4a0swSm1wdTdaSlN0Rnp5RTJMMURoY1dlMU1fdjQwNEhmeHNqcGNLZUk1QkZVQU1fcDFyZl9nSFVMSDBjRlQ1SUYycmhibUtKSVJUNTJXekJEN0F2Y1lmeHplSjV6S1g5THQwNXU?oc=5
 
 ### Extracted information
-- Clippers: Live updates, highlights for Friday's game Yahoo Sports
-  - Publisher: Yahoo Sports
+- ENG vs SL, 3rd ODI, Sri Lanka tour of England, 2026 - Scorecard Cricbuzz
+  - Publisher: Cricbuzz
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPalBnWUVnNVl2Y0FkaVFUTFhCOXpGMFNTWGxBV3lWbHp0VjJUUDhfT2JJWkw2UWhkTTM3b0U5amxYTjZ6MUZEZ0hfdm1zdlNubDJhZDhoODBBa1hVclhEOUtRaS16Zm1qVG1xN29lRllJZlV2cnVFOTRkYTktUDg4a2ZUb3c4ZUEz?oc=5&hl=en-US&gl=US&ceid=US:en
-- Thunder vs Clippers Prediction, Pick, NBA Odds for Friday, November 13 Yahoo Sports
-  - Publisher: Yahoo Sports
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxOcm5lRGF3WU84enM3aHFJQkxYQ2pWd3hSQ2JBVVE2VzBEc24zWWpCckh3al9WV294YUpUZjhqdDM3NU9XS2MxTnBQRzFscmlFRXE4Z1JvUFRhS1l0ckt5RXd1ZjhyamVrb0QwQVFiMTk5ODkwdG5iSDdWV2NoZjBiWW1DMlJNbGhNOWxfbWdyWWV2Q3VCaVo4UlU5ZGpPUGg4b29zLVJ3?oc=5&hl=en-US&gl=US&ceid=US:en
+- ENG vs PAK Cricket Scorecard, 2nd Test at London, August 27 - 30, 2026 Cricinfo
+  - Publisher: Cricinfo
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUhsV1kzdkhwQjZtcFZrWS1pOElWcVU1UlZaNWdKVDFiQy1CZDZFNTNUMzJaN1FLUUx3OG54YkpTbk1IcEJlMFdDWGR1SWUxQUZHdF9FcFI0YzhDY3UzbWZCNlZRSEdtZmJmNzgtZDNSZkdLNWNGZ1lOTWdRUFp0TllCbGJ0dFU5UVZiVA?oc=5&hl=en-US&gl=US&ceid=US:en
-- Clippers vs Thunder Injury Report Rules Out Nine Players for NBA Cup Matchup Yahoo Sports
-  - Publisher: Yahoo Sports
+  - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxObVNoTF9LRjdIVkoyRGhDMDJWcWRxM2E1YzB5QXdfekpQcDZsai1RMGpuVmxFcGZTU2ZsX2NMQlJNblZnZ3ZnbEpSYlh1eG9LZEFEM2tybkJLeWtxeERBQ19rbXFJTlFrRk1jLW9qT2puNGdWY01xTXJYazI2ME1ZMFRRRUZYNHBwajdpUFAyTno3X2lnWFhhUmh5anlQZUdvWkNqeXZydWctS0FwT1F6RVo4TlRDV0g4SElMWVJ3?oc=5&hl=en-US&gl=US&ceid=US:en
+- England Cricket Team matches, scorecards, news and statistics Cricbuzz
+  - Publisher: Cricbuzz
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxObzBBc3lMZ3ZJV2VGcjNuV3BaNUFQc1FMSnJnTTdMcGx1cWRQZndoNUlnaEFpd082VFNrOHJWekF3aUpOeUNBVFBIcjdsT1AxemtXOTBqc2tIT1RnR3NtSVZPSzhNa3NZVW1PS0NoemcwY0JMa2w5N0ZyQ0VyenQxUWx5Y3VTSzFoaVE?oc=5&hl=en-US&gl=US&ceid=US:en
-- Nikola Topic to make 2026-27 regular season debut in Thunder-Clippers game OKC Thunder Wire
-  - Publisher: OKC Thunder Wire
+  - Link: https://news.google.com/rss/articles/CBMiZkFVX3lxTE92ZE52V2VrUWRVTTl6VzhkWkllajRCclpsTmluc0ViZUl2M2w0bW5RVWFjek4yYk51X2F3aGF6OG1fRG5oaEM1Nl9EdUFsQkg5Nlp1am9oN1NhbU1keFJ6aXVaaUxHZw?oc=5&hl=en-US&gl=US&ceid=US:en
+- Australia vs England LIVE: Second ODI, Adelaide Oval - cricket score, commentary & updates BBC
+  - Publisher: BBC
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQ29uZkFWRjIyS0xFd0xTVkJLS3M2Z2pZT196b21yalRuVzltQjlfWW1oU0MtajRvMFY0SEZyUFY2Wk1CeG5ETTBIaTdFUWd3dDI4ZEZxNzByOEFIem5ya2stWWRKLXpJTFA4Z0FidHp5amo2bEF1N0xSeDRqQUhhLVExWWxXMU4yaldWR0VxM1FKMnZEcnlFTXB2SmxqZFA3U3JWc3NyUFo0TzJYUFlGMXhkU3pXQXZWTWM5ODhNVVhmRERKbVJocFI0Y045b0dMaUVESWZmMk5GdnNMWnA4OXZ2bVhyekdTTnVxWkJJc08?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Link: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wU2JOQU40TDMzMlNPRWVPY2Q1Ym5GdWFpYnNEVzZOZTVGaUpueUFHb1RxSEFaNG5fem1kRlJvZk0tenZHc0VJT0RRSm82WTVzcHJXSzIyQlJMOFFHVVR2Wg?oc=5&hl=en-US&gl=US&ceid=US:en
+- England ready to play first Test in Zimbabwe since bad-tempered 1996 tour The Guardian
+  - Publisher: The Guardian
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQWC1Tck9FQXVwUmN2aGxSRGhCWm94TUs3V0gxVVhaS1ctNXktTU5BcDMxWDBBcU9oSE1VcE53X25uX0FsdG9ma0t5dEpQenh5cjFDZndXOEVGZWRtLUo5UDJzZllEcG1xZzUxTjR0bENoUVBud25uaWVaTVltOERCbl92aFRrd0FkTE85SE83V1UyWk5vRmhKaTA1U3hPMWR1QVdGMA?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Reel script — draft
-**Estimated narration:** 66 words
+**Estimated narration:** 71 words
 
-HOOK: Here's what happened: Thunder vs. Clippers: Live updates, highlights for Friday's game - Yahoo Sports.
+HOOK: Here's what happened: ENG vs SL, 3rd ODI, Sri Lanka tour of England, 2026 - Scorecard - Cricbuzz.
 
 REPORTED DETAILS:
-Clippers: Live updates, highlights for Friday's game Yahoo Sports
-Thunder vs Clippers Prediction, Pick, NBA Odds for Friday, November 13 Yahoo Sports
-Clippers vs Thunder Injury Report Rules Out Nine Players for NBA Cup Matchup Yahoo Sports
-Nikola Topic to make 2026-27 regular season debut in Thunder-Clippers game OKC Thunder Wire
+ENG vs SL, 3rd ODI, Sri Lanka tour of England, 2026 - Scorecard Cricbuzz
+ENG vs PAK Cricket Scorecard, 2nd Test at London, August 27 - 30, 2026 Cricinfo
+England Cricket Team matches, scorecards, news and statistics Cricbuzz
+Australia vs England LIVE: Second ODI, Adelaide Oval - cricket score, commentary & updates BBC
 
 ENDING: Follow InfoRush for more important updates.
 
 ### Caption
-What happened in clippers vs thunder? Here are the reported details. Follow InfoRush for more.
+What happened in england cricket team? Here are the reported details. Follow InfoRush for more.
 
 ### Hashtags
 #InfoRush #NewsUpdate #DiscoverMore #LatestUpdates
@@ -99,35 +103,93 @@ What happened in clippers vs thunder? Here are the reported details. Follow Info
 
 ---
 
-## World News: ஜூனியர் விகடன்
-**Status:** SINGLE-SOURCE CANDIDATE — VERIFY BEFORE PUBLISHING
+## Sports: uc davis football
+**Status:** MULTI-SOURCE CANDIDATE — VERIFY BEFORE PUBLISHING
 
 **Important:** This is an automated research draft, not confirmed news.
 
 ### Related reports
-1. **CM Joseph Vijay Reportedly Meets Only Chief Secretary, Senior IAS Officers Raise Red Flags, Says Junior Vikatan Report - TheCommuneMag**
-- Publisher: TheCommuneMag
-- Published: Thu, 02 Jul 2026 07:00:00 GMT
-- Article: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS0tzQlhuczVwR1plSVowRDhUU2tzY3A4WDZkRjNGdnNoOFV4OWpvWkEzRzNJcE4xaUhxdF9qVlZlZlF5RlhKWVozRlVmMHhtcURzd3FEN3BqVXNJX2JnTHM2ejRTdTkzQ0xpbFlxdUdYc09WQlRnTkdLR0pyRmxtRVdOZXlSRmFqamtidFlhdndtU1B2aHpEZmJLWlk5ekk5dGpZbWpJOTlQdUJEME5BTUZNY0ZVMXZrZ3ZmbWF0aG13SFBiSmxKTkVaRFlWb1JBaXgyVHVNMTVwWTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+1. **‍‍‍ [WATCHLIVE]TV!] UC Davis vs Idaho LIVE Kick off time TV 14 November 2026 - Universitat de Barcelona**
+- Publisher: Universitat de Barcelona
+- Published: Sat, 14 Nov 2026 23:11:18 GMT
+- Article: https://news.google.com/rss/articles/CBMimgJBVV95cUxNQnlkc01IS3pTN290bUstaTZzY0ZDT1pRdndESEk3ZmVxZlowTlJlZVRXc3FGUnlQWGp4VTJZTHp5Y3k3YXpJMGF5T3NMNU9KbWZlX01Yb2RuMGtiQ3M0UGxHdDhsLVY0bGZGWkZrc01OaldzVl9LZFhTcHV6UGNUY0I3ckQtcWZHVkhmWWhCRWI1dWRrNXNsWGtla0xkclEtNVladlF4WDd6Z1ZTNm9fMmJkNHJWOUpRQTUtRm9EUWxQM2pIcVJOUlZsUFgzbzRrZFdHalREZ0xPVDZlOVJBWTVsTF84MWVnd2lhTXdBUElsak9xeWZMMEhWaGYyN1RCM25PLV96a2FRMG0tNm5XaGVrNzhBUURTeVE?oc=5&hl=en-US&gl=US&ceid=US:en
+
+2. **Football at Idaho Moved to 5:00 PM - UC Davis Athletics**
+- Publisher: UC Davis Athletics
+- Published: Sat, 14 Nov 2026 07:36:39 GMT
+- Article: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTAtM1BrYzhvd1FYVHVmLVdFY1JGb1d5Z2RLOThOZEdLYmViaEQ3dEJkTXNteEp2OXFIaS1PeWhTOGxnOHZjRzZnaXhqZHVfaDZxOHV4V1Z3R0pXWjYyb2JSOGpMZnZ0M3dBWHM1UVFUTlhGY2RUUEdjdGhkenZoWmNIcTlkWTUz?oc=5&hl=en-US&gl=US&ceid=US:en
+
+3. **Grounded Planes Delay U of I Vandals vs. UC Davis Football Game Today - Big Country News |**
+- Publisher: Big Country News |
+- Published: Sat, 14 Nov 2026 15:18:12 GMT
+- Article: https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnNpRTJNWklza0pXUW9TUV9aRmtWTWhRRlJEWVhZZ0hJdlhhMndnN1haNGdBdUNtdVN5TTFpRmdOdkZ3ZUdldDljbGNaVXJyZDl3RU9uSTh0emFFTjlVN1puQldCV09pMm1lSDV5aWlYOS1YQWh5aGtoc1hrRmkxakRBY2swU20xN2dxdkdBS01pTkY1OWlXLXFxdlFOR1NsRlB4UGV1Q2pia0RXOFBZ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+4. **UC Davis Football | UC Davis Football News, Scores, Highlights, Stats, Standings, and Rumors - Bleacher Report**
+- Publisher: Bleacher Report
+- Published: Sat, 14 Nov 2026 03:32:36 GMT
+- Article: https://news.google.com/rss/articles/CBMiV0FVX3lxTE50cWxhR3ZEQUZwQllDMXRoZ0VLREl4UXVIdC11UHdacDRldGI0NWpSbGxtQm54WmZOcDlKVVItQl91TE9HOS1BbDNtVnZQUVRpM3JLSnphMA?oc=5&hl=en-US&gl=US&ceid=US:en
+
+5. **Football Team Looks to Continue Momentum in 2026 - UC Davis**
+- Publisher: UC Davis
+- Published: Tue, 25 Aug 2026 07:00:00 GMT
+- Article: https://news.google.com/rss/articles/CBMie0FVX3lxTE1vbElqbktHM0QzSHJ5NFhMU3Uwcm9Uamp4NWxEc1g0ZmwyLTVsLS1nSEhLVGUya0RIYVNrQWd5eUxmUWRqN3JYcDJhNEI2d3E4eUZrTC1MSVVOTmxTNUd2TGx6dUZmQXdnbWQ4V2xVUXFFNmxtQkZPZHhLWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+6. **Idaho vs. UC Davis football game officially set for 5 p.m. kickoff Saturday on SWX - SWX Local Sports**
+- Publisher: SWX Local Sports
+- Published: Sat, 14 Nov 2026 01:40:00 GMT
+- Article: https://news.google.com/rss/articles/CBMigAJBVV95cUxOY21BeHROWVlHTlI0bVJlMmljTjhqY2FReC15aVlZMnNhRWxUV2xqWDZzUXItTVpFcU42SmJMS095TjBqSDcwWFJSY2FNMmMyMUIxTV9xUm9vRmtycEdjdENSVGpwNXFpdWc0WkExSlpqQmNSdXA5V29mUFB2TXRfVW15QzJyaGRzTzh6anJyaUJXWjl0bkdrbWxHMENZNVZWZ190TlVWWUxwcXp6SWQza1cxNm0yVlMzSWM3ejFORlV4SUx2c3djbkxMb1lsUUZwUDdyTFJWRVpyMjVhOU5BRFQ5UEk2Vm11NnhJV2FWR1hZbDZ5TjczcTdkcVJxVmtU?oc=5
+
+7. **Idaho football kickoff time moved back - Moscow-Pullman Daily News**
+- Publisher: Moscow-Pullman Daily News
+- Published: Sat, 14 Nov 2026 06:15:03 GMT
+- Article: https://news.google.com/rss/articles/CBMiggFBVV95cUxPVDdmbV9xZ2ZjOU1ETXNjZ0wyNXAteFlBYW8xb2ZsbTlPX0I2TVlXUzJzVDdtX1FMcjk4V1VEWHFBV3FsTG9kZEhKYzBHUDFkTjVwOGZwckY3eURkYzVVZGtsOTM3cEtnYkt0ci1zcGkwQzRKTjR3d2FCRGx6cFpvTUhB?oc=5
+
+8. **Football to Host UC Davis in Pivotal Senior Day Showdown - University of Idaho Athletics**
+- Publisher: University of Idaho Athletics
+- Published: Wed, 11 Nov 2026 03:58:53 GMT
+- Article: https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUJKdkpTUmV2aDBoOU4wVFUxSmtUb0Ntc0RXU2l5b1hla0Y2Nm9rUk5LUWJxZ0RObnFUaHhZQnVkai16WWVmZjAtVGFmWEJZaldRQ3g2ZjJ5RmJoR2htXzJfa1BldUFXX3NXSWpkZkVMNGJNR3A1TmFQVHZwN2lISVh4bHIwUEFNNEl5Qm1mTTBWOVpMekFtZWVtMjlHR0t2?oc=5
 
 ### Extracted information
-- CM Joseph Vijay Reportedly Meets Only Chief Secretary, Senior IAS Officers Raise Red Flags, Says Junior Vikatan Report TheCommuneMag
-  - Publisher: TheCommuneMag
+- ‍‍‍ [WATCHLIVE]TV!] UC Davis vs Idaho LIVE Kick off time TV 14 November 2026 Universitat de Barcelona
+  - Publisher: Universitat de Barcelona
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS0tzQlhuczVwR1plSVowRDhUU2tzY3A4WDZkRjNGdnNoOFV4OWpvWkEzRzNJcE4xaUhxdF9qVlZlZlF5RlhKWVozRlVmMHhtcURzd3FEN3BqVXNJX2JnTHM2ejRTdTkzQ0xpbFlxdUdYc09WQlRnTkdLR0pyRmxtRVdOZXlSRmFqamtidFlhdndtU1B2aHpEZmJLWlk5ekk5dGpZbWpJOTlQdUJEME5BTUZNY0ZVMXZrZ3ZmbWF0aG13SFBiSmxKTkVaRFlWb1JBaXgyVHVNMTVwWTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Link: https://news.google.com/rss/articles/CBMimgJBVV95cUxNQnlkc01IS3pTN290bUstaTZzY0ZDT1pRdndESEk3ZmVxZlowTlJlZVRXc3FGUnlQWGp4VTJZTHp5Y3k3YXpJMGF5T3NMNU9KbWZlX01Yb2RuMGtiQ3M0UGxHdDhsLVY0bGZGWkZrc01OaldzVl9LZFhTcHV6UGNUY0I3ckQtcWZHVkhmWWhCRWI1dWRrNXNsWGtla0xkclEtNVladlF4WDd6Z1ZTNm9fMmJkNHJWOUpRQTUtRm9EUWxQM2pIcVJOUlZsUFgzbzRrZFdHalREZ0xPVDZlOVJBWTVsTF84MWVnd2lhTXdBUElsak9xeWZMMEhWaGYyN1RCM25PLV96a2FRMG0tNm5XaGVrNzhBUURTeVE?oc=5&hl=en-US&gl=US&ceid=US:en
+- Football at Idaho Moved to 5:00 PM UC Davis Athletics
+  - Publisher: UC Davis Athletics
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTAtM1BrYzhvd1FYVHVmLVdFY1JGb1d5Z2RLOThOZEdLYmViaEQ3dEJkTXNteEp2OXFIaS1PeWhTOGxnOHZjRzZnaXhqZHVfaDZxOHV4V1Z3R0pXWjYyb2JSOGpMZnZ0M3dBWHM1UVFUTlhGY2RUUEdjdGhkenZoWmNIcTlkWTUz?oc=5&hl=en-US&gl=US&ceid=US:en
+- UC Davis Football Game Today Big Country News |
+  - Publisher: Big Country News |
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnNpRTJNWklza0pXUW9TUV9aRmtWTWhRRlJEWVhZZ0hJdlhhMndnN1haNGdBdUNtdVN5TTFpRmdOdkZ3ZUdldDljbGNaVXJyZDl3RU9uSTh0emFFTjlVN1puQldCV09pMm1lSDV5aWlYOS1YQWh5aGtoc1hrRmkxakRBY2swU20xN2dxdkdBS01pTkY1OWlXLXFxdlFOR1NsRlB4UGV1Q2pia0RXOFBZ?oc=5&hl=en-US&gl=US&ceid=US:en
+- Grounded Planes Delay U of I Vandals vs.
+  - Publisher: Big Country News |
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnNpRTJNWklza0pXUW9TUV9aRmtWTWhRRlJEWVhZZ0hJdlhhMndnN1haNGdBdUNtdVN5TTFpRmdOdkZ3ZUdldDljbGNaVXJyZDl3RU9uSTh0emFFTjlVN1puQldCV09pMm1lSDV5aWlYOS1YQWh5aGtoc1hrRmkxakRBY2swU20xN2dxdkdBS01pTkY1OWlXLXFxdlFOR1NsRlB4UGV1Q2pia0RXOFBZ?oc=5&hl=en-US&gl=US&ceid=US:en
+- UC Davis Football | UC Davis Football News, Scores, Highlights, Stats, Standings, and Rumors Bleacher Report
+  - Publisher: Bleacher Report
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMiV0FVX3lxTE50cWxhR3ZEQUZwQllDMXRoZ0VLREl4UXVIdC11UHdacDRldGI0NWpSbGxtQm54WmZOcDlKVVItQl91TE9HOS1BbDNtVnZQUVRpM3JLSnphMA?oc=5&hl=en-US&gl=US&ceid=US:en
+- Football Team Looks to Continue Momentum in 2026 UC Davis
+  - Publisher: UC Davis
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE1vbElqbktHM0QzSHJ5NFhMU3Uwcm9Uamp4NWxEc1g0ZmwyLTVsLS1nSEhLVGUya0RIYVNrQWd5eUxmUWRqN3JYcDJhNEI2d3E4eUZrTC1MSVVOTmxTNUd2TGx6dUZmQXdnbWQ4V2xVUXFFNmxtQkZPZHhLWQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Reel script — draft
-**Estimated narration:** 42 words
+**Estimated narration:** 65 words
 
-HOOK: Here's what happened: CM Joseph Vijay Reportedly Meets Only Chief Secretary, Senior IAS Officers Raise Red Flags, Says Junior Vikatan Report - TheCommuneMag.
+HOOK: Here's what happened: ‍‍‍ [WATCHLIVE]TV!] UC Davis vs Idaho LIVE Kick off time TV 14 November 2026 - Universitat de Barcelona.
 
 REPORTED DETAILS:
-CM Joseph Vijay Reportedly Meets Only Chief Secretary, Senior IAS Officers Raise Red Flags, Says Junior Vikatan Report TheCommuneMag
+‍‍‍ [WATCHLIVE]TV!] UC Davis vs Idaho LIVE Kick off time TV 14 November 2026 Universitat de Barcelona
+Football at Idaho Moved to 5:00 PM UC Davis Athletics
+UC Davis Football Game Today Big Country News |
+Grounded Planes Delay U of I Vandals vs.
 
 ENDING: Follow InfoRush for more important updates.
 
 ### Caption
-What happened in ஜூனியர் விகடன்? Here are the reported details. Follow InfoRush for more.
+What happened in uc davis football? Here are the reported details. Follow InfoRush for more.
 
 ### Hashtags
 #InfoRush #NewsUpdate #DiscoverMore #LatestUpdates
@@ -147,7 +209,7 @@ What happened in ஜூனியர் விகடன்? Here are the reported
 
 ## Run summary
 - Drafts created: 2
-- Topics found: 40
+- Topics found: 39
 - Topics attempted: 2
 - Topics skipped: 0
 
