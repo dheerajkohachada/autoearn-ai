@@ -1,52 +1,52 @@
 # InfoRush Trending Topics
-Updated: 2026-11-15 04:22:04.480083 UTC
+Updated: 2026-11-16 04:58:42.532582 UTC
 
 These are trend candidates, not verified news.
 
 ## India
-1. naman dhir
-2. ईशान किशन
-3. nitto atp finals
-4. अक्षर पटेल
-5. eng बनाम aus
-6. ufc 335
-7. ishan kishan
-8. england cricket team
-9. sam curran
-10. yousri belgaroui
+1. today bank open or closed
+2. kotak bank share price
+3. m&m share price
+4. hdfc life share price
+5. mathrubhumi
+6. बारिश मौसम विभाग
+7. nse share price
+8. itc share price
+9. ಪರೀಕ್ಷೆ
+10. deepak chahar
 
 ## United States
-1. ed orgeron
-2. sean strickland
-3. la mansion vip
-4. middleweight ufc
-5. uc davis football
-6. aeropuerto internacional de miami
-7. hawaii football
-8. deion sanders phone call keyshawn
-9. dylan stewart
-10. anthony olascuaga
+1. afc north standings
+2. shai gilgeous-alexander
+3. sharks game
+4. ravens vs chargers
+5. canucks
+6. the mighty nein season 2 release
+7. mason rudolph
+8. gta 6 online release date
+9. will howard
+10. vgk
 
 ## United Kingdom
-1. aus vs eng
-2. game pass
-3. ufc 336
-4. icc
-5. zion williamson
-6. david adeleye
-7. ind vs nz
-8. heat vs pistons
-9. kids choice awards 2026
-10. timberwolves vs bulls
+1. news today
+2. nba scores
+3. kremlin meeting russian business elite
+4. bucks vs hawks
+5. bengals vs steelers
+6. helix console
+7. wizards vs rockets
+8. gta 6 physical copy code flaw
+9. hm
+10. russian border
 
 ## Canada
-1. klay thompson
-2. ilia malinin
-3. michael j fox
-4. ewan mcgregor
-5. nhl standings
-6. uf
-7. john mulaney
-8. hockey games tonight
-9. florida panthers
-10. jane seymour
+1. vancouver canucks
+2. macklin celebrini
+3. mark carney
+4. gta vi
+5. darius acuff jr.
+6. mitch marner
+7. brock boeser
+8. prince harry and meghan markle
+9. mexique
+10. daniel hall taxiride
