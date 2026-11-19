@@ -1,52 +1,52 @@
 # InfoRush Trending Topics
-Updated: 2026-11-18 04:25:43.702717 UTC
+Updated: 2026-11-19 04:27:48.075066 UTC
 
 These are trend candidates, not verified news.
 
 ## India
-1. angel one share price
-2. mcx silver price
-3. tom banton
-4. priyansh arya
-5. gold rate today kerala
-6. mahanadi coalfields ipo
-7. mcx gold
-8. ಲೋಕಾಯುಕ್ತ
-9. clippers vs jazz
-10. xauusd
+1. gold rate today
+2. gemini 4 neon
+3. crystal crop protection ipo
+4. नरेन्द्र मोदी
+5. hindustan zinc share price
+6. mcx gold
+7. gold price today
+8. gold mcx
+9. watrana rentals ipo gmp
+10. pooja hegde
 
 ## United States
-1. montana state vs gonzaga
-2. lakers schedule
-3. darryn peterson
-4. what is a dirty bomb mean
-5. gta 6 screenshots
-6. winter storm warning
-7. hornets
-8. gonzaga basketball
-9. keyonte george
-10. lisa murkowski
+1. technology news
+2. national book award 2026
+3. matt rife
+4. red dead redemption
+5. connections hint nov 18
+6. colorado basketball
+7. amazing race
+8. fresno state basketball
+9. chicago pd cast
+10. josh green
 
 ## United Kingdom
-1. aus vs eng
-2. mexico vs jamaica
-3. dua lipa
-4. playstation
-5. timberwolves vs trail blazers
-6. rockstar north
-7. 111
-8. euromillions results tuesday
-9. sky os
-10. spurs vs pistons
+1. nuggets vs celtics
+2. lakers vs jazz
+3. gta 6 fix railing
+4. palmeiras
+5. how to save gta 6
+6. nets vs bulls
+7. resin
+8. mavericks vs warriors
+9. gta 6 first person
+10. bobby moynihan
 
 ## Canada
-1. gabe newell
-2. dylan harper
-3. olivia munn
-4. the young and the restless
-5. andrej stojaković
-6. lamelo ball
-7. all boivin
-8. leafs
-9. ayo dosunmu
-10. assassination
+1. matt rife
+2. huberdeau
+3. the red clay strays
+4. judge
+5. property
+6. elissa slotkin
+7. fowler
+8. nathan fielder
+9. luke combs
+10. suns vs kings
