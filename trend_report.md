@@ -1,52 +1,52 @@
 # InfoRush Trending Topics
-Updated: 2026-11-19 04:27:48.075066 UTC
+Updated: 2026-11-20 04:22:58.226650 UTC
 
 These are trend candidates, not verified news.
 
 ## India
-1. gold rate today
-2. gemini 4 neon
-3. crystal crop protection ipo
-4. नरेन्द्र मोदी
-5. hindustan zinc share price
-6. mcx gold
-7. gold price today
-8. gold mcx
-9. watrana rentals ipo gmp
-10. pooja hegde
+1. ibja
+2. m siddharth
+3. election results
+4. mahanadi coalfields ipo
+5. election
+6. election results today
+7. nsc
+8. hong kong open
+9. silver mcx
+10. gold rate today 22 carat
 
 ## United States
-1. technology news
-2. national book award 2026
-3. matt rife
-4. red dead redemption
-5. connections hint nov 18
-6. colorado basketball
-7. amazing race
-8. fresno state basketball
-9. chicago pd cast
-10. josh green
+1. stephen baldwin
+2. vgk
+3. lea seydoux
+4. gold price
+5. will levis
+6. stanford basketball
+7. henry to'oto'o
+8. sacerdote
+9. houston basketball
+10. is tyran stokes playing tonight
 
 ## United Kingdom
-1. nuggets vs celtics
-2. lakers vs jazz
-3. gta 6 fix railing
-4. palmeiras
-5. how to save gta 6
-6. nets vs bulls
-7. resin
-8. mavericks vs warriors
-9. gta 6 first person
-10. bobby moynihan
+1. news today
+2. games
+3. nba scores
+4. gold price
+5. texans vs colts
+6. spurs vs clippers
+7. time
+8. grizzlies vs warriors
+9. timberwolves vs knicks
+10. patrick stewart
 
 ## Canada
-1. matt rife
-2. huberdeau
-3. the red clay strays
-4. judge
-5. property
-6. elissa slotkin
-7. fowler
-8. nathan fielder
-9. luke combs
-10. suns vs kings
+1. flames game tonight
+2. saudi arabia news
+3. alex eala wta 2026 stats
+4. yashasvi jaiswal
+5. salt lake vs seattle sounders
+6. woody harrelson
+7. dominic leblanc u.s. trade talks
+8. theft
+9. submarine
+10. essence
