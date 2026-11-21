@@ -1,52 +1,52 @@
 # InfoRush Trending Topics
-Updated: 2026-11-20 04:22:58.226650 UTC
+Updated: 2026-11-21 04:20:08.089013 UTC
 
 These are trend candidates, not verified news.
 
 ## India
-1. ibja
-2. m siddharth
-3. election results
-4. mahanadi coalfields ipo
-5. election
-6. election results today
-7. nsc
-8. hong kong open
-9. silver mcx
-10. gold rate today 22 carat
+1. perth scorchers vs sydney sixers
+2. nuggets vs rockets
+3. విరాళం
+4. ভিসা
+5. josh hazlewood
+6. bulls vs wizards
+7. test ranking
+8. jazz vs suns
+9. guidance tamil nadu official statement
+10. lakers vs kings
 
 ## United States
-1. stephen baldwin
-2. vgk
-3. lea seydoux
-4. gold price
-5. will levis
-6. stanford basketball
-7. henry to'oto'o
-8. sacerdote
-9. houston basketball
-10. is tyran stokes playing tonight
+1. domantas sabonis
+2. richard kind
+3. manny diaz
+4. cameron carr
+5. christian braun
+6. demar derozan
+7. sacramento kings vs lakers match player stats
+8. jokic
+9. truck driver
+10. anya taylor-joy
 
 ## United Kingdom
-1. news today
-2. games
-3. nba scores
-4. gold price
-5. texans vs colts
-6. spurs vs clippers
-7. time
-8. grizzlies vs warriors
-9. timberwolves vs knicks
-10. patrick stewart
+1. movie times
+2. byd banned
+3. lakers vs kings
+4. nyt connections hints
+5. frank lampard
+6. news today
+7. thunder vs pelicans
+8. gta 6 how many chapters
+9. amazon prime video
+10. kristen stewart
 
 ## Canada
-1. flames game tonight
-2. saudi arabia news
-3. alex eala wta 2026 stats
-4. yashasvi jaiswal
-5. salt lake vs seattle sounders
-6. woody harrelson
-7. dominic leblanc u.s. trade talks
-8. theft
-9. submarine
-10. essence
+1. david boreanaz
+2. las vegas weather
+3. aday mara
+4. toyota recall
+5. elle fanning
+6. jacques villeneuve
+7. kevin huerter
+8. trayce jackson-davis
+9. federal bureau of investigation
+10. how many episodes in mobland season 2
