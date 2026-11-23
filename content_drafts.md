@@ -1,88 +1,92 @@
 # InfoRush Content Drafts
-Generated: 2026-11-22 04:23:10 UTC
+Generated: 2026-11-23 04:40:00 UTC
 
 Free RSS research and article extraction.
 All drafts are candidates, not verified news.
 
-## Sports: blind cricket
+## World News: gold rate today
 **Status:** MULTI-SOURCE CANDIDATE — VERIFY BEFORE PUBLISHING
 
 **Important:** This is an automated research draft, not confirmed news.
 
 ### Related reports
-1. **India cry foul over Pakistan's Asia Cup title, boycott trophy presentation in Dhaka - Rediff**
-- Publisher: Rediff
-- Published: Fri, 20 Nov 2026 14:21:01 GMT
-- Article: https://news.google.com/rss/articles/CBMiygFBVV95cUxNdFQ4Vk1XcjUwVmFXMlFoOHNFNTFlMjB6cTZrVVlDT1ptS2hJSDh1WGlFUUZwTmRxT2FNTlZKYWRRbm1hTzZqXzFFTGlfV1Mxd2NXVC1kdnVnR0xaTmJ2MnUtR3BNcGd3Rm8yR3p1bVFiWXNOQ0lBYXlCamI5SjZHbWlpaTJKVEUxN0hBOFpfZGNsNjRGeWVJOW9mQnhlRDhzRmd4OWZtdElLU0EzbTJMcHhPTmZGSmZ0YzJIcnJ1LVRCMXJpcHhQajJR0gHMAUFVX3lxTE1yNldJcWtrdjh2T1JfRWw5cGdveGx2RnktMXZTSjlvLWVQdW1oWkV3LUpLY3oybUsxNEdVcEd5UVV2MEhVUmIzZld3N2lNRm9rNE1aMW1NZ3d5N3FoV0RhR2g4MjlnODRkMjNlbXU4Rl9INmo2QTZsZk1mTHNEbkxTU1phUEZCd0g1WUE5cnNoSGt6WV9fbnZwNFRtZzl6TTdPRy1MZFNZUExLbnRjbEdELUtCNWRNUnRuTFFMSUdrUnl6MWt2SW4yQ3RxQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+1. **Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo**
+- Publisher: Kotak Neo
+- Published: Sun, 22 Nov 2026 23:23:08 GMT
+- Article: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5&hl=en-US&gl=US&ceid=US:en
 
-2. **India boycotts trophy ceremony after Pakistan declared champions - Sandesh**
-- Publisher: Sandesh
-- Published: Fri, 20 Nov 2026 13:56:24 GMT
-- Article: https://news.google.com/rss/articles/CBMixwFBVV95cUxQUTZ4c3hSU1FCbmFBQlhDYjJ4ckp4VTk0b2txZ0VMS3IxSjBISllIMnhMaW5Rc09lVC1VdVlSZHF3Q0h3UjgxY1Y2LWdjNVdKeXhRWlVWbVp2UUt6cG5PSHBxemVRMUVUUmIxNHlFUTQwYlNlY1pqTUprSmdOSUd0SVdNa1NJVmtnS3dPQlpaNlNwa0FHSElEOEI4R0xZRElTemIzcjZvUVgtTE5SdlFnN2hDWVRLWXNLbEV4ZXlTVTR3VDZsWHJR?oc=5&hl=en-US&gl=US&ceid=US:en
+2. **Gold Prices Today: Rates Rebound on November 23 After Sharp Weekly Crash - AP7AM**
+- Publisher: AP7AM
+- Published: Mon, 23 Nov 2026 02:42:21 GMT
+- Article: https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUJhS1lVcjdqSVBCWmRMWXAza1Jta3ZSdFFXSENycGxqQldHUDU2QW5hSkJINmZxM3NLX0tybGtiMGJVQUhkV2hzbkJIYThDR2R5SFp4eHkxbzhEd19oVjQ0SWpKVG5WbWlHdmZPeDJUSHJpckZRQWVpcDNNMmtuTUptb3VzeFM3N1R1d2VyMDg3X1dmRnVzdFdmRGMtVTJzN1NKclhn0gGrAUFVX3lxTE9KNjEzWjBtVmp1YlY0azFPT0FzS1NFWUYtUEloTFNOLVJuYkJRNkY4UTBzd3VTMzNRN3FSTlYtdVh6Mk4xeVdWaWlxN2o3VktZZDV6OWJISTlxQVhJRUVHT2d1ek5CTnhlTDlhMXNLZDU0a1dqQ0xlTmZhSzdoU3JJSjRTZDQtUW5JYWR5ME12MHJHVlY0SEhNc1NGMnp4MnJ5WXRGX2FKeXJ5MA?oc=5&hl=en-US&gl=US&ceid=US:en
 
-3. **Asia Cup 2026 for blind: Controversy continues as Team India now alleges umpire celebrated with Pakistan after title win - Yahoo Sports**
-- Publisher: Yahoo Sports
-- Published: Sat, 21 Nov 2026 17:48:01 GMT
-- Article: https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFRCbnFHWnh5TjBrSmpBMlBBSF9BREFSQlZsWEZrRURhS3RXaGpoWkI1YkpFdjI4X0IxeEd3RDg2eHc3YlBmdlJvQ2x5ekV1UVFTbndDMFJVQmZaSWF0YjdTRjlGVmoxckdhVUpEalZQS1BFeUlpdVZBRnk3LU9QaWtNanpoMlU?oc=5&hl=en-US&gl=US&ceid=US:en
+3. **Gold rate today, November 22: Gold lost ₹22,822 in 30 days; here's how the fall unfolded - Upstox**
+- Publisher: Upstox
+- Published: Sun, 22 Nov 2026 11:19:10 GMT
+- Article: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSjJHazdVZUFWOS1sblNyQWZzRXRzNk9NbG9EWmd3bkRlVlpkM2dpN1k2MW80WG5ucHc5LWtyeXltTUxLTFJtQnFhOElTdHFhWXBWazNLbldQYVpVNWZIc1ZhX3QxMlBNVVhRZE1NQjBNN1BOUnpEWWRCNFRXTFpIdTBhcXB6aTYxdGJfTm9YZjJCN1BJRFNNZGdmZGt2TXMwZVRWRHRuWG5ZM0c3MmtGTEVvWUoxWjJMZTB4OTZpY1k1bWpWaUVxWGlZY1MzVWtxV2wzRVhvVzdtSktzSm81SWYxZ2FkUDRP?oc=5&hl=en-US&gl=US&ceid=US:en
 
-4. **Pakistan declared Asia Cup winners after washout, India blind cricket team boycotts presentation ceremony - The New Indian Express**
-- Publisher: The New Indian Express
-- Published: Fri, 20 Nov 2026 17:28:19 GMT
-- Article: https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcGxkZWtqYzR3bUt4OWVJZ1RlRWZfY0FlRjJBVnlQUUFpaTFaejVrYWJKUDB5NjJkYTZ0bmxvMFFsZVFpWU1id3ZVZDBOTmxfN2pQRW1sd3gzSkhtQzgwQWZwVUtuYksydkF6ME50UmtsX2ZPR0VnYTRiQ0E3dXpubi1xZ2U0VDdtcTFtVlZjTm1BRkxkZm9VdUZ6NzF6MUNid19SRGZZVEU0NTV2enk2WlA2N0NlY1RRb0dBVnd5bWlRY0hKNkRBbG4tVmY4Ty1scmNYdUtkYTI3ZFVTUXFjZXpYdk9hdUpFMUVYNGNPUDFuSjZOeGlUVXhTTdIBiAJBVV95cUxOV21Fb19GYmQ2dzljTDZtOWNUQnhLS3pBVTBqT2w4RjdXSVE0UWFJNzlLcVJjSEY3cF8tWVJiWTZBWFpDOUpDbkNtWk81YkM4eDZzZ0ZBNUJGVEJSMUxuQ0t3dGthVUNKc0lwbzIydHFwUUNkZFFjTHNMOHk4bVRHSjNwVmtOSEE4SmIwMzB6QUFaa2J0Y0cyNkgtM040RGMydGxsWE1rU0pOTVYyVkhLU25XX21zcnZCbkE2eDBHOVZWQnlRNi1mR2l1Mi1HNGYzZDhsMXZDbk85WlV2MjVZNVRfRS00aDNWbFN3d3dmNVBCY3lpWnJ3SUpHT0lHT011VFJKX19NUG0?oc=5&hl=en-US&gl=US&ceid=US:en
+4. **Gold prices slide in Visakhapatnam, but Andhra Pradesh buyers remain cautious: Check retail rates of 24K, 22K, 18K gold - Livemint**
+- Publisher: Livemint
+- Published: Sun, 22 Nov 2026 08:54:22 GMT
+- Article: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbGNGOWVVdXNybEhJbDlrSVpFejdoZDJ3NGFZaWx3eG5scG8ySjdHemI4TE5KLVk4Q0xtaUR5YUNmOGNnTm1JRkoxT1dHVmtKTHozQzFaTmhILXdsWFB3emFKaWlDazUyZWFSMGhzQ3VyM0ZUd2JSV1h6ZENTUHBYQ3pVNkF2VndFYUdYRWx3UldkdWlHODVRZ2NZUzRuRFRfLWJ5MHo4NWR2MHVaMHRYQ1lBLVRMU0RpZ2VwMTdWSWlzanZEcUNENGpxMWFkd2hQd2FHSDlfZUVUQlh2M2NNU2h2eWg0czRGbzFXeGZNaTJGNW1oWEl2akh5Qi1uazjSAYQCQVVfeXFMTzhveGVXU0EyNG1oRTRmQXlxcmVBVURienl5NTlpS0xFZl96c3Facjk3NmZ6Z1c2MmVxMk45Q0NJdjNHM0Jfa01MaVdORWVjbzBaRVJiOHFqOHdiX0ZRUy1EX21KUVVlVzJWZkphYjZWZjJ4N1IzSXpQcmdacXl2YzdHY2FGYm5hdDRxQW9xanZUQm50ZWh4WF9ocm9nNzNmc25VemdNUDhrTUNLX19oMVNjQkRYeWNMZ3VpYVZPS3B5WmZ3RkQ5WEhBdnJYTlBKamZPQVM1OTg5MWJIVkNmdVZCTnhtZjQtT3h5RG5aYkNVemplMXJheXZ3RFdKS21xMXo1TU0?oc=5&hl=en-US&gl=US&ceid=US:en
 
-5. **Indian blind cricket team skips Asia Cup ceremony after Pakistan are declared winners - Gulf News**
-- Publisher: Gulf News
-- Published: Fri, 20 Nov 2026 14:03:39 GMT
-- Article: https://news.google.com/rss/articles/CBMizAFBVV95cUxNejVVMnBuZVRiUkN3d3pyYU9sWkVhWWE5djg1aUJISmtUSDBSb3I4RFlGWnE0NXlhd1pHaWNKS1c4WDNjbXJrdXBSQmVyRVlLNl9CWUJOVEtTWEVTX1JUa3hqS1VuZ0R5VlJ6U0tBOGxta096OFVaS0JCOEtsNzQzYTEzRDRBM1NObEk4RDZuSC1ZT3VWUVBLNG1jVVpFcU5DTnNTQk9LazVwNzk1SXpIV0VuV09DbHI1YmxfejZBSDA1M3l0ZUs3dzRYSVHSAd8BQVVfeXFMTlB4amJ4eWZQbDBLRmNnLXE2b1QzZlNOR3Vkb1hYNDEydVV1X0lETHpsX1VGV0FsOTdOWG1HUktOUHpiVEVISGN3M1lCdXZvd2JBXzMtUFo1WUVVRzVGUGhSU0ptQ1d4ZTVVYkxIUzBlc0pjOWZZTEZEUnN0SlVOYW41eDhHN0lXQ2ZvekxXc0FPTzJCMmRTNmlNRUZzeWRKMF93THpuMVZ2X0JrLW1uYzZLZmZ3VWdlUEJ6T292ZFBTaGF4THVFa1BpOFNXTEFkb0FWRzIyQkU5RFotWEJJOA?oc=5&hl=en-US&gl=US&ceid=US:en
+5. **Gold falls 11% to Rs 1.21 lakh and silver plunges 16.2% to Rs 1.47 lakh in a week to over one-year lows; - The Times of India**
+- Publisher: The Times of India
+- Published: Mon, 23 Nov 2026 02:35:00 GMT
+- Article: https://news.google.com/rss/articles/CBMipANBVV95cUxNQXRyNmdESnFwLWc2eTJLWmRtdXYwalNsTG1lQW9PQ1pvcThnb1VZNFU5Zm9qU3liSlN3RkhzWGdPb2FzRDRnbTJMWmpzbFNIVHJldzhXcGp1YU5RZUdzVUVUVXNCMzdRN3dKdDRacXVkaW5lUTU5eU1fT0hYYWNVNzNCX2ZQNFNEc2VqVkdFX20yT0V0S0pTUm9fa2oybXpCOVJpRTd1aDM4ZE1UTGpBZ1pNUG9BR1RxWW5ha0NMb01RYWY5cTJiTGhSRzhxeW90QndKU3ZreFViUjU5NDFmNEd2eDEtYTNtMkhEMGNfREdpSUhxcVFYbmpQbWR1YlFjc0RLT3B3U040UXpOczY2M2stOWRqVHNPc0dWclpzNzBXbVpPVGdiZE9XSjhxQjVmdzVrYW8yNldqTWtQUTZ6aTBjM0NGUlkxbzNpQ2pOcVYxa01saXA2cFNkWEhyLVdUTmFDQkxYVURLTFNsMGp5eXZwUHk5T3NkdDJWemFaclNNT21LM09scVBWRDA0bldfeW9vQjVSX3VUTUkzVVdWQm5ydDTSAaoDQVVfeXFMT0EyZmxJUHVrdmFnUzM2NEM3aHhrLW5RWGp1aUVJRWw4cmlhckk3eHd3RUM5ZmhfbktwS19PYVAwdFFkR3J3dkhBaE9yZ05HZnc4aE0xMC1Eb21RVlF0Vm4xNFV3QlVfaVZNaWZBR2pWMTlKbzM4RXpaVkU2VUhfYlhiNk80VVBUNlpFbW8waW1WbnNUZmdjTW1JYlk0ODlOanBiTFh1UUdDSDhxbVFnX29sNl92UUtxbXgzMmNnVndwT0xpNVBzeERpOEdWbHBUeENFd2QwNlZPX3V2OTJqQjNIQnVSV2dOUzc3cjIyRlljT2RWUWlsVWZ2TzNZVjE1c2ZZZzBDbVJiNll1ZEZFdlNWbFBUWG9nQlJadHJ2am13Ui1SVlV2d1hVUERpcFdlS3RzUlR1aTBvQlpSWGpXZW42Ry1wMlBRTnBTb0dWVzJhcTNETGttbkJYTFh3RzhoMVJlQ3laRmYwcDBJY0YzUXpTNmc4YXJMZWI3Z1d3WXZZSWFRNmVtQWdyVFNwLWFBVjhvbGJfVXVmTFhCWVNMSzRqclUyOVpoMFdB?oc=5&hl=en-US&gl=US&ceid=US:en
 
-6. **Indian Blind Cricket Team Boycotts Asia Cup Ceremony After Pakistan Declared Winner - NDTV Sports**
-- Publisher: NDTV Sports
-- Published: Fri, 20 Nov 2026 12:06:59 GMT
-- Article: https://news.google.com/rss/articles/CBMixgFBVV95cUxOVzBwckRmQkd3OEFuTTNiS3ZWbVYwbFhTeS1hMUFUMzVrSE9Bak42VnRHY25vUHJVNUlBWkY1NHNHR3FxMmlFSk5MN25YMWc4TW9lelE3OVpqYkJlUTA3T3E4SzBzRC1BcnN3RUkzemxCZkpvVGZDLWpRV2lNNUFqTFNVdmR6ZUZETTA5WktkWkR6Z0RvbXdTa3BuS3g4NjEtd1A5U3dJNEM3czAwV0RTOUg1ckphSC1ORlF4TTNuMmZ0dUN0TlE?oc=5
+6. **Gold Rate Today in Bangalore, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo**
+- Publisher: Kotak Neo
+- Published: Sun, 22 Nov 2026 23:49:36 GMT
+- Article: https://news.google.com/rss/articles/CBMic0FVX3lxTFBIS3F4MDVZR0tIVWlxMVltN080VkdVODBxWk9NTnp2Z2t6ODdyZ2ktSWNjM2RFSWIwWGU5UmZONnVZR1A3MUE5MG55aW5PNkpTRlJyTmVJZlItcmxaUlN4MFFYMVo4X3lFb0lrOWVMdUtnaWs?oc=5
 
-7. **India blind cricket team rejects Pakistan's controversial Asia Cup title; demands recognition as joint winners - ANI News**
-- Publisher: ANI News
-- Published: Fri, 20 Nov 2026 12:03:00 GMT
-- Article: https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTHZ6Y2RBa002T0dEMWhkenNaZ05uQURHSWtRbTZncTlmVE5wTGdTeUIwY05OcVdrMmlWb1o4WjhEVy1HaEppQkNkbk9zakROcFZGZGZ4OFZQekRmbFFjNUxORHhKX1dyelB3LVZVZGs0X05YRDdPQ3RCZWRBb2ZjSjRKUDg5QU04Q2J3c2dzVnZoUk1Gd3N6NmRjeXZ4TFNWaE9UWDRXdE1XNkNWWnREQVUtcUFjZzBOR21zRnZIS2tZckJkdU5mX3V5eGlpM2s1LThCVEcxUjdRai0wRlJHeWhPVGFEMGVTV1ViOGZiUW9maE9kaUJsdg?oc=5
+7. **Gold Rate Today: 24K Gold Falls Rs 5,120 to Rs 1.25 Lakh - HDFC Sky**
+- Publisher: HDFC Sky
+- Published: Fri, 20 Nov 2026 04:42:03 GMT
+- Article: https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMURoYThHTGIzRjBoVWVlWTNJMWIxUThwRExRNTdUQTRMcU5oRDAtRlFJbkoyYS1FamVaaWltSVhmVldWcmFwdURrLWRsY0x0a0M4RGlLbWZaVlBvQ3BxZU1RUXBVSnFzdko5QjB3bkQ3QUd6bGZwYU5DY3hBdHFOd0NhbDJSa3R0SnlsY09GUTNIc3V4LVJyQ2wtYVV4TWd5TWhCdDJhQXhTQi04SjNadjM2ZzJNV2RjUTEyNGZjbEU2NHRMa3pBQWdzeE9wb29mN0stQ2VJXzdDbWFSS21RVFAtbF94QTdCaHhiYmUxVXkzellReVRNV0R2cks?oc=5
 
-8. **India blind cricket team boycotts presentation after Pakistan awarded Asia Cup - The Indian Express**
+8. **Gold Rate Today, November 21: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express**
 - Publisher: The Indian Express
-- Published: Fri, 20 Nov 2026 14:56:55 GMT
-- Article: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSnA1Z2hLNWpiNHNxSGJ0VlkxYjhvbFN2U1I1NmI2dmp5M0JjRmdpcXNIUDhPZFlGN2R2RFRvSV82Qzdzc1JWd1lUc1Q4LUh2dVNXRVM3Ty01RXZjMVV1X2RDVWE1WWk2bEszWWUtcmpnWUg4RlNDMEhSX2RPdk5ZdG9ZWUUwU2hBZVYxZUFGbnpYMVB4T2lrbUlEYzdFLWhBRmF0UU9YRkZhcGhyeW10ejdmcmNOUjFIN3R3dDBBRDjSAccBQVVfeXFMTm9lV01weHpDSHJtdlMwSGFtR2ZfNGdLeDRoQ2Npd3F2b0UyV1MyQ1RvYnhjRGRydnRKbnVvYmhKb2hLTTdreUJEdTNqUjZoRmNRNEUyM2VvOU1KWjJ3czlsa2dZVEhnR0p2RUVRMkFvYXlTUTRiTGs3WUsyVWtuUFBJU241SFhIcXl0WW1oUmhuYm1lcjVVM2NuSE85N1pWekIyZm55REc3M3VMSmpOQzN4aTZyV3RGamhrVS13bWRKU1Vyemt5VQ?oc=5
+- Published: Sat, 21 Nov 2026 05:00:19 GMT
+- Article: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUmNqY3gzMVY3Tl9GcmxVcXh4MHhLZUhCaVROTUhzZUlBRS00NXJydTNSY3d2ektxT0VlQ0htVG1Mamt2aFFHZXFtU242X3pGUWxpUzRvalduZnNQQlg2bFlIY3cwT1ZVejBEaGZGc0RNaFFjRDB5N1NYNHNwZVdXUFVadEptTWV3UXVremxfVXlxalBMZmxHRFZ5azNEWUVzX3Rwc3dqUnRYZEx1OUFxNE5TODliTU5pbFpXRVBrWWdobzdDN0NhaVM4MUxyTXdFQ0o2ZzloaFhDOXliUW9JZVFna3I3Mnl2Rk1mUDcyZVdaTHU4aXfSAfwBQVVfeXFMUGwxZ1RJMS1uMEVmT2tWMFowTU9ZYnlHZnBDQVc4bDk5c0dES01LaUcxLTNVUENNRVJPckZrOWtoMWRhU1dGZFAzMnpWZ2YxYlRwWlRQYjFiSDVGV1hnLUFjcDBiMzBKZk0yZHc5aEc2STNZUGhqd0hBdzBqR2VqN2dVdmtJNlIyUXd1aGJ1Z2ZfVFVlMFJsOFhJUHZWODJqVmtab0ZmeWJ5TnY0ZmdpemlwWHlfeGY3dDg4UWJ3cmhDQVlSVEo5MDhRVGdNZmNsVTBRQXdFQ0tScktBcVB1SUsxbzhlMjVmSjI1WlloQXRXUkhJWmh6U3dla3VN?oc=5
 
 ### Extracted information
-- India boycotts trophy ceremony after Pakistan declared champions Sandesh
-  - Publisher: Sandesh
+- Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices Kotak Neo
+  - Publisher: Kotak Neo
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQUTZ4c3hSU1FCbmFBQlhDYjJ4ckp4VTk0b2txZ0VMS3IxSjBISllIMnhMaW5Rc09lVC1VdVlSZHF3Q0h3UjgxY1Y2LWdjNVdKeXhRWlVWbVp2UUt6cG5PSHBxemVRMUVUUmIxNHlFUTQwYlNlY1pqTUprSmdOSUd0SVdNa1NJVmtnS3dPQlpaNlNwa0FHSElEOEI4R0xZRElTemIzcjZvUVgtTE5SdlFnN2hDWVRLWXNLbEV4ZXlTVTR3VDZsWHJR?oc=5&hl=en-US&gl=US&ceid=US:en
-- Asia Cup 2026 for blind: Controversy continues as Team India now alleges umpire celebrated with Pakistan after title win Yahoo Sports
-  - Publisher: Yahoo Sports
+  - Link: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5&hl=en-US&gl=US&ceid=US:en
+- Gold Prices Today: Rates Rebound on November 23 After Sharp Weekly Crash AP7AM
+  - Publisher: AP7AM
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFRCbnFHWnh5TjBrSmpBMlBBSF9BREFSQlZsWEZrRURhS3RXaGpoWkI1YkpFdjI4X0IxeEd3RDg2eHc3YlBmdlJvQ2x5ekV1UVFTbndDMFJVQmZaSWF0YjdTRjlGVmoxckdhVUpEalZQS1BFeUlpdVZBRnk3LU9QaWtNanpoMlU?oc=5&hl=en-US&gl=US&ceid=US:en
-- Pakistan declared Asia Cup winners after washout, India blind cricket team boycotts presentation ceremony The New Indian Express
-  - Publisher: The New Indian Express
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUJhS1lVcjdqSVBCWmRMWXAza1Jta3ZSdFFXSENycGxqQldHUDU2QW5hSkJINmZxM3NLX0tybGtiMGJVQUhkV2hzbkJIYThDR2R5SFp4eHkxbzhEd19oVjQ0SWpKVG5WbWlHdmZPeDJUSHJpckZRQWVpcDNNMmtuTUptb3VzeFM3N1R1d2VyMDg3X1dmRnVzdFdmRGMtVTJzN1NKclhn0gGrAUFVX3lxTE9KNjEzWjBtVmp1YlY0azFPT0FzS1NFWUYtUEloTFNOLVJuYkJRNkY4UTBzd3VTMzNRN3FSTlYtdVh6Mk4xeVdWaWlxN2o3VktZZDV6OWJISTlxQVhJRUVHT2d1ek5CTnhlTDlhMXNLZDU0a1dqQ0xlTmZhSzdoU3JJSjRTZDQtUW5JYWR5ME12MHJHVlY0SEhNc1NGMnp4MnJ5WXRGX2FKeXJ5MA?oc=5&hl=en-US&gl=US&ceid=US:en
+- Gold rate today, November 22: Gold lost ₹22,822 in 30 days; here's how the fall unfolded Upstox
+  - Publisher: Upstox
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcGxkZWtqYzR3bUt4OWVJZ1RlRWZfY0FlRjJBVnlQUUFpaTFaejVrYWJKUDB5NjJkYTZ0bmxvMFFsZVFpWU1id3ZVZDBOTmxfN2pQRW1sd3gzSkhtQzgwQWZwVUtuYksydkF6ME50UmtsX2ZPR0VnYTRiQ0E3dXpubi1xZ2U0VDdtcTFtVlZjTm1BRkxkZm9VdUZ6NzF6MUNid19SRGZZVEU0NTV2enk2WlA2N0NlY1RRb0dBVnd5bWlRY0hKNkRBbG4tVmY4Ty1scmNYdUtkYTI3ZFVTUXFjZXpYdk9hdUpFMUVYNGNPUDFuSjZOeGlUVXhTTdIBiAJBVV95cUxOV21Fb19GYmQ2dzljTDZtOWNUQnhLS3pBVTBqT2w4RjdXSVE0UWFJNzlLcVJjSEY3cF8tWVJiWTZBWFpDOUpDbkNtWk81YkM4eDZzZ0ZBNUJGVEJSMUxuQ0t3dGthVUNKc0lwbzIydHFwUUNkZFFjTHNMOHk4bVRHSjNwVmtOSEE4SmIwMzB6QUFaa2J0Y0cyNkgtM040RGMydGxsWE1rU0pOTVYyVkhLU25XX21zcnZCbkE2eDBHOVZWQnlRNi1mR2l1Mi1HNGYzZDhsMXZDbk85WlV2MjVZNVRfRS00aDNWbFN3d3dmNVBCY3lpWnJ3SUpHT0lHT011VFJKX19NUG0?oc=5&hl=en-US&gl=US&ceid=US:en
-- Indian blind cricket team skips Asia Cup ceremony after Pakistan are declared winners Gulf News
-  - Publisher: Gulf News
+  - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSjJHazdVZUFWOS1sblNyQWZzRXRzNk9NbG9EWmd3bkRlVlpkM2dpN1k2MW80WG5ucHc5LWtyeXltTUxLTFJtQnFhOElTdHFhWXBWazNLbldQYVpVNWZIc1ZhX3QxMlBNVVhRZE1NQjBNN1BOUnpEWWRCNFRXTFpIdTBhcXB6aTYxdGJfTm9YZjJCN1BJRFNNZGdmZGt2TXMwZVRWRHRuWG5ZM0c3MmtGTEVvWUoxWjJMZTB4OTZpY1k1bWpWaUVxWGlZY1MzVWtxV2wzRVhvVzdtSktzSm81SWYxZ2FkUDRP?oc=5&hl=en-US&gl=US&ceid=US:en
+- Gold prices slide in Visakhapatnam, but Andhra Pradesh buyers remain cautious: Check retail rates of 24K, 22K, 18K gold Livemint
+  - Publisher: Livemint
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNejVVMnBuZVRiUkN3d3pyYU9sWkVhWWE5djg1aUJISmtUSDBSb3I4RFlGWnE0NXlhd1pHaWNKS1c4WDNjbXJrdXBSQmVyRVlLNl9CWUJOVEtTWEVTX1JUa3hqS1VuZ0R5VlJ6U0tBOGxta096OFVaS0JCOEtsNzQzYTEzRDRBM1NObEk4RDZuSC1ZT3VWUVBLNG1jVVpFcU5DTnNTQk9LazVwNzk1SXpIV0VuV09DbHI1YmxfejZBSDA1M3l0ZUs3dzRYSVHSAd8BQVVfeXFMTlB4amJ4eWZQbDBLRmNnLXE2b1QzZlNOR3Vkb1hYNDEydVV1X0lETHpsX1VGV0FsOTdOWG1HUktOUHpiVEVISGN3M1lCdXZvd2JBXzMtUFo1WUVVRzVGUGhSU0ptQ1d4ZTVVYkxIUzBlc0pjOWZZTEZEUnN0SlVOYW41eDhHN0lXQ2ZvekxXc0FPTzJCMmRTNmlNRUZzeWRKMF93THpuMVZ2X0JrLW1uYzZLZmZ3VWdlUEJ6T292ZFBTaGF4THVFa1BpOFNXTEFkb0FWRzIyQkU5RFotWEJJOA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbGNGOWVVdXNybEhJbDlrSVpFejdoZDJ3NGFZaWx3eG5scG8ySjdHemI4TE5KLVk4Q0xtaUR5YUNmOGNnTm1JRkoxT1dHVmtKTHozQzFaTmhILXdsWFB3emFKaWlDazUyZWFSMGhzQ3VyM0ZUd2JSV1h6ZENTUHBYQ3pVNkF2VndFYUdYRWx3UldkdWlHODVRZ2NZUzRuRFRfLWJ5MHo4NWR2MHVaMHRYQ1lBLVRMU0RpZ2VwMTdWSWlzanZEcUNENGpxMWFkd2hQd2FHSDlfZUVUQlh2M2NNU2h2eWg0czRGbzFXeGZNaTJGNW1oWEl2akh5Qi1uazjSAYQCQVVfeXFMTzhveGVXU0EyNG1oRTRmQXlxcmVBVURienl5NTlpS0xFZl96c3Facjk3NmZ6Z1c2MmVxMk45Q0NJdjNHM0Jfa01MaVdORWVjbzBaRVJiOHFqOHdiX0ZRUy1EX21KUVVlVzJWZkphYjZWZjJ4N1IzSXpQcmdacXl2YzdHY2FGYm5hdDRxQW9xanZUQm50ZWh4WF9ocm9nNzNmc25VemdNUDhrTUNLX19oMVNjQkRYeWNMZ3VpYVZPS3B5WmZ3RkQ5WEhBdnJYTlBKamZPQVM1OTg5MWJIVkNmdVZCTnhtZjQtT3h5RG5aYkNVemplMXJheXZ3RFdKS21xMXo1TU0?oc=5&hl=en-US&gl=US&ceid=US:en
+- Gold falls 11% to Rs 1.21 lakh and silver plunges 16.2% to Rs 1.47 lakh in a week to over one-year lows; The Times of India
+  - Publisher: The Times of India
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMipANBVV95cUxNQXRyNmdESnFwLWc2eTJLWmRtdXYwalNsTG1lQW9PQ1pvcThnb1VZNFU5Zm9qU3liSlN3RkhzWGdPb2FzRDRnbTJMWmpzbFNIVHJldzhXcGp1YU5RZUdzVUVUVXNCMzdRN3dKdDRacXVkaW5lUTU5eU1fT0hYYWNVNzNCX2ZQNFNEc2VqVkdFX20yT0V0S0pTUm9fa2oybXpCOVJpRTd1aDM4ZE1UTGpBZ1pNUG9BR1RxWW5ha0NMb01RYWY5cTJiTGhSRzhxeW90QndKU3ZreFViUjU5NDFmNEd2eDEtYTNtMkhEMGNfREdpSUhxcVFYbmpQbWR1YlFjc0RLT3B3U040UXpOczY2M2stOWRqVHNPc0dWclpzNzBXbVpPVGdiZE9XSjhxQjVmdzVrYW8yNldqTWtQUTZ6aTBjM0NGUlkxbzNpQ2pOcVYxa01saXA2cFNkWEhyLVdUTmFDQkxYVURLTFNsMGp5eXZwUHk5T3NkdDJWemFaclNNT21LM09scVBWRDA0bldfeW9vQjVSX3VUTUkzVVdWQm5ydDTSAaoDQVVfeXFMT0EyZmxJUHVrdmFnUzM2NEM3aHhrLW5RWGp1aUVJRWw4cmlhckk3eHd3RUM5ZmhfbktwS19PYVAwdFFkR3J3dkhBaE9yZ05HZnc4aE0xMC1Eb21RVlF0Vm4xNFV3QlVfaVZNaWZBR2pWMTlKbzM4RXpaVkU2VUhfYlhiNk80VVBUNlpFbW8waW1WbnNUZmdjTW1JYlk0ODlOanBiTFh1UUdDSDhxbVFnX29sNl92UUtxbXgzMmNnVndwT0xpNVBzeERpOEdWbHBUeENFd2QwNlZPX3V2OTJqQjNIQnVSV2dOUzc3cjIyRlljT2RWUWlsVWZ2TzNZVjE1c2ZZZzBDbVJiNll1ZEZFdlNWbFBUWG9nQlJadHJ2am13Ui1SVlV2d1hVUERpcFdlS3RzUlR1aTBvQlpSWGpXZW42Ry1wMlBRTnBTb0dWVzJhcTNETGttbkJYTFh3RzhoMVJlQ3laRmYwcDBJY0YzUXpTNmc4YXJMZWI3Z1d3WXZZSWFRNmVtQWdyVFNwLWFBVjhvbGJfVXVmTFhCWVNMSzRqclUyOVpoMFdB?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Reel script — draft
-**Estimated narration:** 81 words
+**Estimated narration:** 90 words
 
-HOOK: Here's what happened: India cry foul over Pakistan's Asia Cup title, boycott trophy presentation in Dhaka - Rediff.
+HOOK: Here's what happened: Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo.
 
 REPORTED DETAILS:
-India boycotts trophy ceremony after Pakistan declared champions Sandesh
-Asia Cup 2026 for blind: Controversy continues as Team India now alleges umpire celebrated with Pakistan after title win Yahoo Sports
-Pakistan declared Asia Cup winners after washout, India blind cricket team boycotts presentation ceremony The New Indian Express
-Indian blind cricket team skips Asia Cup ceremony after Pakistan are declared winners Gulf News
+Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices Kotak Neo
+Gold Prices Today: Rates Rebound on November 23 After Sharp Weekly Crash AP7AM
+Gold rate today, November 22: Gold lost ₹22,822 in 30 days; here's how the fall unfolded Upstox
+Gold prices slide in Visakhapatnam, but Andhra Pradesh buyers remain cautious: Check retail rates of 24K, 22K, 18K gold Livemint
 
 ENDING: Follow InfoRush for more important updates.
 
 ### Caption
-What happened in blind cricket? Here are the reported details. Follow InfoRush for more.
+What happened in gold rate today? Here are the reported details. Follow InfoRush for more.
 
 ### Hashtags
 #InfoRush #NewsUpdate #DiscoverMore #LatestUpdates
@@ -99,84 +103,84 @@ What happened in blind cricket? Here are the reported details. Follow InfoRush f
 
 ---
 
-## Sports: college football georgia standings
+## World News: gold price today
 **Status:** MULTI-SOURCE CANDIDATE — VERIFY BEFORE PUBLISHING
 
 **Important:** This is an automated research draft, not confirmed news.
 
 ### Related reports
-1. **College Football Playoff bracket, based on current committee rankings - NCAA.com**
-- Publisher: NCAA.com
-- Published: Sun, 22 Nov 2026 04:05:52 GMT
-- Article: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmI4M0RvMEptUEtLcG5qSENnZjhKemFQWXktUTBnOERXbWU0cEtFTUNSU3lBMUF3STg4TU5DUWJpcWZxY2ltSHdIRUVrbl9ZQnF1RGsyODVRZUFaamthNVJzbkwyTUF5Y19MNGs4NHZsd1pCNWxDNHlWSUNDTEtSQ2YyS1dMeEZFb2duLWRsenlRNkdMbEpMRGd3SnVKWFJ1N2xCeTBiRzZEeFpmdVA3YTVLTXp4ZTNVdUpN0gHAAUFVX3lxTE1KcFJoWEppc2NsQlJrTUZmemYtUXppUzV1Q3VOcEJZUzZ4Nld0dDZxUGRtdnJqQi1nSkNEM2VuYnJRZmdvakxvSGltMjA1Sk10QURUVWhacFVaVmtQRHhqc2ZUYjF0LUFjQTZJQ0ZSRGhxdEgwcWFfQjdOUmRwZFFJTkhrSC1xY1dwTmFEdVBNS3pKNndyNldIOHQ0MnFRUXJzTE5wZTM5TlZHcXJaMHJyQWNTTUhScGJROURfVjVGSw?oc=5&hl=en-US&gl=US&ceid=US:en
+1. **Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo**
+- Publisher: Kotak Neo
+- Published: Sun, 22 Nov 2026 23:23:08 GMT
+- Article: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5&hl=en-US&gl=US&ceid=US:en
 
-2. **Which teams have the best odds to make the College Football Playoff? - ESPN**
-- Publisher: ESPN
-- Published: Sun, 22 Nov 2026 01:31:00 GMT
-- Article: https://news.google.com/rss/articles/CBMioAFBVV95cUxPQjZJQTZTdDJLNHhqbmRTbmx2T0RqUW5XVEdaekpOWEllTnRCLW9RRE1pMUcxMUxQRXNOWE9vTURsX3d2ejlEZTctSXp1V0tEQnZqLXVQN0VlTXVoOFZXQUlwdV8tYk1yaU1vRzkwXzlZM1N4NU01MXNlRkRaSVhIeWdwdVVYVDNJLWJtaW1oWlpqY0tmS2ZxQU1GSVB1Qndo?oc=5&hl=en-US&gl=US&ceid=US:en
+2. **Gold Prices Today: Rates Rebound on November 23 After Sharp Weekly Crash - AP7AM**
+- Publisher: AP7AM
+- Published: Mon, 23 Nov 2026 02:42:21 GMT
+- Article: https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUJhS1lVcjdqSVBCWmRMWXAza1Jta3ZSdFFXSENycGxqQldHUDU2QW5hSkJINmZxM3NLX0tybGtiMGJVQUhkV2hzbkJIYThDR2R5SFp4eHkxbzhEd19oVjQ0SWpKVG5WbWlHdmZPeDJUSHJpckZRQWVpcDNNMmtuTUptb3VzeFM3N1R1d2VyMDg3X1dmRnVzdFdmRGMtVTJzN1NKclhn0gGrAUFVX3lxTE9KNjEzWjBtVmp1YlY0azFPT0FzS1NFWUYtUEloTFNOLVJuYkJRNkY4UTBzd3VTMzNRN3FSTlYtdVh6Mk4xeVdWaWlxN2o3VktZZDV6OWJISTlxQVhJRUVHT2d1ek5CTnhlTDlhMXNLZDU0a1dqQ0xlTmZhSzdoU3JJSjRTZDQtUW5JYWR5ME12MHJHVlY0SEhNc1NGMnp4MnJ5WXRGX2FKeXJ5MA?oc=5&hl=en-US&gl=US&ceid=US:en
 
-3. **College football Week 12 top 10 games: Georgia-South Carolina, LSU-Tennessee and more - The New York Times**
-- Publisher: The New York Times
-- Published: Sat, 21 Nov 2026 15:14:00 GMT
-- Article: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNnhXUktmMEIzU3FnVkw4cUExMUc3d0dwdEttamRRZFpVSUEyUHhyYkIyMC1pX1l3RHE3czZSM0Q0U2ZBaWtZT0I2WXJlWjNlMUllNThNSDNSZ2dsN3AyaFRXaTFOM01ORFZWQ2E2akFTNHM1MFcyY0E5Zk8zQXkzRmVaU3dpbF8ydzlNWVhCd05XVmNvRHpSZk5pdDZrUThRMHp6el9XcDMyNkFCT19xeVlhM3BROHRZUGIxQzRSSkJRYW1Td2RhOFRYY0dsUVNBNnc?oc=5&hl=en-US&gl=US&ceid=US:en
+3. **Gold rate today, November 22: Gold lost ₹22,822 in 30 days; here's how the fall unfolded - Upstox**
+- Publisher: Upstox
+- Published: Sun, 22 Nov 2026 11:19:10 GMT
+- Article: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSjJHazdVZUFWOS1sblNyQWZzRXRzNk9NbG9EWmd3bkRlVlpkM2dpN1k2MW80WG5ucHc5LWtyeXltTUxLTFJtQnFhOElTdHFhWXBWazNLbldQYVpVNWZIc1ZhX3QxMlBNVVhRZE1NQjBNN1BOUnpEWWRCNFRXTFpIdTBhcXB6aTYxdGJfTm9YZjJCN1BJRFNNZGdmZGt2TXMwZVRWRHRuWG5ZM0c3MmtGTEVvWUoxWjJMZTB4OTZpY1k1bWpWaUVxWGlZY1MzVWtxV2wzRVhvVzdtSktzSm81SWYxZ2FkUDRP?oc=5&hl=en-US&gl=US&ceid=US:en
 
-4. **Who's on the move? CFP committee's third top 25 and bracket of 2026 - ESPN**
-- Publisher: ESPN
-- Published: Wed, 18 Nov 2026 02:46:00 GMT
-- Article: https://news.google.com/rss/articles/CBMingFBVV95cUxNSEtrMEljV2tJbkt2bnJ0ZTh6SUtDa1ZvT1Eza2l2R2Q0OHFDdWRmV3FKTmczVnhuZkk2LUZ0eHR4VDZNM1pSc3pyeW4xeTlUYU5BaVk3Z3B2ME0yb3hWLV9wTC1tZkZUTHFmSGF1aklfam1LZ1l2b25nWG9OaUZBQkFVUmpoWFJ6bDVxWldRR3ZXcVVxeUxIT3lhVUlwQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+4. **Gold falls 11% to Rs 1.21 lakh and silver plunges 16.2% to Rs 1.47 lakh in a week to over one-year lows; - The Times of India**
+- Publisher: The Times of India
+- Published: Mon, 23 Nov 2026 02:35:00 GMT
+- Article: https://news.google.com/rss/articles/CBMipANBVV95cUxNQXRyNmdESnFwLWc2eTJLWmRtdXYwalNsTG1lQW9PQ1pvcThnb1VZNFU5Zm9qU3liSlN3RkhzWGdPb2FzRDRnbTJMWmpzbFNIVHJldzhXcGp1YU5RZUdzVUVUVXNCMzdRN3dKdDRacXVkaW5lUTU5eU1fT0hYYWNVNzNCX2ZQNFNEc2VqVkdFX20yT0V0S0pTUm9fa2oybXpCOVJpRTd1aDM4ZE1UTGpBZ1pNUG9BR1RxWW5ha0NMb01RYWY5cTJiTGhSRzhxeW90QndKU3ZreFViUjU5NDFmNEd2eDEtYTNtMkhEMGNfREdpSUhxcVFYbmpQbWR1YlFjc0RLT3B3U040UXpOczY2M2stOWRqVHNPc0dWclpzNzBXbVpPVGdiZE9XSjhxQjVmdzVrYW8yNldqTWtQUTZ6aTBjM0NGUlkxbzNpQ2pOcVYxa01saXA2cFNkWEhyLVdUTmFDQkxYVURLTFNsMGp5eXZwUHk5T3NkdDJWemFaclNNT21LM09scVBWRDA0bldfeW9vQjVSX3VUTUkzVVdWQm5ydDTSAaoDQVVfeXFMT0EyZmxJUHVrdmFnUzM2NEM3aHhrLW5RWGp1aUVJRWw4cmlhckk3eHd3RUM5ZmhfbktwS19PYVAwdFFkR3J3dkhBaE9yZ05HZnc4aE0xMC1Eb21RVlF0Vm4xNFV3QlVfaVZNaWZBR2pWMTlKbzM4RXpaVkU2VUhfYlhiNk80VVBUNlpFbW8waW1WbnNUZmdjTW1JYlk0ODlOanBiTFh1UUdDSDhxbVFnX29sNl92UUtxbXgzMmNnVndwT0xpNVBzeERpOEdWbHBUeENFd2QwNlZPX3V2OTJqQjNIQnVSV2dOUzc3cjIyRlljT2RWUWlsVWZ2TzNZVjE1c2ZZZzBDbVJiNll1ZEZFdlNWbFBUWG9nQlJadHJ2am13Ui1SVlV2d1hVUERpcFdlS3RzUlR1aTBvQlpSWGpXZW42Ry1wMlBRTnBTb0dWVzJhcTNETGttbkJYTFh3RzhoMVJlQ3laRmYwcDBJY0YzUXpTNmc4YXJMZWI3Z1d3WXZZSWFRNmVtQWdyVFNwLWFBVjhvbGJfVXVmTFhCWVNMSzRqclUyOVpoMFdB?oc=5&hl=en-US&gl=US&ceid=US:en
 
-5. **SEC standings, explained: Updated 2026 tiebreakers for Georgia, Texas, Alabama, Tennessee - Yahoo**
-- Publisher: Yahoo
-- Published: Fri, 20 Nov 2026 11:20:01 GMT
-- Article: https://news.google.com/rss/articles/CBMijAFBVV95cUxNR1hCUHpueU1VT2dGVTJJTWx0VUVsXzhsU0lmOWN2enJVNlcweDlKYVYzNW9mRzVlWUZYRE1tbDIyWkNNajBPcVdvUjRpRWJqcGU4eHU2M3g5RTNiaWQyMTN1TGlxMDJ4WGlnM1VYS0NPR01vYkJCQ19yZXFSY2t4M0FCZzVuZHc2c01Gbw?oc=5&hl=en-US&gl=US&ceid=US:en
+5. **Gold price in India: Rates on November 23 - FXStreet**
+- Publisher: FXStreet
+- Published: Mon, 23 Nov 2026 04:35:32 GMT
+- Article: https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmc3RkpleXlvR3J1enB6b2dyZk45cC1lc1J6WTFMQzJlNjBja0NTd0gtejVUTTYySW0wcTlDUG82UVdETExBT1VzS0lfVUpUNENOLWZlWWl2U1Q1ZGczMG1HR2ZKTVdfdktKRW1QdHBUVlpCYXFqZWlYTUV0aVdWUF9BZXZQOC1FdngzazduNTFVbVFrQV95R2VBM0YtUkNyblFoREdR?oc=5&hl=en-US&gl=US&ceid=US:en
 
-6. **College Football Playoff rankings: Indiana, Texas move up a spot as Alabama stays at No. 3 - The New York Times**
-- Publisher: The New York Times
-- Published: Wed, 18 Nov 2026 03:05:00 GMT
-- Article: https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlFLNVB4Z3lOQ3p1SmFPU0pqR3Q1cUZGOGJrOFJtMDRDdUR2R0pmVklWV0Fwby03SHRnaXVVVUNTbHN0cXdjSk5yZ28xQmNNbVc5ZFhiX0w1cURGZGVSdEJxYmNBU3pTU0xNMW5rckN6RVZYZDctS09aVVpxLTc1cVp4UDhVb0E2VTZhM2kyWDJfckdVMzlRaU5QQndLc0lCX1IxS1k1VmtGdHZheGVZ?oc=5
+6. **Gold prices slide in Visakhapatnam, but Andhra Pradesh buyers remain cautious: Check retail rates of 24K, 22K, 18K gold - Livemint**
+- Publisher: Livemint
+- Published: Sun, 22 Nov 2026 08:54:22 GMT
+- Article: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbGNGOWVVdXNybEhJbDlrSVpFejdoZDJ3NGFZaWx3eG5scG8ySjdHemI4TE5KLVk4Q0xtaUR5YUNmOGNnTm1JRkoxT1dHVmtKTHozQzFaTmhILXdsWFB3emFKaWlDazUyZWFSMGhzQ3VyM0ZUd2JSV1h6ZENTUHBYQ3pVNkF2VndFYUdYRWx3UldkdWlHODVRZ2NZUzRuRFRfLWJ5MHo4NWR2MHVaMHRYQ1lBLVRMU0RpZ2VwMTdWSWlzanZEcUNENGpxMWFkd2hQd2FHSDlfZUVUQlh2M2NNU2h2eWg0czRGbzFXeGZNaTJGNW1oWEl2akh5Qi1uazjSAYQCQVVfeXFMTzhveGVXU0EyNG1oRTRmQXlxcmVBVURienl5NTlpS0xFZl96c3Facjk3NmZ6Z1c2MmVxMk45Q0NJdjNHM0Jfa01MaVdORWVjbzBaRVJiOHFqOHdiX0ZRUy1EX21KUVVlVzJWZkphYjZWZjJ4N1IzSXpQcmdacXl2YzdHY2FGYm5hdDRxQW9xanZUQm50ZWh4WF9ocm9nNzNmc25VemdNUDhrTUNLX19oMVNjQkRYeWNMZ3VpYVZPS3B5WmZ3RkQ5WEhBdnJYTlBKamZPQVM1OTg5MWJIVkNmdVZCTnhtZjQtT3h5RG5aYkNVemplMXJheXZ3RFdKS21xMXo1TU0?oc=5
 
-7. **Who's on College Football Playoff bubble after the committee's third ranking? - ESPN**
-- Publisher: ESPN
-- Published: Wed, 18 Nov 2026 02:46:00 GMT
-- Article: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUJYRW8wdDhSbU1JTzhNNXhoempWWEs0SzlhMDdNVE8yVEVaa0FfdTdGWGhFVnNZWDdDcnRmSWNNenB5TjNKNG1wY09YRFR0NnBxWUZEWHlFV3BJNXVUdEFaUDVGa2U1S2lWYzlEemVXc09oNWRxaTVqVnNSVTVKb1RKa25hak9mR0JlYkxBa01zbXpmWjBoV1VDdzB5N01ueVFCTVBsTnRNZw?oc=5
+7. **Gold Rate Today in Bangalore, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo**
+- Publisher: Kotak Neo
+- Published: Sun, 22 Nov 2026 23:49:36 GMT
+- Article: https://news.google.com/rss/articles/CBMic0FVX3lxTFBIS3F4MDVZR0tIVWlxMVltN080VkdVODBxWk9NTnp2Z2t6ODdyZ2ktSWNjM2RFSWIwWGU5UmZONnVZR1A3MUE5MG55aW5PNkpTRlJyTmVJZlItcmxaUlN4MFFYMVo4X3lFb0lrOWVMdUtnaWs?oc=5
 
 ### Extracted information
-- College Football Playoff bracket, based on current committee rankings NCAA.com
-  - Publisher: NCAA.com
+- Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices Kotak Neo
+  - Publisher: Kotak Neo
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmI4M0RvMEptUEtLcG5qSENnZjhKemFQWXktUTBnOERXbWU0cEtFTUNSU3lBMUF3STg4TU5DUWJpcWZxY2ltSHdIRUVrbl9ZQnF1RGsyODVRZUFaamthNVJzbkwyTUF5Y19MNGs4NHZsd1pCNWxDNHlWSUNDTEtSQ2YyS1dMeEZFb2duLWRsenlRNkdMbEpMRGd3SnVKWFJ1N2xCeTBiRzZEeFpmdVA3YTVLTXp4ZTNVdUpN0gHAAUFVX3lxTE1KcFJoWEppc2NsQlJrTUZmemYtUXppUzV1Q3VOcEJZUzZ4Nld0dDZxUGRtdnJqQi1nSkNEM2VuYnJRZmdvakxvSGltMjA1Sk10QURUVWhacFVaVmtQRHhqc2ZUYjF0LUFjQTZJQ0ZSRGhxdEgwcWFfQjdOUmRwZFFJTkhrSC1xY1dwTmFEdVBNS3pKNndyNldIOHQ0MnFRUXJzTE5wZTM5TlZHcXJaMHJyQWNTTUhScGJROURfVjVGSw?oc=5&hl=en-US&gl=US&ceid=US:en
-- Which teams have the best odds to make the College Football Playoff?
-  - Publisher: ESPN
+  - Link: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5&hl=en-US&gl=US&ceid=US:en
+- Gold Prices Today: Rates Rebound on November 23 After Sharp Weekly Crash AP7AM
+  - Publisher: AP7AM
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxPQjZJQTZTdDJLNHhqbmRTbmx2T0RqUW5XVEdaekpOWEllTnRCLW9RRE1pMUcxMUxQRXNOWE9vTURsX3d2ejlEZTctSXp1V0tEQnZqLXVQN0VlTXVoOFZXQUlwdV8tYk1yaU1vRzkwXzlZM1N4NU01MXNlRkRaSVhIeWdwdVVYVDNJLWJtaW1oWlpqY0tmS2ZxQU1GSVB1Qndo?oc=5&hl=en-US&gl=US&ceid=US:en
-- College football Week 12 top 10 games: Georgia-South Carolina, LSU-Tennessee and more The New York Times
-  - Publisher: The New York Times
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUJhS1lVcjdqSVBCWmRMWXAza1Jta3ZSdFFXSENycGxqQldHUDU2QW5hSkJINmZxM3NLX0tybGtiMGJVQUhkV2hzbkJIYThDR2R5SFp4eHkxbzhEd19oVjQ0SWpKVG5WbWlHdmZPeDJUSHJpckZRQWVpcDNNMmtuTUptb3VzeFM3N1R1d2VyMDg3X1dmRnVzdFdmRGMtVTJzN1NKclhn0gGrAUFVX3lxTE9KNjEzWjBtVmp1YlY0azFPT0FzS1NFWUYtUEloTFNOLVJuYkJRNkY4UTBzd3VTMzNRN3FSTlYtdVh6Mk4xeVdWaWlxN2o3VktZZDV6OWJISTlxQVhJRUVHT2d1ek5CTnhlTDlhMXNLZDU0a1dqQ0xlTmZhSzdoU3JJSjRTZDQtUW5JYWR5ME12MHJHVlY0SEhNc1NGMnp4MnJ5WXRGX2FKeXJ5MA?oc=5&hl=en-US&gl=US&ceid=US:en
+- Gold rate today, November 22: Gold lost ₹22,822 in 30 days; here's how the fall unfolded Upstox
+  - Publisher: Upstox
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNnhXUktmMEIzU3FnVkw4cUExMUc3d0dwdEttamRRZFpVSUEyUHhyYkIyMC1pX1l3RHE3czZSM0Q0U2ZBaWtZT0I2WXJlWjNlMUllNThNSDNSZ2dsN3AyaFRXaTFOM01ORFZWQ2E2akFTNHM1MFcyY0E5Zk8zQXkzRmVaU3dpbF8ydzlNWVhCd05XVmNvRHpSZk5pdDZrUThRMHp6el9XcDMyNkFCT19xeVlhM3BROHRZUGIxQzRSSkJRYW1Td2RhOFRYY0dsUVNBNnc?oc=5&hl=en-US&gl=US&ceid=US:en
-- CFP committee's third top 25 and bracket of 2026 ESPN
-  - Publisher: ESPN
+  - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSjJHazdVZUFWOS1sblNyQWZzRXRzNk9NbG9EWmd3bkRlVlpkM2dpN1k2MW80WG5ucHc5LWtyeXltTUxLTFJtQnFhOElTdHFhWXBWazNLbldQYVpVNWZIc1ZhX3QxMlBNVVhRZE1NQjBNN1BOUnpEWWRCNFRXTFpIdTBhcXB6aTYxdGJfTm9YZjJCN1BJRFNNZGdmZGt2TXMwZVRWRHRuWG5ZM0c3MmtGTEVvWUoxWjJMZTB4OTZpY1k1bWpWaUVxWGlZY1MzVWtxV2wzRVhvVzdtSktzSm81SWYxZ2FkUDRP?oc=5&hl=en-US&gl=US&ceid=US:en
+- Gold falls 11% to Rs 1.21 lakh and silver plunges 16.2% to Rs 1.47 lakh in a week to over one-year lows; The Times of India
+  - Publisher: The Times of India
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNSEtrMEljV2tJbkt2bnJ0ZTh6SUtDa1ZvT1Eza2l2R2Q0OHFDdWRmV3FKTmczVnhuZkk2LUZ0eHR4VDZNM1pSc3pyeW4xeTlUYU5BaVk3Z3B2ME0yb3hWLV9wTC1tZkZUTHFmSGF1aklfam1LZ1l2b25nWG9OaUZBQkFVUmpoWFJ6bDVxWldRR3ZXcVVxeUxIT3lhVUlwQQ?oc=5&hl=en-US&gl=US&ceid=US:en
-- SEC standings, explained: Updated 2026 tiebreakers for Georgia, Texas, Alabama, Tennessee Yahoo
-  - Publisher: Yahoo
+  - Link: https://news.google.com/rss/articles/CBMipANBVV95cUxNQXRyNmdESnFwLWc2eTJLWmRtdXYwalNsTG1lQW9PQ1pvcThnb1VZNFU5Zm9qU3liSlN3RkhzWGdPb2FzRDRnbTJMWmpzbFNIVHJldzhXcGp1YU5RZUdzVUVUVXNCMzdRN3dKdDRacXVkaW5lUTU5eU1fT0hYYWNVNzNCX2ZQNFNEc2VqVkdFX20yT0V0S0pTUm9fa2oybXpCOVJpRTd1aDM4ZE1UTGpBZ1pNUG9BR1RxWW5ha0NMb01RYWY5cTJiTGhSRzhxeW90QndKU3ZreFViUjU5NDFmNEd2eDEtYTNtMkhEMGNfREdpSUhxcVFYbmpQbWR1YlFjc0RLT3B3U040UXpOczY2M2stOWRqVHNPc0dWclpzNzBXbVpPVGdiZE9XSjhxQjVmdzVrYW8yNldqTWtQUTZ6aTBjM0NGUlkxbzNpQ2pOcVYxa01saXA2cFNkWEhyLVdUTmFDQkxYVURLTFNsMGp5eXZwUHk5T3NkdDJWemFaclNNT21LM09scVBWRDA0bldfeW9vQjVSX3VUTUkzVVdWQm5ydDTSAaoDQVVfeXFMT0EyZmxJUHVrdmFnUzM2NEM3aHhrLW5RWGp1aUVJRWw4cmlhckk3eHd3RUM5ZmhfbktwS19PYVAwdFFkR3J3dkhBaE9yZ05HZnc4aE0xMC1Eb21RVlF0Vm4xNFV3QlVfaVZNaWZBR2pWMTlKbzM4RXpaVkU2VUhfYlhiNk80VVBUNlpFbW8waW1WbnNUZmdjTW1JYlk0ODlOanBiTFh1UUdDSDhxbVFnX29sNl92UUtxbXgzMmNnVndwT0xpNVBzeERpOEdWbHBUeENFd2QwNlZPX3V2OTJqQjNIQnVSV2dOUzc3cjIyRlljT2RWUWlsVWZ2TzNZVjE1c2ZZZzBDbVJiNll1ZEZFdlNWbFBUWG9nQlJadHJ2am13Ui1SVlV2d1hVUERpcFdlS3RzUlR1aTBvQlpSWGpXZW42Ry1wMlBRTnBTb0dWVzJhcTNETGttbkJYTFh3RzhoMVJlQ3laRmYwcDBJY0YzUXpTNmc4YXJMZWI3Z1d3WXZZSWFRNmVtQWdyVFNwLWFBVjhvbGJfVXVmTFhCWVNMSzRqclUyOVpoMFdB?oc=5&hl=en-US&gl=US&ceid=US:en
+- Gold price in India: Rates on November 23 FXStreet
+  - Publisher: FXStreet
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxNR1hCUHpueU1VT2dGVTJJTWx0VUVsXzhsU0lmOWN2enJVNlcweDlKYVYzNW9mRzVlWUZYRE1tbDIyWkNNajBPcVdvUjRpRWJqcGU4eHU2M3g5RTNiaWQyMTN1TGlxMDJ4WGlnM1VYS0NPR01vYkJCQ19yZXFSY2t4M0FCZzVuZHc2c01Gbw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmc3RkpleXlvR3J1enB6b2dyZk45cC1lc1J6WTFMQzJlNjBja0NTd0gtejVUTTYySW0wcTlDUG82UVdETExBT1VzS0lfVUpUNENOLWZlWWl2U1Q1ZGczMG1HR2ZKTVdfdktKRW1QdHBUVlpCYXFqZWlYTUV0aVdWUF9BZXZQOC1FdngzazduNTFVbVFrQV95R2VBM0YtUkNyblFoREdR?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Reel script — draft
-**Estimated narration:** 62 words
+**Estimated narration:** 96 words
 
-HOOK: Here's what happened: College Football Playoff bracket, based on current committee rankings - NCAA.com.
+HOOK: Here's what happened: Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo.
 
 REPORTED DETAILS:
-College Football Playoff bracket, based on current committee rankings NCAA.com
-Which teams have the best odds to make the College Football Playoff?
-College football Week 12 top 10 games: Georgia-South Carolina, LSU-Tennessee and more The New York Times
-CFP committee's third top 25 and bracket of 2026 ESPN
+Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices Kotak Neo
+Gold Prices Today: Rates Rebound on November 23 After Sharp Weekly Crash AP7AM
+Gold rate today, November 22: Gold lost ₹22,822 in 30 days; here's how the fall unfolded Upstox
+Gold falls 11% to Rs 1.21 lakh and silver plunges 16.2% to Rs 1.47 lakh in a week to over one-year lows; The Times of India
 
 ENDING: Follow InfoRush for more important updates.
 
 ### Caption
-What happened in college football georgia standings? Here are the reported details. Follow InfoRush for more.
+What happened in gold price today? Here are the reported details. Follow InfoRush for more.
 
 ### Hashtags
 #InfoRush #NewsUpdate #DiscoverMore #LatestUpdates
@@ -196,7 +200,7 @@ What happened in college football georgia standings? Here are the reported detai
 
 ## Run summary
 - Drafts created: 2
-- Topics found: 36
+- Topics found: 39
 - Topics attempted: 2
 - Topics skipped: 0
 

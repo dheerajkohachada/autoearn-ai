@@ -1,52 +1,52 @@
 # InfoRush Trending Topics
-Updated: 2026-11-22 04:23:09.791083 UTC
+Updated: 2026-11-23 04:39:59.069787 UTC
 
 These are trend candidates, not verified news.
 
 ## India
-1. pakw vs scow
-2. నవంబర్ 22
-3. maxx morando
-4. adelaide strikers vs brisbane heat
-5. blind cricket
-6. f1 tv
-7. high court of bombay
-8. manav suthar
-9. जीरा
-10. ncc
+1. gold rate today
+2. gold price today
+3. ബോണ്ട്
+4. eicher motors share price
+5. indusind bank share
+6. avengers doomsday runtime
+7. rvnl share
+8. ntpc share price
+9. trade fair tickets
+10. sl-w vs pakw
 
 ## United States
-1. arvid lindblad
-2. whitney peak
-3. alvin wyatt
-4. f1
-5. college football georgia standings
-6. sam hauser
-7. jake fette
-8. nina dobrev
-9. f1 tv
-10. drew mestemaker
+1. nfc standings
+2. vikings schedule
+3. mac jones
+4. nfl mvp race
+5. justin jefferson
+6. jimmy garoppolo
+7. cris collinsworth
+8. rg3
+9. whitney peak
+10. flood warning
 
 ## United Kingdom
-1. stock market today
-2. tallulah willis
-3. f1 las vegas
-4. nba scores
-5. colin farrell
-6. scarlett johansson
-7. dele alli
-8. timberwolves vs grizzlies
-9. ridley scott
-10. spurs vs pelicans
+1. avengers doomsday runtime
+2. disney+
+3. jake hager
+4. poundland
+5. princess eugenie
+6. rockstar games
+7. 49ers
+8. warriors vs celtics
+9. knicks vs pacers
+10. 49ers vs vikings
 
 ## Canada
-1. f1 tv
-2. colin farrell
-3. erin cahill
-4. rougeole
-5. ty mueller
-6. leafs losing streak
-7. las vegas weather
-8. wild – canucks
-9. britney spears
-10. wemby
+1. keenan allen
+2. 49ers schedule
+3. josephine movie
+4. draymond green
+5. patrick kane
+6. jimmy snuggerud
+7. thomas muller
+8. british royal family
+9. josh giddey
+10. stock futures
