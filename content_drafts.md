@@ -1,92 +1,92 @@
 # InfoRush Content Drafts
-Generated: 2026-11-23 04:40:00 UTC
+Generated: 2026-11-24 04:29:38 UTC
 
 Free RSS research and article extraction.
 All drafts are candidates, not verified news.
 
-## World News: gold rate today
+## World News: thibaut courtois
 **Status:** MULTI-SOURCE CANDIDATE — VERIFY BEFORE PUBLISHING
 
 **Important:** This is an automated research draft, not confirmed news.
 
 ### Related reports
-1. **Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo**
-- Publisher: Kotak Neo
-- Published: Sun, 22 Nov 2026 23:23:08 GMT
-- Article: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5&hl=en-US&gl=US&ceid=US:en
+1. **Thibaut Courtois: “You can’t be a 9 or a 10 all the time, only Messi or Cristiano have managed that” - Managing Madrid**
+- Publisher: Managing Madrid
+- Published: Mon, 23 Nov 2026 12:44:48 GMT
+- Article: https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZUpuOGtYc1pyaE1MdEcxYXZTVzFQMEZJaHRYeDIyd01hejFBNGVvUzg4Q2FZT3JfRTJCejJ1bUhUcHhDVDJ2Y0pnLUc1ZFZJeFR0UUdic2ZtSk4zUy1CSTZGaGR2NnhLdmNyeVVyNDJld3ZOYzN5bHh0djkxaFJhWHhSdXloNEd1aTJIWXdDVG1zNWlsdHRDUHh5UmU3VXY2SjU3R0xOUUhLZDVIOHA5b19pTGhXaWV4TkJ1OVFjV3JvaHZzSGQ4MThVVXd4QmdVRzVJN0U0VG9zWEE5S29nbjBpWUtHTXRRVUxHaGJQM0J3ZzFZcjZETw?oc=5&hl=en-US&gl=US&ceid=US:en
 
-2. **Gold Prices Today: Rates Rebound on November 23 After Sharp Weekly Crash - AP7AM**
-- Publisher: AP7AM
-- Published: Mon, 23 Nov 2026 02:42:21 GMT
-- Article: https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUJhS1lVcjdqSVBCWmRMWXAza1Jta3ZSdFFXSENycGxqQldHUDU2QW5hSkJINmZxM3NLX0tybGtiMGJVQUhkV2hzbkJIYThDR2R5SFp4eHkxbzhEd19oVjQ0SWpKVG5WbWlHdmZPeDJUSHJpckZRQWVpcDNNMmtuTUptb3VzeFM3N1R1d2VyMDg3X1dmRnVzdFdmRGMtVTJzN1NKclhn0gGrAUFVX3lxTE9KNjEzWjBtVmp1YlY0azFPT0FzS1NFWUYtUEloTFNOLVJuYkJRNkY4UTBzd3VTMzNRN3FSTlYtdVh6Mk4xeVdWaWlxN2o3VktZZDV6OWJISTlxQVhJRUVHT2d1ek5CTnhlTDlhMXNLZDU0a1dqQ0xlTmZhSzdoU3JJSjRTZDQtUW5JYWR5ME12MHJHVlY0SEhNc1NGMnp4MnJ5WXRGX2FKeXJ5MA?oc=5&hl=en-US&gl=US&ceid=US:en
+2. **Thibaut Courtois proved once again that he is still miles ahead of Joan Garcia - The Real Champs**
+- Publisher: The Real Champs
+- Published: Sun, 22 Nov 2026 20:30:00 GMT
+- Article: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanlPdFJfbWxUa2FOTG5uWTNsV3k1QXo1SHlJYldob2ZxUkhwaHpBN0VXQ0VuZFlzcjliOTB6Qk84UWYxVmg4OUJtNmNpSUgwck5wTnFSS2cwQThPWDRaQldpUVBTc0QwQjk2NWxIazBxWkM4eGN1cFN6MmxiazMzSUFVOXNsNEc1NjZ1aUpyQ19FZzM5UmRUSExvYmNvMTBHOVFseDdXamptbzdMVnRNcjc2Y3V0SjRP?oc=5&hl=en-US&gl=US&ceid=US:en
 
-3. **Gold rate today, November 22: Gold lost ₹22,822 in 30 days; here's how the fall unfolded - Upstox**
-- Publisher: Upstox
-- Published: Sun, 22 Nov 2026 11:19:10 GMT
-- Article: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSjJHazdVZUFWOS1sblNyQWZzRXRzNk9NbG9EWmd3bkRlVlpkM2dpN1k2MW80WG5ucHc5LWtyeXltTUxLTFJtQnFhOElTdHFhWXBWazNLbldQYVpVNWZIc1ZhX3QxMlBNVVhRZE1NQjBNN1BOUnpEWWRCNFRXTFpIdTBhcXB6aTYxdGJfTm9YZjJCN1BJRFNNZGdmZGt2TXMwZVRWRHRuWG5ZM0c3MmtGTEVvWUoxWjJMZTB4OTZpY1k1bWpWaUVxWGlZY1MzVWtxV2wzRVhvVzdtSktzSm81SWYxZ2FkUDRP?oc=5&hl=en-US&gl=US&ceid=US:en
+3. **Inside the incredible numbers of Thibaut Courtois since he moved to Real Madrid - Managing Madrid**
+- Publisher: Managing Madrid
+- Published: Tue, 24 Nov 2026 03:27:00 GMT
+- Article: https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYTExWWVab1ZJQTg5VV9oRGJhLXhYU0loQS1VblZIM2FlSlh3QWlnbnZhNERqS204Szl2MkphbWxGaWhsT0VQNThoOWxhcHJLamVWYTZGQmhfck1FQnV1Q0FIeWFyT1FUZUtrRmFWRW1OczVJclJZZmUwVVR2ZEg2UmhadWdjXy1obUVCX3g5ZkxwS2JpTjMxQ3Jac1FtNjcwYlBNRXc2LTcyWmFLUGJmZEtZNXQydWRsYkU0MDk2OFFLY1FvSlRJS0JfYWxNczJuejFlMTZyVHZGaTc2VWZZ?oc=5&hl=en-US&gl=US&ceid=US:en
 
-4. **Gold prices slide in Visakhapatnam, but Andhra Pradesh buyers remain cautious: Check retail rates of 24K, 22K, 18K gold - Livemint**
-- Publisher: Livemint
-- Published: Sun, 22 Nov 2026 08:54:22 GMT
-- Article: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbGNGOWVVdXNybEhJbDlrSVpFejdoZDJ3NGFZaWx3eG5scG8ySjdHemI4TE5KLVk4Q0xtaUR5YUNmOGNnTm1JRkoxT1dHVmtKTHozQzFaTmhILXdsWFB3emFKaWlDazUyZWFSMGhzQ3VyM0ZUd2JSV1h6ZENTUHBYQ3pVNkF2VndFYUdYRWx3UldkdWlHODVRZ2NZUzRuRFRfLWJ5MHo4NWR2MHVaMHRYQ1lBLVRMU0RpZ2VwMTdWSWlzanZEcUNENGpxMWFkd2hQd2FHSDlfZUVUQlh2M2NNU2h2eWg0czRGbzFXeGZNaTJGNW1oWEl2akh5Qi1uazjSAYQCQVVfeXFMTzhveGVXU0EyNG1oRTRmQXlxcmVBVURienl5NTlpS0xFZl96c3Facjk3NmZ6Z1c2MmVxMk45Q0NJdjNHM0Jfa01MaVdORWVjbzBaRVJiOHFqOHdiX0ZRUy1EX21KUVVlVzJWZkphYjZWZjJ4N1IzSXpQcmdacXl2YzdHY2FGYm5hdDRxQW9xanZUQm50ZWh4WF9ocm9nNzNmc25VemdNUDhrTUNLX19oMVNjQkRYeWNMZ3VpYVZPS3B5WmZ3RkQ5WEhBdnJYTlBKamZPQVM1OTg5MWJIVkNmdVZCTnhtZjQtT3h5RG5aYkNVemplMXJheXZ3RFdKS21xMXo1TU0?oc=5&hl=en-US&gl=US&ceid=US:en
+4. **'It is difficult' - Real Madrid star Thibaut Courtois admits goalkeepers face impossible Ballon d'Or battle - Goal.com**
+- Publisher: Goal.com
+- Published: Mon, 23 Nov 2026 15:00:44 GMT
+- Article: https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXZlTVhPVS03djRnanUtQVMwb1ZFUWl6ZTdqV0hkbHRCZWxzb1FfZFVFdUpnMlBmNFdOc3lhczhHUGw0RW56QV9EWU03YnAwQTRxZlYzcUhZdHU2OWFPT2cwYVlrWTlaSmlrYUlWQ0ZoS1RBZnJkeWVycjVQc2FyS1NGOFZkVTRmdGZKbUlpS1o4ZXdEdG5OdVZuckZHcVRVWnlSYjRHaw?oc=5&hl=en-US&gl=US&ceid=US:en
 
-5. **Gold falls 11% to Rs 1.21 lakh and silver plunges 16.2% to Rs 1.47 lakh in a week to over one-year lows; - The Times of India**
-- Publisher: The Times of India
-- Published: Mon, 23 Nov 2026 02:35:00 GMT
-- Article: https://news.google.com/rss/articles/CBMipANBVV95cUxNQXRyNmdESnFwLWc2eTJLWmRtdXYwalNsTG1lQW9PQ1pvcThnb1VZNFU5Zm9qU3liSlN3RkhzWGdPb2FzRDRnbTJMWmpzbFNIVHJldzhXcGp1YU5RZUdzVUVUVXNCMzdRN3dKdDRacXVkaW5lUTU5eU1fT0hYYWNVNzNCX2ZQNFNEc2VqVkdFX20yT0V0S0pTUm9fa2oybXpCOVJpRTd1aDM4ZE1UTGpBZ1pNUG9BR1RxWW5ha0NMb01RYWY5cTJiTGhSRzhxeW90QndKU3ZreFViUjU5NDFmNEd2eDEtYTNtMkhEMGNfREdpSUhxcVFYbmpQbWR1YlFjc0RLT3B3U040UXpOczY2M2stOWRqVHNPc0dWclpzNzBXbVpPVGdiZE9XSjhxQjVmdzVrYW8yNldqTWtQUTZ6aTBjM0NGUlkxbzNpQ2pOcVYxa01saXA2cFNkWEhyLVdUTmFDQkxYVURLTFNsMGp5eXZwUHk5T3NkdDJWemFaclNNT21LM09scVBWRDA0bldfeW9vQjVSX3VUTUkzVVdWQm5ydDTSAaoDQVVfeXFMT0EyZmxJUHVrdmFnUzM2NEM3aHhrLW5RWGp1aUVJRWw4cmlhckk3eHd3RUM5ZmhfbktwS19PYVAwdFFkR3J3dkhBaE9yZ05HZnc4aE0xMC1Eb21RVlF0Vm4xNFV3QlVfaVZNaWZBR2pWMTlKbzM4RXpaVkU2VUhfYlhiNk80VVBUNlpFbW8waW1WbnNUZmdjTW1JYlk0ODlOanBiTFh1UUdDSDhxbVFnX29sNl92UUtxbXgzMmNnVndwT0xpNVBzeERpOEdWbHBUeENFd2QwNlZPX3V2OTJqQjNIQnVSV2dOUzc3cjIyRlljT2RWUWlsVWZ2TzNZVjE1c2ZZZzBDbVJiNll1ZEZFdlNWbFBUWG9nQlJadHJ2am13Ui1SVlV2d1hVUERpcFdlS3RzUlR1aTBvQlpSWGpXZW42Ry1wMlBRTnBTb0dWVzJhcTNETGttbkJYTFh3RzhoMVJlQ3laRmYwcDBJY0YzUXpTNmc4YXJMZWI3Z1d3WXZZSWFRNmVtQWdyVFNwLWFBVjhvbGJfVXVmTFhCWVNMSzRqclUyOVpoMFdB?oc=5&hl=en-US&gl=US&ceid=US:en
+5. **Courtois admits Ballon d'Or frustration after Real Madrid extension - TribalFootball**
+- Publisher: TribalFootball
+- Published: Mon, 23 Nov 2026 17:10:39 GMT
+- Article: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMzI2XzdPQnAzOFdSbUVGRnYtU3RXZE5SUVNDSHVXY0gxckNBQVBTWWFEcnBtbEFiV3EwNEpxamd0ZU5XVzg3Tm12NmRlUW5neVNFLUhMRllpM2ZiazVjT2NGVFd0YkpWSW45ZmtpcXZrTE91UTNoNjQzeFFTQ0lYeVBxdWtvNkpNZmNiMmRRNnBSYzVDRG14ZXFuemV4VGhnQW44QzdHeXpJN2V1b1gyYUJTVWtUZng3LVJ6S1l6dC1nU0xIcHBGR1ZCMFFpMmVjQVRFVjhsSG5GNG8?oc=5&hl=en-US&gl=US&ceid=US:en
 
-6. **Gold Rate Today in Bangalore, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo**
-- Publisher: Kotak Neo
-- Published: Sun, 22 Nov 2026 23:49:36 GMT
-- Article: https://news.google.com/rss/articles/CBMic0FVX3lxTFBIS3F4MDVZR0tIVWlxMVltN080VkdVODBxWk9NTnp2Z2t6ODdyZ2ktSWNjM2RFSWIwWGU5UmZONnVZR1A3MUE5MG55aW5PNkpTRlJyTmVJZlItcmxaUlN4MFFYMVo4X3lFb0lrOWVMdUtnaWs?oc=5
+6. **Courtois: 'Leader' Bellingham key to future success at Real Madrid - AllFootball**
+- Publisher: AllFootball
+- Published: Mon, 23 Nov 2026 22:07:55 GMT
+- Article: https://news.google.com/rss/articles/CBMimAFBVV95cUxONmZjeEZhVUNoaFNYVmltaE1GZGxOWFJxVVBHRnVfWFEybXhlRXZYU3lqNVE0c3E5VFQxVVlYZi1Ic1BPNllZNkNzMk9UM2pOcmNJWDNzYlc3YVR4bnJXTWhDYVNMWjljRWFzN0JjMTZEUzJMQW1HZThlSEEtZWdncktxaHpXX3pFSVRNM1dYenYwZklCSnFVWA?oc=5
 
-7. **Gold Rate Today: 24K Gold Falls Rs 5,120 to Rs 1.25 Lakh - HDFC Sky**
-- Publisher: HDFC Sky
-- Published: Fri, 20 Nov 2026 04:42:03 GMT
-- Article: https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMURoYThHTGIzRjBoVWVlWTNJMWIxUThwRExRNTdUQTRMcU5oRDAtRlFJbkoyYS1FamVaaWltSVhmVldWcmFwdURrLWRsY0x0a0M4RGlLbWZaVlBvQ3BxZU1RUXBVSnFzdko5QjB3bkQ3QUd6bGZwYU5DY3hBdHFOd0NhbDJSa3R0SnlsY09GUTNIc3V4LVJyQ2wtYVV4TWd5TWhCdDJhQXhTQi04SjNadjM2ZzJNV2RjUTEyNGZjbEU2NHRMa3pBQWdzeE9wb29mN0stQ2VJXzdDbWFSS21RVFAtbF94QTdCaHhiYmUxVXkzellReVRNV0R2cks?oc=5
+7. **Courtois Defends Vinicius: ‘Only Messi and Ronaldo Maintained That Level’ - Morocco World News**
+- Publisher: Morocco World News
+- Published: Mon, 23 Nov 2026 16:21:38 GMT
+- Article: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVhXLWd3R2Yyb3V5dXNsLVpHSzNvVFd4MGg3TThNOTRUbkZsUFlZaHhneXJLdXozMHJZa3lDNlE0SUR4MVRuazh2V3NtRW9iU1hQMFZNVElHZ2JzcXlwbllVcUZlM0hkTE1RX3M2VHhoMGRhZGx0ZUtrMGgzQkNRYXZjdENCSjNvb1VkYjZCZlRvOEZuc0VtcGE1WVd1TVpGTEk1V0h5aWp1bmZCZTZJZzl0ZUZld19xS3V3?oc=5
 
-8. **Gold Rate Today, November 21: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express**
-- Publisher: The Indian Express
-- Published: Sat, 21 Nov 2026 05:00:19 GMT
-- Article: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUmNqY3gzMVY3Tl9GcmxVcXh4MHhLZUhCaVROTUhzZUlBRS00NXJydTNSY3d2ektxT0VlQ0htVG1Mamt2aFFHZXFtU242X3pGUWxpUzRvalduZnNQQlg2bFlIY3cwT1ZVejBEaGZGc0RNaFFjRDB5N1NYNHNwZVdXUFVadEptTWV3UXVremxfVXlxalBMZmxHRFZ5azNEWUVzX3Rwc3dqUnRYZEx1OUFxNE5TODliTU5pbFpXRVBrWWdobzdDN0NhaVM4MUxyTXdFQ0o2ZzloaFhDOXliUW9JZVFna3I3Mnl2Rk1mUDcyZVdaTHU4aXfSAfwBQVVfeXFMUGwxZ1RJMS1uMEVmT2tWMFowTU9ZYnlHZnBDQVc4bDk5c0dES01LaUcxLTNVUENNRVJPckZrOWtoMWRhU1dGZFAzMnpWZ2YxYlRwWlRQYjFiSDVGV1hnLUFjcDBiMzBKZk0yZHc5aEc2STNZUGhqd0hBdzBqR2VqN2dVdmtJNlIyUXd1aGJ1Z2ZfVFVlMFJsOFhJUHZWODJqVmtab0ZmeWJ5TnY0ZmdpemlwWHlfeGY3dDg4UWJ3cmhDQVlSVEo5MDhRVGdNZmNsVTBRQXdFQ0tScktBcVB1SUsxbzhlMjVmSjI1WlloQXRXUkhJWmh6U3dla3VN?oc=5
+8. **Courtois cites Messi and Ronaldo in defence of Vinicius and addresses the boos - Goal.com**
+- Publisher: Goal.com
+- Published: Mon, 23 Nov 2026 14:33:02 GMT
+- Article: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSTFpb3ZtS3I3ZzUydlM1ckRxMHNCN3BKMkF3UlR3TVcxUkJhUlN0NXlTYlh3aXVYYURNVVotWm1KWi1BRnlac19oNGRHWWsweFk0djlYUWdvLXRiR1dSZkc5LVN0YW5Ubm1Ybnl1MXFPZjNYcVpETWVCV3hGMFRWUjIwTWVONi16SVl5Q0ZLbjE1MnpDVk8tMV9IcVVPbXFKTUg0R3dWalp4ZkdYc0dRVG1zS2had0xYMnhCYTJRVnF5ZVJEZUNXdWFn?oc=5
 
 ### Extracted information
-- Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices Kotak Neo
-  - Publisher: Kotak Neo
+- Thibaut Courtois: “You can’t be a 9 or a 10 all the time, only Messi or Cristiano have managed that” Managing Madrid
+  - Publisher: Managing Madrid
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5&hl=en-US&gl=US&ceid=US:en
-- Gold Prices Today: Rates Rebound on November 23 After Sharp Weekly Crash AP7AM
-  - Publisher: AP7AM
+  - Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZUpuOGtYc1pyaE1MdEcxYXZTVzFQMEZJaHRYeDIyd01hejFBNGVvUzg4Q2FZT3JfRTJCejJ1bUhUcHhDVDJ2Y0pnLUc1ZFZJeFR0UUdic2ZtSk4zUy1CSTZGaGR2NnhLdmNyeVVyNDJld3ZOYzN5bHh0djkxaFJhWHhSdXloNEd1aTJIWXdDVG1zNWlsdHRDUHh5UmU3VXY2SjU3R0xOUUhLZDVIOHA5b19pTGhXaWV4TkJ1OVFjV3JvaHZzSGQ4MThVVXd4QmdVRzVJN0U0VG9zWEE5S29nbjBpWUtHTXRRVUxHaGJQM0J3ZzFZcjZETw?oc=5&hl=en-US&gl=US&ceid=US:en
+- Thibaut Courtois proved once again that he is still miles ahead of Joan Garcia The Real Champs
+  - Publisher: The Real Champs
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUJhS1lVcjdqSVBCWmRMWXAza1Jta3ZSdFFXSENycGxqQldHUDU2QW5hSkJINmZxM3NLX0tybGtiMGJVQUhkV2hzbkJIYThDR2R5SFp4eHkxbzhEd19oVjQ0SWpKVG5WbWlHdmZPeDJUSHJpckZRQWVpcDNNMmtuTUptb3VzeFM3N1R1d2VyMDg3X1dmRnVzdFdmRGMtVTJzN1NKclhn0gGrAUFVX3lxTE9KNjEzWjBtVmp1YlY0azFPT0FzS1NFWUYtUEloTFNOLVJuYkJRNkY4UTBzd3VTMzNRN3FSTlYtdVh6Mk4xeVdWaWlxN2o3VktZZDV6OWJISTlxQVhJRUVHT2d1ek5CTnhlTDlhMXNLZDU0a1dqQ0xlTmZhSzdoU3JJSjRTZDQtUW5JYWR5ME12MHJHVlY0SEhNc1NGMnp4MnJ5WXRGX2FKeXJ5MA?oc=5&hl=en-US&gl=US&ceid=US:en
-- Gold rate today, November 22: Gold lost ₹22,822 in 30 days; here's how the fall unfolded Upstox
-  - Publisher: Upstox
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanlPdFJfbWxUa2FOTG5uWTNsV3k1QXo1SHlJYldob2ZxUkhwaHpBN0VXQ0VuZFlzcjliOTB6Qk84UWYxVmg4OUJtNmNpSUgwck5wTnFSS2cwQThPWDRaQldpUVBTc0QwQjk2NWxIazBxWkM4eGN1cFN6MmxiazMzSUFVOXNsNEc1NjZ1aUpyQ19FZzM5UmRUSExvYmNvMTBHOVFseDdXamptbzdMVnRNcjc2Y3V0SjRP?oc=5&hl=en-US&gl=US&ceid=US:en
+- Inside the incredible numbers of Thibaut Courtois since he moved to Real Madrid Managing Madrid
+  - Publisher: Managing Madrid
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSjJHazdVZUFWOS1sblNyQWZzRXRzNk9NbG9EWmd3bkRlVlpkM2dpN1k2MW80WG5ucHc5LWtyeXltTUxLTFJtQnFhOElTdHFhWXBWazNLbldQYVpVNWZIc1ZhX3QxMlBNVVhRZE1NQjBNN1BOUnpEWWRCNFRXTFpIdTBhcXB6aTYxdGJfTm9YZjJCN1BJRFNNZGdmZGt2TXMwZVRWRHRuWG5ZM0c3MmtGTEVvWUoxWjJMZTB4OTZpY1k1bWpWaUVxWGlZY1MzVWtxV2wzRVhvVzdtSktzSm81SWYxZ2FkUDRP?oc=5&hl=en-US&gl=US&ceid=US:en
-- Gold prices slide in Visakhapatnam, but Andhra Pradesh buyers remain cautious: Check retail rates of 24K, 22K, 18K gold Livemint
-  - Publisher: Livemint
+  - Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYTExWWVab1ZJQTg5VV9oRGJhLXhYU0loQS1VblZIM2FlSlh3QWlnbnZhNERqS204Szl2MkphbWxGaWhsT0VQNThoOWxhcHJLamVWYTZGQmhfck1FQnV1Q0FIeWFyT1FUZUtrRmFWRW1OczVJclJZZmUwVVR2ZEg2UmhadWdjXy1obUVCX3g5ZkxwS2JpTjMxQ3Jac1FtNjcwYlBNRXc2LTcyWmFLUGJmZEtZNXQydWRsYkU0MDk2OFFLY1FvSlRJS0JfYWxNczJuejFlMTZyVHZGaTc2VWZZ?oc=5&hl=en-US&gl=US&ceid=US:en
+- 'It is difficult' - Real Madrid star Thibaut Courtois admits goalkeepers face impossible Ballon d'Or battle Goal.com
+  - Publisher: Goal.com
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbGNGOWVVdXNybEhJbDlrSVpFejdoZDJ3NGFZaWx3eG5scG8ySjdHemI4TE5KLVk4Q0xtaUR5YUNmOGNnTm1JRkoxT1dHVmtKTHozQzFaTmhILXdsWFB3emFKaWlDazUyZWFSMGhzQ3VyM0ZUd2JSV1h6ZENTUHBYQ3pVNkF2VndFYUdYRWx3UldkdWlHODVRZ2NZUzRuRFRfLWJ5MHo4NWR2MHVaMHRYQ1lBLVRMU0RpZ2VwMTdWSWlzanZEcUNENGpxMWFkd2hQd2FHSDlfZUVUQlh2M2NNU2h2eWg0czRGbzFXeGZNaTJGNW1oWEl2akh5Qi1uazjSAYQCQVVfeXFMTzhveGVXU0EyNG1oRTRmQXlxcmVBVURienl5NTlpS0xFZl96c3Facjk3NmZ6Z1c2MmVxMk45Q0NJdjNHM0Jfa01MaVdORWVjbzBaRVJiOHFqOHdiX0ZRUy1EX21KUVVlVzJWZkphYjZWZjJ4N1IzSXpQcmdacXl2YzdHY2FGYm5hdDRxQW9xanZUQm50ZWh4WF9ocm9nNzNmc25VemdNUDhrTUNLX19oMVNjQkRYeWNMZ3VpYVZPS3B5WmZ3RkQ5WEhBdnJYTlBKamZPQVM1OTg5MWJIVkNmdVZCTnhtZjQtT3h5RG5aYkNVemplMXJheXZ3RFdKS21xMXo1TU0?oc=5&hl=en-US&gl=US&ceid=US:en
-- Gold falls 11% to Rs 1.21 lakh and silver plunges 16.2% to Rs 1.47 lakh in a week to over one-year lows; The Times of India
-  - Publisher: The Times of India
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXZlTVhPVS03djRnanUtQVMwb1ZFUWl6ZTdqV0hkbHRCZWxzb1FfZFVFdUpnMlBmNFdOc3lhczhHUGw0RW56QV9EWU03YnAwQTRxZlYzcUhZdHU2OWFPT2cwYVlrWTlaSmlrYUlWQ0ZoS1RBZnJkeWVycjVQc2FyS1NGOFZkVTRmdGZKbUlpS1o4ZXdEdG5OdVZuckZHcVRVWnlSYjRHaw?oc=5&hl=en-US&gl=US&ceid=US:en
+- Courtois admits Ballon d'Or frustration after Real Madrid extension TribalFootball
+  - Publisher: TribalFootball
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMipANBVV95cUxNQXRyNmdESnFwLWc2eTJLWmRtdXYwalNsTG1lQW9PQ1pvcThnb1VZNFU5Zm9qU3liSlN3RkhzWGdPb2FzRDRnbTJMWmpzbFNIVHJldzhXcGp1YU5RZUdzVUVUVXNCMzdRN3dKdDRacXVkaW5lUTU5eU1fT0hYYWNVNzNCX2ZQNFNEc2VqVkdFX20yT0V0S0pTUm9fa2oybXpCOVJpRTd1aDM4ZE1UTGpBZ1pNUG9BR1RxWW5ha0NMb01RYWY5cTJiTGhSRzhxeW90QndKU3ZreFViUjU5NDFmNEd2eDEtYTNtMkhEMGNfREdpSUhxcVFYbmpQbWR1YlFjc0RLT3B3U040UXpOczY2M2stOWRqVHNPc0dWclpzNzBXbVpPVGdiZE9XSjhxQjVmdzVrYW8yNldqTWtQUTZ6aTBjM0NGUlkxbzNpQ2pOcVYxa01saXA2cFNkWEhyLVdUTmFDQkxYVURLTFNsMGp5eXZwUHk5T3NkdDJWemFaclNNT21LM09scVBWRDA0bldfeW9vQjVSX3VUTUkzVVdWQm5ydDTSAaoDQVVfeXFMT0EyZmxJUHVrdmFnUzM2NEM3aHhrLW5RWGp1aUVJRWw4cmlhckk3eHd3RUM5ZmhfbktwS19PYVAwdFFkR3J3dkhBaE9yZ05HZnc4aE0xMC1Eb21RVlF0Vm4xNFV3QlVfaVZNaWZBR2pWMTlKbzM4RXpaVkU2VUhfYlhiNk80VVBUNlpFbW8waW1WbnNUZmdjTW1JYlk0ODlOanBiTFh1UUdDSDhxbVFnX29sNl92UUtxbXgzMmNnVndwT0xpNVBzeERpOEdWbHBUeENFd2QwNlZPX3V2OTJqQjNIQnVSV2dOUzc3cjIyRlljT2RWUWlsVWZ2TzNZVjE1c2ZZZzBDbVJiNll1ZEZFdlNWbFBUWG9nQlJadHJ2am13Ui1SVlV2d1hVUERpcFdlS3RzUlR1aTBvQlpSWGpXZW42Ry1wMlBRTnBTb0dWVzJhcTNETGttbkJYTFh3RzhoMVJlQ3laRmYwcDBJY0YzUXpTNmc4YXJMZWI3Z1d3WXZZSWFRNmVtQWdyVFNwLWFBVjhvbGJfVXVmTFhCWVNMSzRqclUyOVpoMFdB?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMzI2XzdPQnAzOFdSbUVGRnYtU3RXZE5SUVNDSHVXY0gxckNBQVBTWWFEcnBtbEFiV3EwNEpxamd0ZU5XVzg3Tm12NmRlUW5neVNFLUhMRllpM2ZiazVjT2NGVFd0YkpWSW45ZmtpcXZrTE91UTNoNjQzeFFTQ0lYeVBxdWtvNkpNZmNiMmRRNnBSYzVDRG14ZXFuemV4VGhnQW44QzdHeXpJN2V1b1gyYUJTVWtUZng3LVJ6S1l6dC1nU0xIcHBGR1ZCMFFpMmVjQVRFVjhsSG5GNG8?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Reel script — draft
-**Estimated narration:** 90 words
+**Estimated narration:** 97 words
 
-HOOK: Here's what happened: Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo.
+HOOK: Here's what happened: Thibaut Courtois: “You can’t be a 9 or a 10 all the time, only Messi or Cristiano have managed that” - Managing Madrid.
 
 REPORTED DETAILS:
-Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices Kotak Neo
-Gold Prices Today: Rates Rebound on November 23 After Sharp Weekly Crash AP7AM
-Gold rate today, November 22: Gold lost ₹22,822 in 30 days; here's how the fall unfolded Upstox
-Gold prices slide in Visakhapatnam, but Andhra Pradesh buyers remain cautious: Check retail rates of 24K, 22K, 18K gold Livemint
+Thibaut Courtois: “You can’t be a 9 or a 10 all the time, only Messi or Cristiano have managed that” Managing Madrid
+Thibaut Courtois proved once again that he is still miles ahead of Joan Garcia The Real Champs
+Inside the incredible numbers of Thibaut Courtois since he moved to Real Madrid Managing Madrid
+'It is difficult' - Real Madrid star Thibaut Courtois admits goalkeepers face impossible Ballon d'Or battle Goal.com
 
 ENDING: Follow InfoRush for more important updates.
 
 ### Caption
-What happened in gold rate today? Here are the reported details. Follow InfoRush for more.
+What happened in thibaut courtois? Here are the reported details. Follow InfoRush for more.
 
 ### Hashtags
 #InfoRush #NewsUpdate #DiscoverMore #LatestUpdates
@@ -103,84 +103,69 @@ What happened in gold rate today? Here are the reported details. Follow InfoRush
 
 ---
 
-## World News: gold price today
+## World News: m siddharth
 **Status:** MULTI-SOURCE CANDIDATE — VERIFY BEFORE PUBLISHING
 
 **Important:** This is an automated research draft, not confirmed news.
 
 ### Related reports
-1. **Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo**
-- Publisher: Kotak Neo
-- Published: Sun, 22 Nov 2026 23:23:08 GMT
-- Article: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5&hl=en-US&gl=US&ceid=US:en
+1. **Mohd Shami and M. Siddharth traded to Rajasthan Royals, Sam Curran traded to Lucknow Super Giants - IPL**
+- Publisher: IPL
+- Published: Tue, 17 Nov 2026 10:00:00 GMT
+- Article: https://news.google.com/rss/articles/CBMiywFBVV95cUxPM01tbHBQdTZwUmxUc3ZJcXh2TDZLZzdPZ3N5UTZjY0JBNDI0Y1d6U3F2TUxESGRLemxjbEp6SVBzZEpQcnowTVRxZWpmSFdqLVFzcHkwT08yYWFyQnlQelRDUm0yNVFueHRKcWtYYk9CdU84LWlPdnpkcDZpLVJ0N1BWU2tUWE5RUzFHOWxYWTZPRUNOcXdmNG0xQmZ6X0ltaUl0Sk5wLVlfa2VvQlQtUWs5eVZyUjVwQ19LTkNLV3BQejZqTGhacE45dw?oc=5&hl=en-US&gl=US&ceid=US:en
 
-2. **Gold Prices Today: Rates Rebound on November 23 After Sharp Weekly Crash - AP7AM**
-- Publisher: AP7AM
-- Published: Mon, 23 Nov 2026 02:42:21 GMT
-- Article: https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUJhS1lVcjdqSVBCWmRMWXAza1Jta3ZSdFFXSENycGxqQldHUDU2QW5hSkJINmZxM3NLX0tybGtiMGJVQUhkV2hzbkJIYThDR2R5SFp4eHkxbzhEd19oVjQ0SWpKVG5WbWlHdmZPeDJUSHJpckZRQWVpcDNNMmtuTUptb3VzeFM3N1R1d2VyMDg3X1dmRnVzdFdmRGMtVTJzN1NKclhn0gGrAUFVX3lxTE9KNjEzWjBtVmp1YlY0azFPT0FzS1NFWUYtUEloTFNOLVJuYkJRNkY4UTBzd3VTMzNRN3FSTlYtdVh6Mk4xeVdWaWlxN2o3VktZZDV6OWJISTlxQVhJRUVHT2d1ek5CTnhlTDlhMXNLZDU0a1dqQ0xlTmZhSzdoU3JJSjRTZDQtUW5JYWR5ME12MHJHVlY0SEhNc1NGMnp4MnJ5WXRGX2FKeXJ5MA?oc=5&hl=en-US&gl=US&ceid=US:en
-
-3. **Gold rate today, November 22: Gold lost ₹22,822 in 30 days; here's how the fall unfolded - Upstox**
-- Publisher: Upstox
-- Published: Sun, 22 Nov 2026 11:19:10 GMT
-- Article: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSjJHazdVZUFWOS1sblNyQWZzRXRzNk9NbG9EWmd3bkRlVlpkM2dpN1k2MW80WG5ucHc5LWtyeXltTUxLTFJtQnFhOElTdHFhWXBWazNLbldQYVpVNWZIc1ZhX3QxMlBNVVhRZE1NQjBNN1BOUnpEWWRCNFRXTFpIdTBhcXB6aTYxdGJfTm9YZjJCN1BJRFNNZGdmZGt2TXMwZVRWRHRuWG5ZM0c3MmtGTEVvWUoxWjJMZTB4OTZpY1k1bWpWaUVxWGlZY1MzVWtxV2wzRVhvVzdtSktzSm81SWYxZ2FkUDRP?oc=5&hl=en-US&gl=US&ceid=US:en
-
-4. **Gold falls 11% to Rs 1.21 lakh and silver plunges 16.2% to Rs 1.47 lakh in a week to over one-year lows; - The Times of India**
+2. **IPL 2027: Mohammed Shami, M Siddharth move to Rajasthan Royals; Sam Curran joins Lucknow Super Giants in - The Times of India**
 - Publisher: The Times of India
-- Published: Mon, 23 Nov 2026 02:35:00 GMT
-- Article: https://news.google.com/rss/articles/CBMipANBVV95cUxNQXRyNmdESnFwLWc2eTJLWmRtdXYwalNsTG1lQW9PQ1pvcThnb1VZNFU5Zm9qU3liSlN3RkhzWGdPb2FzRDRnbTJMWmpzbFNIVHJldzhXcGp1YU5RZUdzVUVUVXNCMzdRN3dKdDRacXVkaW5lUTU5eU1fT0hYYWNVNzNCX2ZQNFNEc2VqVkdFX20yT0V0S0pTUm9fa2oybXpCOVJpRTd1aDM4ZE1UTGpBZ1pNUG9BR1RxWW5ha0NMb01RYWY5cTJiTGhSRzhxeW90QndKU3ZreFViUjU5NDFmNEd2eDEtYTNtMkhEMGNfREdpSUhxcVFYbmpQbWR1YlFjc0RLT3B3U040UXpOczY2M2stOWRqVHNPc0dWclpzNzBXbVpPVGdiZE9XSjhxQjVmdzVrYW8yNldqTWtQUTZ6aTBjM0NGUlkxbzNpQ2pOcVYxa01saXA2cFNkWEhyLVdUTmFDQkxYVURLTFNsMGp5eXZwUHk5T3NkdDJWemFaclNNT21LM09scVBWRDA0bldfeW9vQjVSX3VUTUkzVVdWQm5ydDTSAaoDQVVfeXFMT0EyZmxJUHVrdmFnUzM2NEM3aHhrLW5RWGp1aUVJRWw4cmlhckk3eHd3RUM5ZmhfbktwS19PYVAwdFFkR3J3dkhBaE9yZ05HZnc4aE0xMC1Eb21RVlF0Vm4xNFV3QlVfaVZNaWZBR2pWMTlKbzM4RXpaVkU2VUhfYlhiNk80VVBUNlpFbW8waW1WbnNUZmdjTW1JYlk0ODlOanBiTFh1UUdDSDhxbVFnX29sNl92UUtxbXgzMmNnVndwT0xpNVBzeERpOEdWbHBUeENFd2QwNlZPX3V2OTJqQjNIQnVSV2dOUzc3cjIyRlljT2RWUWlsVWZ2TzNZVjE1c2ZZZzBDbVJiNll1ZEZFdlNWbFBUWG9nQlJadHJ2am13Ui1SVlV2d1hVUERpcFdlS3RzUlR1aTBvQlpSWGpXZW42Ry1wMlBRTnBTb0dWVzJhcTNETGttbkJYTFh3RzhoMVJlQ3laRmYwcDBJY0YzUXpTNmc4YXJMZWI3Z1d3WXZZSWFRNmVtQWdyVFNwLWFBVjhvbGJfVXVmTFhCWVNMSzRqclUyOVpoMFdB?oc=5&hl=en-US&gl=US&ceid=US:en
+- Published: Tue, 17 Nov 2026 10:10:00 GMT
+- Article: https://news.google.com/rss/articles/CBMimgJBVV95cUxNX1drV0JnVkY5N0FON0pRV183RDRTaDdwbUVxUGxUX1hlZmtlNXR4X0ZhcVVjd1hiMTRlN2J1VE42NFpBQWk2emJvdmVDTXVNUE5CWVI2ajBTYUh3dHlRSTQ3c2x4YmJNME9Kb1c2Z19fTzdkVjUyS2UtbTZrbjRJZlNEc1gxTXdwcldhbElEY1VXQXFTbEp1NnpDZ1J3cWZ2dkM5TUFRMmVPcHFneW9hR21jdzQ4akxCTFFyZXpjNll2TGFmQWpBcWFrRkJYX0h0NXdwWDlRd3ItZHlvbGtud3pPc3ZZWk5WeDlSMzBfRng0T3ZDSW9oTHB1Nks3Smk4ektUY3FINGhYbmNIbkxydHIzWm42QjBpbHfSAZ8CQVVfeXFMTmdVUGlBazBHaFk5UmNqcm9rd2E1SFlFWlBMZjNxMHNQY1BWY1N0em1PVzN2WmhINnEzaW50U19EV0pDc1BCN3FqRmdPOXhRVXZkcjM5Tmkxd1JEcjlQaW1SUVc1U2d5V0pyZkp2dDBqRUl4dXBCd3hHTDBseDhaUWJ1VVpIbnNJWTNLUFhCenBCaDJIeVZDT0xmamxKUDJSMUFkVUZEOVp0aDhTMTA3Sml5SXhydXJhOTBoek5BbFotTDZZbTBlN2thQnhjS0kwZGlzNmpDODdtU0pZQXFIZkJLZ05NUVhhem1KbFRrTEhTNHdmYS01WDlqelZsWlRkZkszcl9pRC0tVEQyVGFTbUVxQW5na3pkRTZaSDF6em8?oc=5&hl=en-US&gl=US&ceid=US:en
 
-5. **Gold price in India: Rates on November 23 - FXStreet**
-- Publisher: FXStreet
-- Published: Mon, 23 Nov 2026 04:35:32 GMT
-- Article: https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmc3RkpleXlvR3J1enB6b2dyZk45cC1lc1J6WTFMQzJlNjBja0NTd0gtejVUTTYySW0wcTlDUG82UVdETExBT1VzS0lfVUpUNENOLWZlWWl2U1Q1ZGczMG1HR2ZKTVdfdktKRW1QdHBUVlpCYXFqZWlYTUV0aVdWUF9BZXZQOC1FdngzazduNTFVbVFrQV95R2VBM0YtUkNyblFoREdR?oc=5&hl=en-US&gl=US&ceid=US:en
+3. **QUICK TAKE | Shami to Rajasthan Royals, Curran to LSG. Seven Things to Know About the IPL 2027 Trade - Open Magazine**
+- Publisher: Open Magazine
+- Published: Tue, 17 Nov 2026 11:30:43 GMT
+- Article: https://news.google.com/rss/articles/CBMiywFBVV95cUxQUXNjMTA1MVdxMzNzSkMwdUg4ODdCUVFhZi1VcmxoX1pSVTlZTmZyLVBodWg0dDQ5eWd1LUtTT2dFeVlBVXlEbVluaXRwTUMtU0UtZEtndl9NN3RyQXNvcUN1TmU3Z1hkNmhvbkdRWEdGR0hVbTFxbVUxTWpkUWhTWlNLYnphRlhSN0FlMWVYQ0VqWEhkM1NabXZNM19pZm5ETHkxT1RweWhTMHpJckFmOTZzQmlGb21FR2pMV3dGejhqTjBRNTc0UWVhTQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
-6. **Gold prices slide in Visakhapatnam, but Andhra Pradesh buyers remain cautious: Check retail rates of 24K, 22K, 18K gold - Livemint**
-- Publisher: Livemint
-- Published: Sun, 22 Nov 2026 08:54:22 GMT
-- Article: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbGNGOWVVdXNybEhJbDlrSVpFejdoZDJ3NGFZaWx3eG5scG8ySjdHemI4TE5KLVk4Q0xtaUR5YUNmOGNnTm1JRkoxT1dHVmtKTHozQzFaTmhILXdsWFB3emFKaWlDazUyZWFSMGhzQ3VyM0ZUd2JSV1h6ZENTUHBYQ3pVNkF2VndFYUdYRWx3UldkdWlHODVRZ2NZUzRuRFRfLWJ5MHo4NWR2MHVaMHRYQ1lBLVRMU0RpZ2VwMTdWSWlzanZEcUNENGpxMWFkd2hQd2FHSDlfZUVUQlh2M2NNU2h2eWg0czRGbzFXeGZNaTJGNW1oWEl2akh5Qi1uazjSAYQCQVVfeXFMTzhveGVXU0EyNG1oRTRmQXlxcmVBVURienl5NTlpS0xFZl96c3Facjk3NmZ6Z1c2MmVxMk45Q0NJdjNHM0Jfa01MaVdORWVjbzBaRVJiOHFqOHdiX0ZRUy1EX21KUVVlVzJWZkphYjZWZjJ4N1IzSXpQcmdacXl2YzdHY2FGYm5hdDRxQW9xanZUQm50ZWh4WF9ocm9nNzNmc25VemdNUDhrTUNLX19oMVNjQkRYeWNMZ3VpYVZPS3B5WmZ3RkQ5WEhBdnJYTlBKamZPQVM1OTg5MWJIVkNmdVZCTnhtZjQtT3h5RG5aYkNVemplMXJheXZ3RFdKS21xMXo1TU0?oc=5
-
-7. **Gold Rate Today in Bangalore, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo**
-- Publisher: Kotak Neo
-- Published: Sun, 22 Nov 2026 23:49:36 GMT
-- Article: https://news.google.com/rss/articles/CBMic0FVX3lxTFBIS3F4MDVZR0tIVWlxMVltN080VkdVODBxWk9NTnp2Z2t6ODdyZ2ktSWNjM2RFSWIwWGU5UmZONnVZR1A3MUE5MG55aW5PNkpTRlJyTmVJZlItcmxaUlN4MFFYMVo4X3lFb0lrOWVMdUtnaWs?oc=5
+4. **Mohammed Shami and M Siddharth join Rajasthan Royals in IPL trades - Cricket World**
+- Publisher: Cricket World
+- Published: Tue, 17 Nov 2026 10:33:37 GMT
+- Article: https://news.google.com/rss/articles/CBMiqgFBVV95cUxONW0xTHMycU5DN2p0UWRzV1BVcDBObmdnUENoVWI4YTQ2Zk12VXhGUnh6TzlndzAwaENMZlJxOUFoTUtoaFFaeVJOc0ZmVWtReHJUc3MxbGxRQWNpX0xmMlZ6YkRWWnY0WUFiUDQzSWptZFh4TXR2X3ZsMzNRT1NGV1BFalUyNlY0c1doUXk1VUtlZDhJcTVoZVF1T3RHX2lNc0JWb2I5R1Rwdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Extracted information
-- Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices Kotak Neo
-  - Publisher: Kotak Neo
+- Siddharth traded to Rajasthan Royals, Sam Curran traded to Lucknow Super Giants IPL
+  - Publisher: IPL
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5&hl=en-US&gl=US&ceid=US:en
-- Gold Prices Today: Rates Rebound on November 23 After Sharp Weekly Crash AP7AM
-  - Publisher: AP7AM
-  - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUJhS1lVcjdqSVBCWmRMWXAza1Jta3ZSdFFXSENycGxqQldHUDU2QW5hSkJINmZxM3NLX0tybGtiMGJVQUhkV2hzbkJIYThDR2R5SFp4eHkxbzhEd19oVjQ0SWpKVG5WbWlHdmZPeDJUSHJpckZRQWVpcDNNMmtuTUptb3VzeFM3N1R1d2VyMDg3X1dmRnVzdFdmRGMtVTJzN1NKclhn0gGrAUFVX3lxTE9KNjEzWjBtVmp1YlY0azFPT0FzS1NFWUYtUEloTFNOLVJuYkJRNkY4UTBzd3VTMzNRN3FSTlYtdVh6Mk4xeVdWaWlxN2o3VktZZDV6OWJISTlxQVhJRUVHT2d1ek5CTnhlTDlhMXNLZDU0a1dqQ0xlTmZhSzdoU3JJSjRTZDQtUW5JYWR5ME12MHJHVlY0SEhNc1NGMnp4MnJ5WXRGX2FKeXJ5MA?oc=5&hl=en-US&gl=US&ceid=US:en
-- Gold rate today, November 22: Gold lost ₹22,822 in 30 days; here's how the fall unfolded Upstox
-  - Publisher: Upstox
-  - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSjJHazdVZUFWOS1sblNyQWZzRXRzNk9NbG9EWmd3bkRlVlpkM2dpN1k2MW80WG5ucHc5LWtyeXltTUxLTFJtQnFhOElTdHFhWXBWazNLbldQYVpVNWZIc1ZhX3QxMlBNVVhRZE1NQjBNN1BOUnpEWWRCNFRXTFpIdTBhcXB6aTYxdGJfTm9YZjJCN1BJRFNNZGdmZGt2TXMwZVRWRHRuWG5ZM0c3MmtGTEVvWUoxWjJMZTB4OTZpY1k1bWpWaUVxWGlZY1MzVWtxV2wzRVhvVzdtSktzSm81SWYxZ2FkUDRP?oc=5&hl=en-US&gl=US&ceid=US:en
-- Gold falls 11% to Rs 1.21 lakh and silver plunges 16.2% to Rs 1.47 lakh in a week to over one-year lows; The Times of India
+  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPM01tbHBQdTZwUmxUc3ZJcXh2TDZLZzdPZ3N5UTZjY0JBNDI0Y1d6U3F2TUxESGRLemxjbEp6SVBzZEpQcnowTVRxZWpmSFdqLVFzcHkwT08yYWFyQnlQelRDUm0yNVFueHRKcWtYYk9CdU84LWlPdnpkcDZpLVJ0N1BWU2tUWE5RUzFHOWxYWTZPRUNOcXdmNG0xQmZ6X0ltaUl0Sk5wLVlfa2VvQlQtUWs5eVZyUjVwQ19LTkNLV3BQejZqTGhacE45dw?oc=5&hl=en-US&gl=US&ceid=US:en
+- IPL 2027: Mohammed Shami, M Siddharth move to Rajasthan Royals; Sam Curran joins Lucknow Super Giants in The Times of India
   - Publisher: The Times of India
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMipANBVV95cUxNQXRyNmdESnFwLWc2eTJLWmRtdXYwalNsTG1lQW9PQ1pvcThnb1VZNFU5Zm9qU3liSlN3RkhzWGdPb2FzRDRnbTJMWmpzbFNIVHJldzhXcGp1YU5RZUdzVUVUVXNCMzdRN3dKdDRacXVkaW5lUTU5eU1fT0hYYWNVNzNCX2ZQNFNEc2VqVkdFX20yT0V0S0pTUm9fa2oybXpCOVJpRTd1aDM4ZE1UTGpBZ1pNUG9BR1RxWW5ha0NMb01RYWY5cTJiTGhSRzhxeW90QndKU3ZreFViUjU5NDFmNEd2eDEtYTNtMkhEMGNfREdpSUhxcVFYbmpQbWR1YlFjc0RLT3B3U040UXpOczY2M2stOWRqVHNPc0dWclpzNzBXbVpPVGdiZE9XSjhxQjVmdzVrYW8yNldqTWtQUTZ6aTBjM0NGUlkxbzNpQ2pOcVYxa01saXA2cFNkWEhyLVdUTmFDQkxYVURLTFNsMGp5eXZwUHk5T3NkdDJWemFaclNNT21LM09scVBWRDA0bldfeW9vQjVSX3VUTUkzVVdWQm5ydDTSAaoDQVVfeXFMT0EyZmxJUHVrdmFnUzM2NEM3aHhrLW5RWGp1aUVJRWw4cmlhckk3eHd3RUM5ZmhfbktwS19PYVAwdFFkR3J3dkhBaE9yZ05HZnc4aE0xMC1Eb21RVlF0Vm4xNFV3QlVfaVZNaWZBR2pWMTlKbzM4RXpaVkU2VUhfYlhiNk80VVBUNlpFbW8waW1WbnNUZmdjTW1JYlk0ODlOanBiTFh1UUdDSDhxbVFnX29sNl92UUtxbXgzMmNnVndwT0xpNVBzeERpOEdWbHBUeENFd2QwNlZPX3V2OTJqQjNIQnVSV2dOUzc3cjIyRlljT2RWUWlsVWZ2TzNZVjE1c2ZZZzBDbVJiNll1ZEZFdlNWbFBUWG9nQlJadHJ2am13Ui1SVlV2d1hVUERpcFdlS3RzUlR1aTBvQlpSWGpXZW42Ry1wMlBRTnBTb0dWVzJhcTNETGttbkJYTFh3RzhoMVJlQ3laRmYwcDBJY0YzUXpTNmc4YXJMZWI3Z1d3WXZZSWFRNmVtQWdyVFNwLWFBVjhvbGJfVXVmTFhCWVNMSzRqclUyOVpoMFdB?oc=5&hl=en-US&gl=US&ceid=US:en
-- Gold price in India: Rates on November 23 FXStreet
-  - Publisher: FXStreet
+  - Link: https://news.google.com/rss/articles/CBMimgJBVV95cUxNX1drV0JnVkY5N0FON0pRV183RDRTaDdwbUVxUGxUX1hlZmtlNXR4X0ZhcVVjd1hiMTRlN2J1VE42NFpBQWk2emJvdmVDTXVNUE5CWVI2ajBTYUh3dHlRSTQ3c2x4YmJNME9Kb1c2Z19fTzdkVjUyS2UtbTZrbjRJZlNEc1gxTXdwcldhbElEY1VXQXFTbEp1NnpDZ1J3cWZ2dkM5TUFRMmVPcHFneW9hR21jdzQ4akxCTFFyZXpjNll2TGFmQWpBcWFrRkJYX0h0NXdwWDlRd3ItZHlvbGtud3pPc3ZZWk5WeDlSMzBfRng0T3ZDSW9oTHB1Nks3Smk4ektUY3FINGhYbmNIbkxydHIzWm42QjBpbHfSAZ8CQVVfeXFMTmdVUGlBazBHaFk5UmNqcm9rd2E1SFlFWlBMZjNxMHNQY1BWY1N0em1PVzN2WmhINnEzaW50U19EV0pDc1BCN3FqRmdPOXhRVXZkcjM5Tmkxd1JEcjlQaW1SUVc1U2d5V0pyZkp2dDBqRUl4dXBCd3hHTDBseDhaUWJ1VVpIbnNJWTNLUFhCenBCaDJIeVZDT0xmamxKUDJSMUFkVUZEOVp0aDhTMTA3Sml5SXhydXJhOTBoek5BbFotTDZZbTBlN2thQnhjS0kwZGlzNmpDODdtU0pZQXFIZkJLZ05NUVhhem1KbFRrTEhTNHdmYS01WDlqelZsWlRkZkszcl9pRC0tVEQyVGFTbUVxQW5na3pkRTZaSDF6em8?oc=5&hl=en-US&gl=US&ceid=US:en
+- Seven Things to Know About the IPL 2027 Trade Open Magazine
+  - Publisher: Open Magazine
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmc3RkpleXlvR3J1enB6b2dyZk45cC1lc1J6WTFMQzJlNjBja0NTd0gtejVUTTYySW0wcTlDUG82UVdETExBT1VzS0lfVUpUNENOLWZlWWl2U1Q1ZGczMG1HR2ZKTVdfdktKRW1QdHBUVlpCYXFqZWlYTUV0aVdWUF9BZXZQOC1FdngzazduNTFVbVFrQV95R2VBM0YtUkNyblFoREdR?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQUXNjMTA1MVdxMzNzSkMwdUg4ODdCUVFhZi1VcmxoX1pSVTlZTmZyLVBodWg0dDQ5eWd1LUtTT2dFeVlBVXlEbVluaXRwTUMtU0UtZEtndl9NN3RyQXNvcUN1TmU3Z1hkNmhvbkdRWEdGR0hVbTFxbVUxTWpkUWhTWlNLYnphRlhSN0FlMWVYQ0VqWEhkM1NabXZNM19pZm5ETHkxT1RweWhTMHpJckFmOTZzQmlGb21FR2pMV3dGejhqTjBRNTc0UWVhTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+- QUICK TAKE | Shami to Rajasthan Royals, Curran to LSG.
+  - Publisher: Open Magazine
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQUXNjMTA1MVdxMzNzSkMwdUg4ODdCUVFhZi1VcmxoX1pSVTlZTmZyLVBodWg0dDQ5eWd1LUtTT2dFeVlBVXlEbVluaXRwTUMtU0UtZEtndl9NN3RyQXNvcUN1TmU3Z1hkNmhvbkdRWEdGR0hVbTFxbVUxTWpkUWhTWlNLYnphRlhSN0FlMWVYQ0VqWEhkM1NabXZNM19pZm5ETHkxT1RweWhTMHpJckFmOTZzQmlGb21FR2pMV3dGejhqTjBRNTc0UWVhTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+- Mohammed Shami and M Siddharth join Rajasthan Royals in IPL trades Cricket World
+  - Publisher: Cricket World
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxONW0xTHMycU5DN2p0UWRzV1BVcDBObmdnUENoVWI4YTQ2Zk12VXhGUnh6TzlndzAwaENMZlJxOUFoTUtoaFFaeVJOc0ZmVWtReHJUc3MxbGxRQWNpX0xmMlZ6YkRWWnY0WUFiUDQzSWptZFh4TXR2X3ZsMzNRT1NGV1BFalUyNlY0c1doUXk1VUtlZDhJcTVoZVF1T3RHX2lNc0JWb2I5R1Rwdw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Reel script — draft
-**Estimated narration:** 96 words
+**Estimated narration:** 76 words
 
-HOOK: Here's what happened: Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo.
+HOOK: Here's what happened: Mohd Shami and M. Siddharth traded to Rajasthan Royals, Sam Curran traded to Lucknow Super Giants - IPL.
 
 REPORTED DETAILS:
-Gold Rate Today in India, 23 Nov 2026 - Live 18K, 22K & 24K Gold Prices Kotak Neo
-Gold Prices Today: Rates Rebound on November 23 After Sharp Weekly Crash AP7AM
-Gold rate today, November 22: Gold lost ₹22,822 in 30 days; here's how the fall unfolded Upstox
-Gold falls 11% to Rs 1.21 lakh and silver plunges 16.2% to Rs 1.47 lakh in a week to over one-year lows; The Times of India
+Siddharth traded to Rajasthan Royals, Sam Curran traded to Lucknow Super Giants IPL
+IPL 2027: Mohammed Shami, M Siddharth move to Rajasthan Royals; Sam Curran joins Lucknow Super Giants in The Times of India
+Seven Things to Know About the IPL 2027 Trade Open Magazine
+QUICK TAKE | Shami to Rajasthan Royals, Curran to LSG.
 
 ENDING: Follow InfoRush for more important updates.
 
 ### Caption
-What happened in gold price today? Here are the reported details. Follow InfoRush for more.
+What happened in m siddharth? Here are the reported details. Follow InfoRush for more.
 
 ### Hashtags
 #InfoRush #NewsUpdate #DiscoverMore #LatestUpdates
