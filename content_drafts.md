@@ -1,92 +1,92 @@
 # InfoRush Content Drafts
-Generated: 2026-11-25 04:36:00 UTC
+Generated: 2026-11-26 04:33:42 UTC
 
 Free RSS research and article extraction.
 All drafts are candidates, not verified news.
 
-## World News: gold rate today live
+## World News: shivam dube
 **Status:** MULTI-SOURCE CANDIDATE — VERIFY BEFORE PUBLISHING
 
 **Important:** This is an automated research draft, not confirmed news.
 
 ### Related reports
-1. **Gold Rate Today in India, 25 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo**
-- Publisher: Kotak Neo
-- Published: Wed, 25 Nov 2026 00:15:08 GMT
-- Article: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5&hl=en-US&gl=US&ceid=US:en
+1. **Syed Mushtaq Ali Trophy: Shivam Dube, Angkrish Raghuvanshi star as Mumbai thrash Chhattisgarh - Yahoo Sports**
+- Publisher: Yahoo Sports
+- Published: Mon, 23 Nov 2026 07:29:00 GMT
+- Article: https://news.google.com/rss/articles/CBMihgFBVV95cUxQM3ZITElLdHBNb1RQR2NqVjVzbjAtaW8tVG9YbXFoMGl5eEFoZWx6eVRvQUlvSmxRYlgxbHd0YjVrdFlTSS1WVUVFWUFLUzRKR0FCVmhxRXcxTzJWSTFISlk4T2RkZHVhNV9VcjhsOGNZWHNIS1oyMnFpRFNRRFhMSmNWTG1JZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
-2. **Gold, silver prices today 25 November, Wed: Latest 24K, 22K gold, 999 silver rates in Delhi, Mumbai, Kolkata and others - Livemint**
-- Publisher: Livemint
-- Published: Wed, 25 Nov 2026 03:52:47 GMT
-- Article: https://news.google.com/rss/articles/CBMijAJBVV95cUxNVG1fRTNXQVRuRjVKbG1ZUHVnT3dWS1dXakpiTnBESGMyVnBhN0RGNXhpNW1RMnFsUmZia1FDNWxiZWFtN29YR2U4aEl5U2VQRTg4LXhST19xWnZZMnlYWlVzdHBzQ04zUU1XQjJtZHNJNUlUYUJJRXdvbGl6S0RvTHRSMWxYcDBlV2gtc1pXUUxQT0dmejZpWnI0MHZEY1BHcUFfT3k4dEI0Q3F6T241VW5ITmwtTFZqcWRMVEpJVkJsZ3RReHhkVktiMm1hbXVSSlIwX3k0aHdVMWFpbXlMTVlzUnhBVlZJbjkzZDNHMXZxTkhKNlpWV1B5d1JDakdQSVEyZS1aZFdSc2pZ0gGSAkFVX3lxTE54RVY4Y2VhU09ubWlEODVtenR2d3JfYmk2RWJYWVJ2bThxcmtpV3ZPTl81SWlTaHo3ZUVNeTk1b2gxS25YczB1emFTa3ZwR2NVMS1MdDNBMm5WcnVUb3k4bC1VTlprVHVZVnQtNGJ6QnVBTUdqaVp6amw4MWh3YWZ5SkdUNnRQNExTQUJFS21WaWNfd0VSME85ZXZMUzJYT2xEdnR6Q1h2OFRHNmE2MjFid0dqUl92VFBTdUNXVDVQTkdKRFJwOG56YnhpZkNfR1VuVllzZHdKajh0TGtlcnhKMmc4WXZIcl9kcW5LTGlXT3I0SXYyYVhhYm4xQkNXc3hiUGlwak1LZFRRSE9QUTZWOWc?oc=5&hl=en-US&gl=US&ceid=US:en
+2. **Shivam Dube player profile - Cricinfo**
+- Publisher: Cricinfo
+- Published: Sat, 20 Jun 2026 02:01:13 GMT
+- Article: https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUFZSYlMtaUJwc25vWHJwUElZQ3J3X21PakpQSTV3eHlxSFkybWxLWm15RzgzZ0lqT1A1dVRpWDk2OHpQOGZPR1RvVG1DR005cV8zd1lTYlI2N2hrWjdocjdUbHo?oc=5&hl=en-US&gl=US&ceid=US:en
 
-3. **Gold Rate Today, November 24: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express**
+3. **‘India should go past managing Shivam Dube…’: Varun Aaron - The Indian Express**
 - Publisher: The Indian Express
-- Published: Tue, 24 Nov 2026 04:41:51 GMT
-- Article: https://news.google.com/rss/articles/CBMi9gFBVV95cUxONDlBTGtlanBPQXNhTUNVODFxWEFPRGlINEdVd1V0c0h0VFNIZ1FWXzNsTzJQZGlyNEY4eWhDQncxaEFyUmVjYWdtclhwYUFScEpGUUh3WV9qVGFqbWdTdG56dUxMNHJCV3dqM01HTjVOcEJKU1FFakVEX1dEZFh5eWU1NDhuZjFJcmpMYVkxelJ2MWNSNW9lelo4R1RaSWhfUHdoTnlkSDBoaDlOdXh1akxuVGZadUVrV0lMRkVlY1pYX2xvNk5jVGpXU0I2ZmZDbXd6TEhMRGN4QlhQUWREcG5kalVTMm9MQ1A5MlJWNTd3QV9PUlHSAfwBQVVfeXFMUDU2MVhseXJiMkhJUmZRbEZIZjdzZGdVYW5SOFA5WTZWM2ptTlVMYlY5ZkRxWGM3ZUJROF9VNVlkNXU4T3RnMk9iSFk0M182WlJQME4zMW1VWlV2YWQzc1FoN1dCTThpY1FKek9VY1lNaFd6TnNDWktoR2Y4LUlOS3YtOE1nWHcxVndaS1piYVZ5VE5zYzVsWkVzZzR1bTR5Y2JPa0d5Uzc2R1ZzeXU3LWRhamFiUUphSjJYa3FROGtkaUpVLU8yYVY1M3NSalVSSzFSX2tHcFNrNUcyQ2JKbWdxajRCRU4zN1RpOVByVlhWNlhXV3E1TVEtVnFn?oc=5&hl=en-US&gl=US&ceid=US:en
+- Published: Sun, 11 Oct 2026 07:00:00 GMT
+- Article: https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkpsS0ozM3ROMmJLUGVNUDdSY0pLM1pYZ21JMm1lNDdQZDZ3OXJhTndwbjlTZUFiMlRKYmNkTVZWanFqaGpmdkxMWVVydUNVY3BHQkdlR3F4NUpsdjhqMk80V2xmcXBIc1Y3OFZnc2JSNHdNOS0tSW1YNWt0R0dhVGJtLXgwRUtvUnRUejJzQkZRQlE4aTd3aTY1Y081UDY4cmZLOEhuWGdwNzdCakxjVVln0gG4AUFVX3lxTE5jNVNmaXF4dEEwYy05QThlWklCcXVraHR2QUpocVd0bHgzdWxSbXlYNVJpLV9hbWQzMTdLeVV6cWNQQlFRWGloclp5QW5ITFl5NVBBUlBTTnJxb3FIWldKcmJPNjJjRmZyTXNuZ0Zpb3c0WmQwcmtrdy1qbUFleEMtcTY5SE50WG8yUjdhREY4YmlrTU1WdVppTkNva3JIczJFS3NZQTAyb2RyZi01UE4zZzFZOXVyTmE?oc=5&hl=en-US&gl=US&ceid=US:en
 
-4. **Gold Price Today: Live Price per Ounce and per Gram in Dollars, Pounds and Euros - Around Prague**
-- Publisher: Around Prague
-- Published: Tue, 24 Nov 2026 01:10:35 GMT
-- Article: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ya3RGTDQ4VEIzY19wN3Q3UDdOdmphSkJsc2xscC1sSFZRVEZBRDdpeWdFRVdzRmQtX1gxcWl0MW83aUZxMDdoT1Y5V09rQ2JwLVRITGFQc3UzX0ZUME40Mg?oc=5&hl=en-US&gl=US&ceid=US:en
+4. **Shivam Dube”s three-wicket haul, Raghuvanshi”s unbeaten 84 power Mumbai to win - ThePrint**
+- Publisher: ThePrint
+- Published: Sun, 22 Nov 2026 14:45:30 GMT
+- Article: https://news.google.com/rss/articles/CBMitAFBVV95cUxQNG1oV1puN1hDa2YwMTNWQ3VjMF9DR0stQTFNamZLc3U2MldGZVFoM19KUW05RmRXank2cXQ3SmZTOFpac25PeHVvanJlckVjZHdUQWU1UnYzZUFHQVdReU55UHV6LTZ2azZodkZQaTlhWVdsUFBaVlE3VF9iUlpuLXYtUEFlWDRHdTVqQTVfSWluM3dKMW1KdjdIbzZwZjBIVkQzMEg3MjhCYlluREZXMUhVZ1_SAbQBQVVfeXFMUDRtaFdabjdYQ2tmMDEzVkN1YzBfQ0dLLUExTWpmS3N1NjJXRmVRaDNfSlFtOUZkV2p5NnF0N0pmUzhaWnNuT3h1b2pyZXJFY2R3VEFlNVJ2M2VBR0FXUXlOeVB1ei02dms2aHZGUGk5YVlXbFBQWlZRN1RfYlJabi12LVBBZVg0R3U1akE1X0lpbjN3SjFtSnY3SG82cGYwSFZEMzBINzI4QmJZbkRGVzFIVWdf?oc=5&hl=en-US&gl=US&ceid=US:en
 
-5. **Gold, silver prices today, 23 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint**
-- Publisher: Livemint
-- Published: Mon, 23 Nov 2026 04:16:54 GMT
-- Article: https://news.google.com/rss/articles/CBMiigJBVV95cUxOeUN1MGh0MGJGSzZRWk9KMk1ZeFpSTXNHNURTT1NDQmJ6N2pzUEdKTzlCZEJDZnZaNUlwQjQwOWJkd3hEU1Q2Vkx5QnUwMjdwaFdKUHJ0bVo3bXhXc0twTkl5bThoYzR1Z1Nka0tGaHY4aG9Gb2h2bEFyakItQmVMM2dES09TSzFuOWdJZzRLclRyN0ZTSHBXSmxJekVYZlE0dlRkT3ktYWxLLWRmMEpHQ0wtSDU0TXI2d1RzeExsMUZYQUFqOENVZU1iQWNiN2FzQXEyMzZXanRObXZNREhsakJ6UHAtT0gxUW0wRjUwMG9rcTFqYy1jdEJ1U0tyUXE4LWdTUmFvNVpQd9IBjwJBVV95cUxQeWZya0xUZzFFbnpHMG9uZUxXWWpDcU1hUWpoUUpvUWg3d19PZXZuWUVyV1I5c3Bjb1VZejk0MFZJSkE3Nm91OUNST2pFSE9oLTB5N3laekUwckM1Vy0ydDBlMm55YzUtZl9uaEJ2eEw1SUhxTG5DVmJnMGhycnJzbXYwQWlvdTMzTGtqY0I0Y1BVOU9PM3J4ZVdNbUEycWZ5Z3hlX0FzQkhJTEZjNWVGU0s1c3cweDNWZER0a3V1UVcxdl8yUVdlMmRER3BmSXZkNXpzTDBEVll3Tm5NWF9JUGpyYnpGWnF4dnpNdHluUUlKcWd5NjZxenRSeVdNdjltcm5jMTlFZW1mVTBBYTBF?oc=5&hl=en-US&gl=US&ceid=US:en
+5. **Indian Cricketer Shivam Dube Takes Delivery Of A Brand New Mahindra XEV 9S! What Other Car Is Parked In His Garage? - CarDekho**
+- Publisher: CarDekho
+- Published: Wed, 18 Nov 2026 13:31:00 GMT
+- Article: https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbklUNFNZbnRVdUhHYmUtdmhjOERwVS1IeUszazhGUGdNSUR1ckpJVkI5UDBNekdTQ01FZGlNRTBHMzVUQU9IX2JYeHE3S2w2bWRxejVaUmtQdUxELXdSaGV5aUN3QmR2QlRHYUs2SnpFb1ZOZDdQeG5LZlJjelA3MXhFaWJKSElZV2dfRFI3TUNPcDFrZkd4YTA1a243akxnU0tBaUVaZjdnUWFIWkR1WFVOaTRxbUhaRmlkVXBXYjh5bkhrNy1FdktDbTR3V1dRdThQdjBzcHdoX1lvMnpXZUY1ZlR0ZVlVYWR4dDN5aU9lTlnSAfsBQVVfeXFMT1pnYWhETjBlMV9KTU0tSU8xc3pnX1dkLU5zMUg5ZS1rcVQ2SndCb2tYdlp2RWwweGtpQkJPUVpfSkIzR1o1UnR5MU4wa3RhNWRTODMzemdCOXpxTWZLVGN1Z3p3cEpzQ25QUm81WWZ6UFNRa2JWNm1NMDFobTVyOFVkakZuNmxSWVdzOHdlNzd3NEFWLUZiNGJOd0UtWFB2ODlRdTlkeEp5SU1kczJOTlpxWDktaFNhWHlxWHhJOUwtNzFINkVZd01UcmhnMHZEYjVXaHZuYU55VjJGeE5hWXhoNzJJVEhhYVVZdG54RzlWeC1TV0hKZ3ZXSVU?oc=5&hl=en-US&gl=US&ceid=US:en
 
-6. **Gold Rate Today, 23 November 2026: Gold prices spike to Rs 1,24,677 per 10 grams after hitting 14-month low - The Indian Express**
-- Publisher: The Indian Express
-- Published: Mon, 23 Nov 2026 08:50:14 GMT
-- Article: https://news.google.com/rss/articles/CBMi9gFBVV95cUxPb2o2TG9RZUgwdjhGM0tPT214NmFjbV9KQlNyTHlVcnlyVU1YT2lEYm5LMUUwZmFRd094S0hhY3lCaVdzQlVvRnJ1SU9sYVRCTTZkSjFuTEZaY2dmSVlYZGR2Wi0yTWdYUy1Pa2RlakotTmtldGhLYUp3dTBWSmZHSkdMMVRhbWs0WlFjUnBlLWlRMXh4M3RRVGhPVEtzeG5qdk5WUWhZbENXcUsyTGlnV2pWc3pOMjhzUHBHNHZ0SURqZFNCcmYwZnF0SV83OWRVNGk5aldiX3VfRVZNVXRhd205b0NjNWFaQ2RxalVodU14MHh1LVHSAfwBQVVfeXFMUFR2OEJEV0VSZ1VyQ2hwWlMteWdaa3hySXJvYnBIb1FnOXpOcUQyYlJGcUFfNXRfN0pqR2ZjNDEwTjB4OUx5RnFhRFdJckNteEV5Y3FyVVl4aXpab0U4RDhHcHFGZGQxbm53Tmg2c1Z4Y0pKS1J5Y09KbnlhTTdXTW9nWFZjRXJJNkVCRnQ3T3VUanM3Y1FkQkVoVTZHMWRyWGpJaWR3ajNuNGVlSDdpNWFaRllpX3JBazFCYWk0Qjl4bnVzV0g3U3d2SWU3Z2xMdlFQWEs5OXZsSlFqbmNydDlQZEpaSmpIb1lIdVYydGVSU1d3RDdMLXVkdThF?oc=5
+6. **Indian Cricket Star Shivam Dube Takes Delivery Of Mahindra XEV 9S Electric SUV - CarAndBike**
+- Publisher: CarAndBike
+- Published: Tue, 17 Nov 2026 08:00:00 GMT
+- Article: https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFhORlBJOFF2bkZVR0NuRnE3QkJ6My1UR2YtRzdLVFZfMHVETXY2eVAzUjFaWFcxejRKVWMtdmUtU19aS254R1d2Y19fcnl3Q3lodlc5NVZtWnBESE9vZ3V5eG1hVkNDTEZXR0lMMHd3bnZjQ245X2JNeVVYMlFOS01XRjB6VDdndDVCaWhHUktyV2hNdzF4Z3A5OS16dTZWeEF1RERHbGxBclZmR3FRc28zUnFwNm1wRUHSAcIBQVVfeXFMTzJxdlE2RlFQNnRVcU9ZMmRfOFh1SUJfWkszbDdNRWxFYlgxV0RtS092bDZYLWtTLTRMZ0JyUjZSUFRZNVZQYktKN0lyd0RneGcxdUw1b1BIWnJBeUFNR1pvSy05bUZ2eFRoMmh3NXV3TW1lNDcycmJNU1VacUVHX1JjVDBadTg2NERDa3lDanBHQzZrbjlsLXBwNlFDWDRhTEJwdDhqMW1jaGxQb2tGTEFXUngwckRka3kwU3VWQ3p2dXc?oc=5
 
-7. **Gold price in Bangalore today, 24 November Tuesday: Check latest 24K, 22K and 20K gold rates in Silicon Valley of India - Livemint**
-- Publisher: Livemint
-- Published: Tue, 24 Nov 2026 04:53:04 GMT
-- Article: https://news.google.com/rss/articles/CBMikgJBVV95cUxQbzVMc2htbkdDajUxTV92N3dkdV84cklQa2ljdTZySHJzcHZIOVZOeDNaREVvTVNqdGExRUxPWFNZZVhZVDF3VDVKcVhUYXdaYXVSWWxISTRQTDZlQjBRN1NnbWxPcE5YTUVOZVRUcllKdFVpLUFmdlZSa3hRdVg1MlpZcExLVFlCUGJpQTZUdTJENFAtUmtoRmJXRzVMRnROSXhtbmJjdUtSTGlDOFFlTGZzWndBT19rV2NGenozWE1GNGN5OVNZcU1uZEUxV0xIOTVGYTM2eFI0aFJsdHQ2d0NjQ3NDOVdzdm5EdnFLejZadnR1RlFYd0ljQ2s0b2JtdU14LWpLdUx4SU13dE5FeUtB0gGXAkFVX3lxTE9TSzgwbU9USDd3ZmNtUFdfNEw4bjNfRkYwZU1IWURzWFpraE1Hc0d1ZlA0YlJBWGcxWGxUUVFkTWFnRF9RZlNSSXhEYkhSc0hPZlRMYkN4SUpUX3hHLTBPS1NSdUEzSHYxQnhCclRjV3o3UGNjc0xIX1V4a0p1RENoWjVON3VqbFhzS2VuMXRIM3FLTjFQNWRKaVNiNXl4R21CLTlLLUFZU1hCR1ZhMFU4b28xQVpzUDJNeENvMWc2bktuS3p5NEpWcWVrd2NyMl9HcFRLa09QUkRQOGpjRHBTTHRJWGY0QmVPWTlqNEJhT3RvbFZDMHpRNllOT0VaWm5ScHlHRVBkM3A2WW1ac3BaR04zSG1kRQ?oc=5
-
-8. **Gold Rates Today: Gold Price in India Live & Updates - NDTV**
+7. **Cricketer Shivam Dube Buys Mahindra XEV 9S In Ruby Velvet Colour - NDTV**
 - Publisher: NDTV
-- Published: Fri, 17 Apr 2026 09:49:53 GMT
-- Article: https://news.google.com/rss/articles/CBMiREFVX3lxTE1lcG1hdlRDVzcwdl9ENDZQd2htczA2RFJXYm5FTV8xN1Q1dHBlUW5yVHA4dWtPNm9jMk5VWlZEcmliVG5q?oc=5
+- Published: Tue, 17 Nov 2026 08:00:00 GMT
+- Article: https://news.google.com/rss/articles/CBMioAFBVV95cUxPRWFpVDNiU0UyTGVhSVY4WlNfdWRVLVp4N2RpOGdnQmliMkZYdDVGVk9LdUtZbjBwZk5FbF9JNlN3UUowSXpaeDhPRVlxek5QREN5UUFSTTIybHNOLVJyUnlYTVZZVkN2Y1VrWFVIZnNKS0JSRnY4UHMtNkJBS1pEMHFWbkVnWUQ1M2MxbndqZXBpd1BaWEhTeEo4S1dMRDNE0gGoAUFVX3lxTE1ETHh0eFlzdzVQbnFHazlCMHA0bUw4eUU3Z19OenJhSmVBenNkMVE5TjB2TGpfU1VTMWRmdHpSYlJ0MHFrOUxDUWJuMDhlZTZaZWtWMXgtZ0dWbHZtZ3p1NzZ2WmhwS2FCWWhRcC1iQkJ6ZjVxYm5jUkVNZlpzSkVROFNYMWRQRFNWUjZSMG8yYjBNeUxHSFZ3Rjd1T1N2T3ZBalpyUTVFbA?oc=5
+
+8. **Shivam Dube Photos | Image Gallery and Match Pictures - Cricinfo**
+- Publisher: Cricinfo
+- Published: Sat, 20 Jun 2026 01:13:53 GMT
+- Article: https://news.google.com/rss/articles/CBMibkFVX3lxTE1CM0JOVmoyM3RfRHlyVERfeUVJeF95NFBNSnQwZWlJNHlHLVlmN1NENXN5MllhZVphZzQyay1SQXM4V29SZ3lWRmNzc3ROaG4zMDVYTXFLaGVraUZha2VsU3RYSW1UTmJFZVVLZU53?oc=5
 
 ### Extracted information
-- Gold Rate Today in India, 25 Nov 2026 - Live 18K, 22K & 24K Gold Prices Kotak Neo
-  - Publisher: Kotak Neo
+- Syed Mushtaq Ali Trophy: Shivam Dube, Angkrish Raghuvanshi star as Mumbai thrash Chhattisgarh Yahoo Sports
+  - Publisher: Yahoo Sports
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5&hl=en-US&gl=US&ceid=US:en
-- Gold, silver prices today 25 November, Wed: Latest 24K, 22K gold, 999 silver rates in Delhi, Mumbai, Kolkata and others Livemint
-  - Publisher: Livemint
-  - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMijAJBVV95cUxNVG1fRTNXQVRuRjVKbG1ZUHVnT3dWS1dXakpiTnBESGMyVnBhN0RGNXhpNW1RMnFsUmZia1FDNWxiZWFtN29YR2U4aEl5U2VQRTg4LXhST19xWnZZMnlYWlVzdHBzQ04zUU1XQjJtZHNJNUlUYUJJRXdvbGl6S0RvTHRSMWxYcDBlV2gtc1pXUUxQT0dmejZpWnI0MHZEY1BHcUFfT3k4dEI0Q3F6T241VW5ITmwtTFZqcWRMVEpJVkJsZ3RReHhkVktiMm1hbXVSSlIwX3k0aHdVMWFpbXlMTVlzUnhBVlZJbjkzZDNHMXZxTkhKNlpWV1B5d1JDakdQSVEyZS1aZFdSc2pZ0gGSAkFVX3lxTE54RVY4Y2VhU09ubWlEODVtenR2d3JfYmk2RWJYWVJ2bThxcmtpV3ZPTl81SWlTaHo3ZUVNeTk1b2gxS25YczB1emFTa3ZwR2NVMS1MdDNBMm5WcnVUb3k4bC1VTlprVHVZVnQtNGJ6QnVBTUdqaVp6amw4MWh3YWZ5SkdUNnRQNExTQUJFS21WaWNfd0VSME85ZXZMUzJYT2xEdnR6Q1h2OFRHNmE2MjFid0dqUl92VFBTdUNXVDVQTkdKRFJwOG56YnhpZkNfR1VuVllzZHdKajh0TGtlcnhKMmc4WXZIcl9kcW5LTGlXT3I0SXYyYVhhYm4xQkNXc3hiUGlwak1LZFRRSE9QUTZWOWc?oc=5&hl=en-US&gl=US&ceid=US:en
-- Gold Rate Today, November 24: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities The Indian Express
+  - Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxQM3ZITElLdHBNb1RQR2NqVjVzbjAtaW8tVG9YbXFoMGl5eEFoZWx6eVRvQUlvSmxRYlgxbHd0YjVrdFlTSS1WVUVFWUFLUzRKR0FCVmhxRXcxTzJWSTFISlk4T2RkZHVhNV9VcjhsOGNZWHNIS1oyMnFpRFNRRFhMSmNWTG1JZw?oc=5&hl=en-US&gl=US&ceid=US:en
+- ‘India should go past managing Shivam Dube…’: Varun Aaron The Indian Express
   - Publisher: The Indian Express
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxONDlBTGtlanBPQXNhTUNVODFxWEFPRGlINEdVd1V0c0h0VFNIZ1FWXzNsTzJQZGlyNEY4eWhDQncxaEFyUmVjYWdtclhwYUFScEpGUUh3WV9qVGFqbWdTdG56dUxMNHJCV3dqM01HTjVOcEJKU1FFakVEX1dEZFh5eWU1NDhuZjFJcmpMYVkxelJ2MWNSNW9lelo4R1RaSWhfUHdoTnlkSDBoaDlOdXh1akxuVGZadUVrV0lMRkVlY1pYX2xvNk5jVGpXU0I2ZmZDbXd6TEhMRGN4QlhQUWREcG5kalVTMm9MQ1A5MlJWNTd3QV9PUlHSAfwBQVVfeXFMUDU2MVhseXJiMkhJUmZRbEZIZjdzZGdVYW5SOFA5WTZWM2ptTlVMYlY5ZkRxWGM3ZUJROF9VNVlkNXU4T3RnMk9iSFk0M182WlJQME4zMW1VWlV2YWQzc1FoN1dCTThpY1FKek9VY1lNaFd6TnNDWktoR2Y4LUlOS3YtOE1nWHcxVndaS1piYVZ5VE5zYzVsWkVzZzR1bTR5Y2JPa0d5Uzc2R1ZzeXU3LWRhamFiUUphSjJYa3FROGtkaUpVLU8yYVY1M3NSalVSSzFSX2tHcFNrNUcyQ2JKbWdxajRCRU4zN1RpOVByVlhWNlhXV3E1TVEtVnFn?oc=5&hl=en-US&gl=US&ceid=US:en
-- Gold Price Today: Live Price per Ounce and per Gram in Dollars, Pounds and Euros Around Prague
-  - Publisher: Around Prague
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkpsS0ozM3ROMmJLUGVNUDdSY0pLM1pYZ21JMm1lNDdQZDZ3OXJhTndwbjlTZUFiMlRKYmNkTVZWanFqaGpmdkxMWVVydUNVY3BHQkdlR3F4NUpsdjhqMk80V2xmcXBIc1Y3OFZnc2JSNHdNOS0tSW1YNWt0R0dhVGJtLXgwRUtvUnRUejJzQkZRQlE4aTd3aTY1Y081UDY4cmZLOEhuWGdwNzdCakxjVVln0gG4AUFVX3lxTE5jNVNmaXF4dEEwYy05QThlWklCcXVraHR2QUpocVd0bHgzdWxSbXlYNVJpLV9hbWQzMTdLeVV6cWNQQlFRWGloclp5QW5ITFl5NVBBUlBTTnJxb3FIWldKcmJPNjJjRmZyTXNuZ0Zpb3c0WmQwcmtrdy1qbUFleEMtcTY5SE50WG8yUjdhREY4YmlrTU1WdVppTkNva3JIczJFS3NZQTAyb2RyZi01UE4zZzFZOXVyTmE?oc=5&hl=en-US&gl=US&ceid=US:en
+- Shivam Dube”s three-wicket haul, Raghuvanshi”s unbeaten 84 power Mumbai to win ThePrint
+  - Publisher: ThePrint
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ya3RGTDQ4VEIzY19wN3Q3UDdOdmphSkJsc2xscC1sSFZRVEZBRDdpeWdFRVdzRmQtX1gxcWl0MW83aUZxMDdoT1Y5V09rQ2JwLVRITGFQc3UzX0ZUME40Mg?oc=5&hl=en-US&gl=US&ceid=US:en
-- Gold, silver prices today, 23 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata Livemint
-  - Publisher: Livemint
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQNG1oV1puN1hDa2YwMTNWQ3VjMF9DR0stQTFNamZLc3U2MldGZVFoM19KUW05RmRXank2cXQ3SmZTOFpac25PeHVvanJlckVjZHdUQWU1UnYzZUFHQVdReU55UHV6LTZ2azZodkZQaTlhWVdsUFBaVlE3VF9iUlpuLXYtUEFlWDRHdTVqQTVfSWluM3dKMW1KdjdIbzZwZjBIVkQzMEg3MjhCYlluREZXMUhVZ1_SAbQBQVVfeXFMUDRtaFdabjdYQ2tmMDEzVkN1YzBfQ0dLLUExTWpmS3N1NjJXRmVRaDNfSlFtOUZkV2p5NnF0N0pmUzhaWnNuT3h1b2pyZXJFY2R3VEFlNVJ2M2VBR0FXUXlOeVB1ei02dms2aHZGUGk5YVlXbFBQWlZRN1RfYlJabi12LVBBZVg0R3U1akE1X0lpbjN3SjFtSnY3SG82cGYwSFZEMzBINzI4QmJZbkRGVzFIVWdf?oc=5&hl=en-US&gl=US&ceid=US:en
+- Indian Cricketer Shivam Dube Takes Delivery Of A Brand New Mahindra XEV 9S!
+  - Publisher: CarDekho
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMiigJBVV95cUxOeUN1MGh0MGJGSzZRWk9KMk1ZeFpSTXNHNURTT1NDQmJ6N2pzUEdKTzlCZEJDZnZaNUlwQjQwOWJkd3hEU1Q2Vkx5QnUwMjdwaFdKUHJ0bVo3bXhXc0twTkl5bThoYzR1Z1Nka0tGaHY4aG9Gb2h2bEFyakItQmVMM2dES09TSzFuOWdJZzRLclRyN0ZTSHBXSmxJekVYZlE0dlRkT3ktYWxLLWRmMEpHQ0wtSDU0TXI2d1RzeExsMUZYQUFqOENVZU1iQWNiN2FzQXEyMzZXanRObXZNREhsakJ6UHAtT0gxUW0wRjUwMG9rcTFqYy1jdEJ1U0tyUXE4LWdTUmFvNVpQd9IBjwJBVV95cUxQeWZya0xUZzFFbnpHMG9uZUxXWWpDcU1hUWpoUUpvUWg3d19PZXZuWUVyV1I5c3Bjb1VZejk0MFZJSkE3Nm91OUNST2pFSE9oLTB5N3laekUwckM1Vy0ydDBlMm55YzUtZl9uaEJ2eEw1SUhxTG5DVmJnMGhycnJzbXYwQWlvdTMzTGtqY0I0Y1BVOU9PM3J4ZVdNbUEycWZ5Z3hlX0FzQkhJTEZjNWVGU0s1c3cweDNWZER0a3V1UVcxdl8yUVdlMmRER3BmSXZkNXpzTDBEVll3Tm5NWF9JUGpyYnpGWnF4dnpNdHluUUlKcWd5NjZxenRSeVdNdjltcm5jMTlFZW1mVTBBYTBF?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbklUNFNZbnRVdUhHYmUtdmhjOERwVS1IeUszazhGUGdNSUR1ckpJVkI5UDBNekdTQ01FZGlNRTBHMzVUQU9IX2JYeHE3S2w2bWRxejVaUmtQdUxELXdSaGV5aUN3QmR2QlRHYUs2SnpFb1ZOZDdQeG5LZlJjelA3MXhFaWJKSElZV2dfRFI3TUNPcDFrZkd4YTA1a243akxnU0tBaUVaZjdnUWFIWkR1WFVOaTRxbUhaRmlkVXBXYjh5bkhrNy1FdktDbTR3V1dRdThQdjBzcHdoX1lvMnpXZUY1ZlR0ZVlVYWR4dDN5aU9lTlnSAfsBQVVfeXFMT1pnYWhETjBlMV9KTU0tSU8xc3pnX1dkLU5zMUg5ZS1rcVQ2SndCb2tYdlp2RWwweGtpQkJPUVpfSkIzR1o1UnR5MU4wa3RhNWRTODMzemdCOXpxTWZLVGN1Z3p3cEpzQ25QUm81WWZ6UFNRa2JWNm1NMDFobTVyOFVkakZuNmxSWVdzOHdlNzd3NEFWLUZiNGJOd0UtWFB2ODlRdTlkeEp5SU1kczJOTlpxWDktaFNhWHlxWHhJOUwtNzFINkVZd01UcmhnMHZEYjVXaHZuYU55VjJGeE5hWXhoNzJJVEhhYVVZdG54RzlWeC1TV0hKZ3ZXSVU?oc=5&hl=en-US&gl=US&ceid=US:en
+- What Other Car Is Parked In His Garage?
+  - Publisher: CarDekho
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbklUNFNZbnRVdUhHYmUtdmhjOERwVS1IeUszazhGUGdNSUR1ckpJVkI5UDBNekdTQ01FZGlNRTBHMzVUQU9IX2JYeHE3S2w2bWRxejVaUmtQdUxELXdSaGV5aUN3QmR2QlRHYUs2SnpFb1ZOZDdQeG5LZlJjelA3MXhFaWJKSElZV2dfRFI3TUNPcDFrZkd4YTA1a243akxnU0tBaUVaZjdnUWFIWkR1WFVOaTRxbUhaRmlkVXBXYjh5bkhrNy1FdktDbTR3V1dRdThQdjBzcHdoX1lvMnpXZUY1ZlR0ZVlVYWR4dDN5aU9lTlnSAfsBQVVfeXFMT1pnYWhETjBlMV9KTU0tSU8xc3pnX1dkLU5zMUg5ZS1rcVQ2SndCb2tYdlp2RWwweGtpQkJPUVpfSkIzR1o1UnR5MU4wa3RhNWRTODMzemdCOXpxTWZLVGN1Z3p3cEpzQ25QUm81WWZ6UFNRa2JWNm1NMDFobTVyOFVkakZuNmxSWVdzOHdlNzd3NEFWLUZiNGJOd0UtWFB2ODlRdTlkeEp5SU1kczJOTlpxWDktaFNhWHlxWHhJOUwtNzFINkVZd01UcmhnMHZEYjVXaHZuYU55VjJGeE5hWXhoNzJJVEhhYVVZdG54RzlWeC1TV0hKZ3ZXSVU?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Reel script — draft
-**Estimated narration:** 102 words
+**Estimated narration:** 71 words
 
-HOOK: Here's what happened: Gold Rate Today in India, 25 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo.
+HOOK: Here's what happened: Syed Mushtaq Ali Trophy: Shivam Dube, Angkrish Raghuvanshi star as Mumbai thrash Chhattisgarh - Yahoo Sports.
 
 REPORTED DETAILS:
-Gold Rate Today in India, 25 Nov 2026 - Live 18K, 22K & 24K Gold Prices Kotak Neo
-Gold, silver prices today 25 November, Wed: Latest 24K, 22K gold, 999 silver rates in Delhi, Mumbai, Kolkata and others Livemint
-Gold Rate Today, November 24: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities The Indian Express
-Gold Price Today: Live Price per Ounce and per Gram in Dollars, Pounds and Euros Around Prague
+Syed Mushtaq Ali Trophy: Shivam Dube, Angkrish Raghuvanshi star as Mumbai thrash Chhattisgarh Yahoo Sports
+‘India should go past managing Shivam Dube…’: Varun Aaron The Indian Express
+Shivam Dube”s three-wicket haul, Raghuvanshi”s unbeaten 84 power Mumbai to win ThePrint
+Indian Cricketer Shivam Dube Takes Delivery Of A Brand New Mahindra XEV 9S!
 
 ENDING: Follow InfoRush for more important updates.
 
 ### Caption
-What happened in gold rate today live? Here are the reported details. Follow InfoRush for more.
+What happened in shivam dube? Here are the reported details. Follow InfoRush for more.
 
 ### Hashtags
 #InfoRush #NewsUpdate #DiscoverMore #LatestUpdates
@@ -103,65 +103,55 @@ What happened in gold rate today live? Here are the reported details. Follow Inf
 
 ---
 
-## World News: sg mart share price
+## World News: nse share price
 **Status:** MULTI-SOURCE CANDIDATE — VERIFY BEFORE PUBLISHING
 
 **Important:** This is an automated research draft, not confirmed news.
 
 ### Related reports
-1. **APL Apollo crashes 29% since Tata Steel deal; SG Mart, SG Finserve hit lows - Business Standard**
+1. **NSE jumps 5% to new high on ICICI Sec's 'buy' call; target signals 20% rise - Business Standard**
 - Publisher: Business Standard
-- Published: Wed, 25 Nov 2026 04:26:52 GMT
-- Article: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGdzTHRyTkhfQS1meG96SEttRkdoU0Y0bnJJazRKVGd1LW10OVNVNGw4M25BT2ZEdVdBYlloeTM3YU1kbERFNXBGYjE3OF9sMzJfQXRUbGhvTldxU3ZzdDNiZHgyRF92czlwZDFSNVJjdU5HbG5sN0tHYjVQWFRhQ1RkMkxGOHhoQXBsTWp1WHdvS19HWWo3NTlfdWpTcDU1ZzBKSklsYTBLTXBNcERncDRPX3FhdVBPNGliVHRTUVJVbUgtSXd5ZDZ2NV8xSHZPb0ZtalBn0gHbAUFVX3lxTE9JVl9iNllpNU43OThrUzlaUzkwWm5CWk1iUWk4WmZyWkNrc2FVNlcxVVdWTmExajhkNEpEQmx4VFRiYUxPRGJ4a1BmaDRRQTFZSnBYeDhITUNkTUFQazVSNWJtN25Pb2JkUGM1UEFyUk5JVGlSUlpQQTEycThoRW1lWW9UWFlqeDVVcnJlTklmRFhoc1QxTDFFcUN6SFBCVFpDZ3RXbE1VS1lKTmZjZWRSeG9ZTEpVUEFCZllxU0xLTGdnRWQyZ0tyUU92YTZRWVh2RGMwbXJOdzBDYw?oc=5&hl=en-US&gl=US&ceid=US:en
+- Published: Wed, 25 Nov 2026 09:33:26 GMT
+- Article: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUXJwVy1oTmpzSG55OUg0WEVsNUtfY1ZmRjFmc2drVXdWZlpSQUhKMWx0RWh2NFVpeGRod1pFSXA3NDR6Y0V3RHhUNGtfeTZvWkpwdTdGSWZuMXE2YVNxZXdEeFlITnJOZmxhNEh2eXZwUmtSQXZyNmU5RDV4ZHVZMFlZd1JEaDhydHo4ZUR6Y3N1YUFOVTVtN2pBTV95aFBXZUVXcVQ2TjJ3bFEwaWt2aEJTTDUxX2lOZ3RHcGlKN2FmT3JnVWQ0S3luQ011OTFKQjhB0gHYAUFVX3lxTE9uNW9zazdiV2FVNVkyY0lMZFY5ZE5IRlhhc0RrVEFmSDNKWG9DMzZMR1RnSXdrZGc2bmY1Nlc3a0pFSmFHR2FOQzVoNjRwdTc1cWhLdnJIcURKLWlZTzJTWmFUNWYwYUZwajhnQ0I5dEo5WmFOZ2VVSWt0VjQwZzN3Ny1IdGdOUEtoRVpuOV94Yy1iVllmWF9fZ21XcHdneEN3aFZrdFlmdTh5elBFVHQxanRMSXF1Qi05NGVwV3JLWHVvaGxYYllDRzhseFZkSm1WS1M2SnZYUg?oc=5&hl=en-US&gl=US&ceid=US:en
 
-2. **After selling APL Apollo stake to Tata Steel, Sanjay Gupta family shifts focus to SG Mart - Moneycontrol.com**
+2. **NSE shares rise 4.5% after ICICI Securities sets highest-ever Street target, sees 20% upside – should... - Moneycontrol.com**
 - Publisher: Moneycontrol.com
-- Published: Mon, 23 Nov 2026 04:49:36 GMT
-- Article: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaHpoemlnOWp2dGNjQXVNdzNhak51aURoeGJVNEFaX0ZQcXl4d0NiOXhSNDk2UUdLR3FNT29fY2RnbXBkQWdIYklTeFdfZGV3SlZuN2F3RTBZMjN6RjFPdEo3LVpsVS0zcWVUNXNIMXdTMXlPNVFpajRSdmpPa3BxTTZwdHF2UGlfRDVzRlZpd2I5b3JNaDVaSXZQUmlDbUFVai1RYkN6YnVoaktDbnl2Wnp6b0VGaE1fNmItckFpTEduRVdPa3RsVXI0MWZnd3VWQ01oWlNWckctbXk30gHiAUFVX3lxTE8yZkE5Y3RtVm9wT0hFUEdybVo4ZEF0N3ZHTzFPWTUxay1xdWNTNDh4TDd5SUVnUnhCRW50ZWtNbm5jZjlCY2RNdTRpNnplZkhYVXBQRmhLbE1CR3g4YXU0MENpOEh1ckd4cTdkTG1aOGN4Yjl0azljdWpnNl9YaGJQUFBudFNzSFFOS1BHYktmMDRkMHNITUNYcTNZQWk3TVluejIybmpFSGNRZ0ViaFlFUGUyZ1U0VXplckxucmFhb3AxckJFTTJOWFRlRkdaQjFVRVpzRTdodUxVMlRjT2k1S0E?oc=5&hl=en-US&gl=US&ceid=US:en
+- Published: Wed, 25 Nov 2026 07:41:13 GMT
+- Article: https://news.google.com/rss/articles/CBMihgJBVV95cUxPTTR2andaTWNzMTR2UTdNdklWenJVcjdBbG9WZnY4end6dUFXWVdIblQyMFlNX1pjUnFGMUl6cG8yYS1GaFdxY09hWXlOMGhhZHEwQy14ZjRoZHNIcWd5NFNzR3NxZmx0TE9UTGZkN0F0cTM4WXhWdEtwM1lINU9RekRCYm82bmJlcUFuS2JVWUFiT0cwOWtXbjYtRTVlcl9rTjFXVzlfaFJLdEtGRC1fM2ozR2xXLXJCcnpKeUZ1blc1NjJxaldzcHdwMk9rd2pjbGZlWGJoMFkwNG5Rc0Qydzg3LXZlTmcybjJmdlIxUW1tclp6N1hNOTgxT3VaYW10YUJxeFNR0gGLAkFVX3lxTFA5SlhmYUtZdHQ2V1p4b0hOdVNtc2ItanVWQ0NTZE5ydjVZN2N1UXZ5ZFJNR0p5aW1IWEM0Z1JrUkNhbll2MS0tN2tNM3lQVE41OHRvbTEyS1ctZFBkY0JCZ3kzVmVXS0tNTDNzcjhLTHloUnFveFg3M0pUTy1VYjczWHo4X3dJQmMwc1J5OE1VSXBsbGJ0V2J4ZjB1eXZCU3ZTYkZHN1FwTDl1N1B4WEYzU0Qwb1Z6cTdtSHhfRjN2VEw4TTFVSVdhSnZBWk44dVQyWUlrenlVMGo0QkRvYXNhblVaMWVWNnVNV0RtS0NNbVZjcEVreFo3TXo2SjlzUUN1SmZKZk0xWG4yVQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
-3. **Multibagger stock: SG Mart surges 13% to record high on fundraise buzz - Business Standard**
-- Publisher: Business Standard
-- Published: Mon, 23 Nov 2026 04:49:16 GMT
-- Article: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUFJFVlRfek1aSjZ4QTE3cS0xbmxiRFhndzIwYXNmbTBneXZIWjZLY3NrcHdGZ1dXa1NvZkxEdHRISjlhelQ4TFdncURYT3ZDWWliMmlQcnBWdlcySTkwNXFGUXdHUVpGV00yMlJVWjNKcW1IWDEyOFNkaF9fYzJyby16YzQ0MS1wajkyUDh4bGo1Vm9jODRla1B4d2Y2eC1HMnhhMTBnRFQtb3BsQ3V6Y01aSk1RWWpBMHFpeENoTVpfaGJwY2lFX0RIYkRaTzVC0gHWAUFVX3lxTE83eThfZDhINVZqMXRFOUxVWWFmZ3FrVkdmVVcyMVNnb20zcWhyQUxtTnZwLWRERU9NbFRZd3lwYldrQ3JtbDBzZ3BMV3lyTG1OYlpZTElXaTV6U1FIQ3NJN3FjUmtJbGJlNFBPNUFzRS02WVpuOVk5UmRmX3lzRUhBYmhxLXNnTE4wZFlaZ0pkNDdDcEI0cWx5NGRueUxwTXVaV2toWVd1enFDMG9LOUJxRG5qbTBpWWV0MFgyMzlCT0piQXJ6VFExUlF4R2YwLTRrbGNXRnc?oc=5&hl=en-US&gl=US&ceid=US:en
-
-4. **Explained - How the mega M&A deal impacts both APL Apollo Tubes and Tata Steel - CNBC TV18**
-- Publisher: CNBC TV18
-- Published: Mon, 23 Nov 2026 05:03:23 GMT
-- Article: https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSkRpUFh3dzQ4d3k2cnBwTk9zUHA1SHdvN0Z2cGdELUxsUjhoXzlxZVRFZDdrb240a3JTeUtLVjZaRWUxVFZXLXByTzRGT0FHbTZJZjVvSW1SUzV1VjFjMEhvZnJlVklmN1EtTVlZQThqNmJHblJiXzFmLURpNDlRLUhKZzFSNHVtU2dUTTRCc3RhWlZVRUVScEgtTDNVeDcwLXRVaGgzUk1IVnZTM1lscUt5dGhLVnFheEdkcVd3enMwaFFaRmhsMm50MWZvdFh5R1hwRnpUc2NVNmpiVXRQR2s2Z3VCbnNkVlUzVXdwSVjSAfYBQVVfeXFMT1pOUDVpN0VqOUhieFRQamFMdWYzcGpONHdtdFIwQXFmV1kwX1lfZTZiUV9Wa1lGNG9kNFRVZEd5U0UwOEJUQ1B1OHRrUFU2QndIRW9MdHFSSDdmckhiT0dBaV9pX0RpSEx6QkZNZ1NfY2tYV2tJZXNaVklUcThIc29iYTRQalhvVGh1N20tcmxqQUNWRzZhOXU3REF1b1lVUFc5SmhTVUNOYjJnbTdBS0NJaGJ0aW9CM08xTFJwUDJabEVXaXB4SWlzMnRIZmpEUFMwVnVhUjFaYnhTSWZ1eENnNzZMbFdMa1VfbmdpZVc4NGZaSUVR?oc=5&hl=en-US&gl=US&ceid=US:en
+3. **NSE gets two more 'Buy' ratings, targets suggest up to 20% upside - Business Today**
+- Publisher: Business Today
+- Published: Wed, 25 Nov 2026 06:12:19 GMT
+- Article: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYWRqTzFHUTlydFA1bVhzbVdUU1ZKSndwU2JmN0dSTy1OQ0FvNzVUTVZsMnRETks4ZXJ3ZXZIN1J3TmFHLXNTQ3BJSkRiaHdVai1xNEJZVG5ReUFYREZzOV9YcExYN2dfWmVnWXR4RFFNcnlUanE3UjZjcmVaOWFrTkFHdHRxTzc4YmhnaGVBWGhPTl9zb0ZpbVRDYzNUVEdpTHA4NDNoWTNRdTR4eXZrV3hCUEpOWFJja3NnZWNVQVpUZ05ScWFmTNIBzgFBVV95cUxNZVFzWk5hb2ZNbTcwRjdTLXpMWV95LWVxSXBJaFRxUDlJb2k3b1NTSGVIMjUzNHpsNWptbHhoWHhvUG90SGNJdnFZcktVVk5NNDJXdnhxZnRmYVFXUk5raWh1UDZqY0dBSGxNZmlLQUhXcjhQWjRFanY1azZZWVhubENoc3hPbDI0TFdxTTh6WTVxc2VSYnlMcGtCZk9rdGpKLVJreEJBUW8yMS10M1NUcXo3MUNWMGR0cmU5bTRLTlZCV3VfbHB0ZHpMWjlyQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Extracted information
-- APL Apollo crashes 29% since Tata Steel deal; SG Mart, SG Finserve hit lows Business Standard
+- NSE jumps 5% to new high on ICICI Sec's 'buy' call; target signals 20% rise Business Standard
   - Publisher: Business Standard
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGdzTHRyTkhfQS1meG96SEttRkdoU0Y0bnJJazRKVGd1LW10OVNVNGw4M25BT2ZEdVdBYlloeTM3YU1kbERFNXBGYjE3OF9sMzJfQXRUbGhvTldxU3ZzdDNiZHgyRF92czlwZDFSNVJjdU5HbG5sN0tHYjVQWFRhQ1RkMkxGOHhoQXBsTWp1WHdvS19HWWo3NTlfdWpTcDU1ZzBKSklsYTBLTXBNcERncDRPX3FhdVBPNGliVHRTUVJVbUgtSXd5ZDZ2NV8xSHZPb0ZtalBn0gHbAUFVX3lxTE9JVl9iNllpNU43OThrUzlaUzkwWm5CWk1iUWk4WmZyWkNrc2FVNlcxVVdWTmExajhkNEpEQmx4VFRiYUxPRGJ4a1BmaDRRQTFZSnBYeDhITUNkTUFQazVSNWJtN25Pb2JkUGM1UEFyUk5JVGlSUlpQQTEycThoRW1lWW9UWFlqeDVVcnJlTklmRFhoc1QxTDFFcUN6SFBCVFpDZ3RXbE1VS1lKTmZjZWRSeG9ZTEpVUEFCZllxU0xLTGdnRWQyZ0tyUU92YTZRWVh2RGMwbXJOdzBDYw?oc=5&hl=en-US&gl=US&ceid=US:en
-- After selling APL Apollo stake to Tata Steel, Sanjay Gupta family shifts focus to SG Mart Moneycontrol.com
+  - Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUXJwVy1oTmpzSG55OUg0WEVsNUtfY1ZmRjFmc2drVXdWZlpSQUhKMWx0RWh2NFVpeGRod1pFSXA3NDR6Y0V3RHhUNGtfeTZvWkpwdTdGSWZuMXE2YVNxZXdEeFlITnJOZmxhNEh2eXZwUmtSQXZyNmU5RDV4ZHVZMFlZd1JEaDhydHo4ZUR6Y3N1YUFOVTVtN2pBTV95aFBXZUVXcVQ2TjJ3bFEwaWt2aEJTTDUxX2lOZ3RHcGlKN2FmT3JnVWQ0S3luQ011OTFKQjhB0gHYAUFVX3lxTE9uNW9zazdiV2FVNVkyY0lMZFY5ZE5IRlhhc0RrVEFmSDNKWG9DMzZMR1RnSXdrZGc2bmY1Nlc3a0pFSmFHR2FOQzVoNjRwdTc1cWhLdnJIcURKLWlZTzJTWmFUNWYwYUZwajhnQ0I5dEo5WmFOZ2VVSWt0VjQwZzN3Ny1IdGdOUEtoRVpuOV94Yy1iVllmWF9fZ21XcHdneEN3aFZrdFlmdTh5elBFVHQxanRMSXF1Qi05NGVwV3JLWHVvaGxYYllDRzhseFZkSm1WS1M2SnZYUg?oc=5&hl=en-US&gl=US&ceid=US:en
+- NSE shares rise 4.5% after ICICI Securities sets highest-ever Street target, sees 20% upside – should...
   - Publisher: Moneycontrol.com
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaHpoemlnOWp2dGNjQXVNdzNhak51aURoeGJVNEFaX0ZQcXl4d0NiOXhSNDk2UUdLR3FNT29fY2RnbXBkQWdIYklTeFdfZGV3SlZuN2F3RTBZMjN6RjFPdEo3LVpsVS0zcWVUNXNIMXdTMXlPNVFpajRSdmpPa3BxTTZwdHF2UGlfRDVzRlZpd2I5b3JNaDVaSXZQUmlDbUFVai1RYkN6YnVoaktDbnl2Wnp6b0VGaE1fNmItckFpTEduRVdPa3RsVXI0MWZnd3VWQ01oWlNWckctbXk30gHiAUFVX3lxTE8yZkE5Y3RtVm9wT0hFUEdybVo4ZEF0N3ZHTzFPWTUxay1xdWNTNDh4TDd5SUVnUnhCRW50ZWtNbm5jZjlCY2RNdTRpNnplZkhYVXBQRmhLbE1CR3g4YXU0MENpOEh1ckd4cTdkTG1aOGN4Yjl0azljdWpnNl9YaGJQUFBudFNzSFFOS1BHYktmMDRkMHNITUNYcTNZQWk3TVluejIybmpFSGNRZ0ViaFlFUGUyZ1U0VXplckxucmFhb3AxckJFTTJOWFRlRkdaQjFVRVpzRTdodUxVMlRjT2k1S0E?oc=5&hl=en-US&gl=US&ceid=US:en
-- Multibagger stock: SG Mart surges 13% to record high on fundraise buzz Business Standard
-  - Publisher: Business Standard
+  - Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxPTTR2andaTWNzMTR2UTdNdklWenJVcjdBbG9WZnY4end6dUFXWVdIblQyMFlNX1pjUnFGMUl6cG8yYS1GaFdxY09hWXlOMGhhZHEwQy14ZjRoZHNIcWd5NFNzR3NxZmx0TE9UTGZkN0F0cTM4WXhWdEtwM1lINU9RekRCYm82bmJlcUFuS2JVWUFiT0cwOWtXbjYtRTVlcl9rTjFXVzlfaFJLdEtGRC1fM2ozR2xXLXJCcnpKeUZ1blc1NjJxaldzcHdwMk9rd2pjbGZlWGJoMFkwNG5Rc0Qydzg3LXZlTmcybjJmdlIxUW1tclp6N1hNOTgxT3VaYW10YUJxeFNR0gGLAkFVX3lxTFA5SlhmYUtZdHQ2V1p4b0hOdVNtc2ItanVWQ0NTZE5ydjVZN2N1UXZ5ZFJNR0p5aW1IWEM0Z1JrUkNhbll2MS0tN2tNM3lQVE41OHRvbTEyS1ctZFBkY0JCZ3kzVmVXS0tNTDNzcjhLTHloUnFveFg3M0pUTy1VYjczWHo4X3dJQmMwc1J5OE1VSXBsbGJ0V2J4ZjB1eXZCU3ZTYkZHN1FwTDl1N1B4WEYzU0Qwb1Z6cTdtSHhfRjN2VEw4TTFVSVdhSnZBWk44dVQyWUlrenlVMGo0QkRvYXNhblVaMWVWNnVNV0RtS0NNbVZjcEVreFo3TXo2SjlzUUN1SmZKZk0xWG4yVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+- NSE gets two more 'Buy' ratings, targets suggest up to 20% upside Business Today
+  - Publisher: Business Today
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUFJFVlRfek1aSjZ4QTE3cS0xbmxiRFhndzIwYXNmbTBneXZIWjZLY3NrcHdGZ1dXa1NvZkxEdHRISjlhelQ4TFdncURYT3ZDWWliMmlQcnBWdlcySTkwNXFGUXdHUVpGV00yMlJVWjNKcW1IWDEyOFNkaF9fYzJyby16YzQ0MS1wajkyUDh4bGo1Vm9jODRla1B4d2Y2eC1HMnhhMTBnRFQtb3BsQ3V6Y01aSk1RWWpBMHFpeENoTVpfaGJwY2lFX0RIYkRaTzVC0gHWAUFVX3lxTE83eThfZDhINVZqMXRFOUxVWWFmZ3FrVkdmVVcyMVNnb20zcWhyQUxtTnZwLWRERU9NbFRZd3lwYldrQ3JtbDBzZ3BMV3lyTG1OYlpZTElXaTV6U1FIQ3NJN3FjUmtJbGJlNFBPNUFzRS02WVpuOVk5UmRmX3lzRUhBYmhxLXNnTE4wZFlaZ0pkNDdDcEI0cWx5NGRueUxwTXVaV2toWVd1enFDMG9LOUJxRG5qbTBpWWV0MFgyMzlCT0piQXJ6VFExUlF4R2YwLTRrbGNXRnc?oc=5&hl=en-US&gl=US&ceid=US:en
-- Explained - How the mega M&A deal impacts both APL Apollo Tubes and Tata Steel CNBC TV18
-  - Publisher: CNBC TV18
-  - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSkRpUFh3dzQ4d3k2cnBwTk9zUHA1SHdvN0Z2cGdELUxsUjhoXzlxZVRFZDdrb240a3JTeUtLVjZaRWUxVFZXLXByTzRGT0FHbTZJZjVvSW1SUzV1VjFjMEhvZnJlVklmN1EtTVlZQThqNmJHblJiXzFmLURpNDlRLUhKZzFSNHVtU2dUTTRCc3RhWlZVRUVScEgtTDNVeDcwLXRVaGgzUk1IVnZTM1lscUt5dGhLVnFheEdkcVd3enMwaFFaRmhsMm50MWZvdFh5R1hwRnpUc2NVNmpiVXRQR2s2Z3VCbnNkVlUzVXdwSVjSAfYBQVVfeXFMT1pOUDVpN0VqOUhieFRQamFMdWYzcGpONHdtdFIwQXFmV1kwX1lfZTZiUV9Wa1lGNG9kNFRVZEd5U0UwOEJUQ1B1OHRrUFU2QndIRW9MdHFSSDdmckhiT0dBaV9pX0RpSEx6QkZNZ1NfY2tYV2tJZXNaVklUcThIc29iYTRQalhvVGh1N20tcmxqQUNWRzZhOXU3REF1b1lVUFc5SmhTVUNOYjJnbTdBS0NJaGJ0aW9CM08xTFJwUDJabEVXaXB4SWlzMnRIZmpEUFMwVnVhUjFaYnhTSWZ1eENnNzZMbFdMa1VfbmdpZVc4NGZaSUVR?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYWRqTzFHUTlydFA1bVhzbVdUU1ZKSndwU2JmN0dSTy1OQ0FvNzVUTVZsMnRETks4ZXJ3ZXZIN1J3TmFHLXNTQ3BJSkRiaHdVai1xNEJZVG5ReUFYREZzOV9YcExYN2dfWmVnWXR4RFFNcnlUanE3UjZjcmVaOWFrTkFHdHRxTzc4YmhnaGVBWGhPTl9zb0ZpbVRDYzNUVEdpTHA4NDNoWTNRdTR4eXZrV3hCUEpOWFJja3NnZWNVQVpUZ05ScWFmTNIBzgFBVV95cUxNZVFzWk5hb2ZNbTcwRjdTLXpMWV95LWVxSXBJaFRxUDlJb2k3b1NTSGVIMjUzNHpsNWptbHhoWHhvUG90SGNJdnFZcktVVk5NNDJXdnhxZnRmYVFXUk5raWh1UDZqY0dBSGxNZmlLQUhXcjhQWjRFanY1azZZWVhubENoc3hPbDI0TFdxTTh6WTVxc2VSYnlMcGtCZk9rdGpKLVJreEJBUW8yMS10M1NUcXo3MUNWMGR0cmU5bTRLTlZCV3VfbHB0ZHpMWjlyQQ?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Reel script — draft
-**Estimated narration:** 84 words
+**Estimated narration:** 68 words
 
-HOOK: Here's what happened: APL Apollo crashes 29% since Tata Steel deal; SG Mart, SG Finserve hit lows - Business Standard.
+HOOK: Here's what happened: NSE jumps 5% to new high on ICICI Sec's 'buy' call; target signals 20% rise - Business Standard.
 
 REPORTED DETAILS:
-APL Apollo crashes 29% since Tata Steel deal; SG Mart, SG Finserve hit lows Business Standard
-After selling APL Apollo stake to Tata Steel, Sanjay Gupta family shifts focus to SG Mart Moneycontrol.com
-Multibagger stock: SG Mart surges 13% to record high on fundraise buzz Business Standard
-Explained - How the mega M&A deal impacts both APL Apollo Tubes and Tata Steel CNBC TV18
+NSE jumps 5% to new high on ICICI Sec's 'buy' call; target signals 20% rise Business Standard
+NSE shares rise 4.5% after ICICI Securities sets highest-ever Street target, sees 20% upside – should...
+NSE gets two more 'Buy' ratings, targets suggest up to 20% upside Business Today
 
 ENDING: Follow InfoRush for more important updates.
 
 ### Caption
-What happened in sg mart share price? Here are the reported details. Follow InfoRush for more.
+What happened in nse share price? Here are the reported details. Follow InfoRush for more.
 
 ### Hashtags
 #InfoRush #NewsUpdate #DiscoverMore #LatestUpdates
@@ -181,7 +171,7 @@ What happened in sg mart share price? Here are the reported details. Follow Info
 
 ## Run summary
 - Drafts created: 2
-- Topics found: 39
+- Topics found: 38
 - Topics attempted: 2
 - Topics skipped: 0
 
