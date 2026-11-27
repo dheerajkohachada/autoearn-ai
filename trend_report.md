@@ -1,52 +1,52 @@
 # InfoRush Trending Topics
-Updated: 2026-11-26 04:33:41.549454 UTC
+Updated: 2026-11-27 04:33:03.645983 UTC
 
 These are trend candidates, not verified news.
 
 ## India
-1. shivam dube
-2. nse share price
-3. mcx gold price today
-4. tata steel share
-5. hul share price
-6. jupiter wagons share price
-7. usd vs inr
-8. sydney thunder vs adelaide strikers
-9. लद्दाख
-10. mahanadi coalfields ipo
+1. tata steel share
+2. ఎరువు
+3. mcx share price
+4. mahanadi coalfields share price
+5. tech mahindra share price
+6. nse
+7. nsc
+8. sachana namidass
+9. സ്വാസിക
+10. bhogi movie review
 
 ## United States
-1. nfc playoff picture
-2. nfc west
-3. deni avdija
-4. jennifer garner
-5. keegan murray
-6. bo melton
-7. john madden
-8. de'anthony melton
-9. mike lafleur
-10. damian lillard
+1. nfl tomorrow
+2. baylor basketball
+3. seth trimble
+4. charles barkley
+5. kelly stafford
+6. matt stafford
+7. adam levine
+8. fred johnson
+9. rockford files reboot
+10. carson schwesinger
 
 ## United Kingdom
-1. trail blazers vs spurs
-2. armed forces
-3. warriors vs kings
-4. u2
-5. israel
-6. cricket
-7. nfl scores
-8. la rams
-9. epic games
-10. pirates of the caribbean
+1. h
+2. hm
+3. tv
+4. ring
+5. burj khalifa
+6. bills vs chiefs
+7. mason greenwood
+8. devonta smith
+9. samsung
+10. ps5 black friday deals
 
 ## Canada
-1. grand theft auto vi
-2. ozempic santé canada
-3. blade runner 2049
-4. anaheim ducks
-5. nasa dart mission
-6. john madden
-7. tony romo
-8. погода завтра
-9. artturi lehkonen
-10. tutu atwell
+1. new zealand election results
+2. violent night 2
+3. manni l perez
+4. tubi
+5. green fireballs
+6. costco black friday deals
+7. greg rousseau
+8. rashee rice
+9. starlink canada
+10. león - cruz azul
