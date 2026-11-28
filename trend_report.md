@@ -1,52 +1,52 @@
 # InfoRush Trending Topics
-Updated: 2026-11-27 04:33:03.645983 UTC
+Updated: 2026-11-28 04:27:05.609191 UTC
 
 These are trend candidates, not verified news.
 
 ## India
-1. tata steel share
-2. ఎరువు
-3. mcx share price
-4. mahanadi coalfields share price
-5. tech mahindra share price
-6. nse
-7. nsc
-8. sachana namidass
-9. സ്വാസിക
-10. bhogi movie review
+1. గౌతమ్ గంభీర్
+2. श्रेयस अय्यर
+3. salt lake vs vancouver
+4. celtics vs hawks
+5. நயன்தாரா
+6. మార్కెట్
+7. ವಂಚನೆ
+8. suns vs mavericks
+9. चाँदी
+10. ಹೊರಗುತ್ತಿಗೆ
 
 ## United States
-1. nfl tomorrow
-2. baylor basketball
-3. seth trimble
-4. charles barkley
-5. kelly stafford
-6. matt stafford
-7. adam levine
-8. fred johnson
-9. rockford files reboot
-10. carson schwesinger
+1. tennessee basketball
+2. devon dampier
+3. creighton basketball
+4. heisman odds
+5. de'aaron fox
+6. ut austin football
+7. ryan clark
+8. cedric coward
+9. st john bosco football
+10. st aug vs brother martin
 
 ## United Kingdom
-1. h
-2. hm
-3. tv
-4. ring
-5. burj khalifa
-6. bills vs chiefs
-7. mason greenwood
-8. devonta smith
-9. samsung
-10. ps5 black friday deals
+1. appeal
+2. bank of england
+3. housing
+4. anfield
+5. lebron james
+6. iphone
+7. trail blazers vs warriors
+8. brad pitt
+9. spurs vs lakers
+10. timberwolves vs grizzlies
 
 ## Canada
-1. new zealand election results
-2. violent night 2
-3. manni l perez
-4. tubi
-5. green fireballs
-6. costco black friday deals
-7. greg rousseau
-8. rashee rice
-9. starlink canada
-10. león - cruz azul
+1. ilia malinin
+2. oilers game tonight
+3. american airlines
+4. appeal
+5. oilers
+6. ukraine russia news
+7. appletv
+8. landon dupont
+9. 미국 시민권
+10. michelle randolph

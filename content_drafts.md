@@ -1,96 +1,73 @@
 # InfoRush Content Drafts
-Generated: 2026-11-27 04:33:04 UTC
+Generated: 2026-11-28 04:27:06 UTC
 
 Free RSS research and article extraction.
 All drafts are candidates, not verified news.
 
-## World News: tata steel share
+## Sports: ut austin football
 **Status:** MULTI-SOURCE CANDIDATE — VERIFY BEFORE PUBLISHING
 
 **Important:** This is an automated research draft, not confirmed news.
 
 ### Related reports
-1. **APL Apollo crashes 29% since Tata Steel deal; SG Mart, SG Finserve hit lows - Business Standard**
-- Publisher: Business Standard
-- Published: Wed, 25 Nov 2026 04:26:16 GMT
-- Article: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGdzTHRyTkhfQS1meG96SEttRkdoU0Y0bnJJazRKVGd1LW10OVNVNGw4M25BT2ZEdVdBYlloeTM3YU1kbERFNXBGYjE3OF9sMzJfQXRUbGhvTldxU3ZzdDNiZHgyRF92czlwZDFSNVJjdU5HbG5sN0tHYjVQWFRhQ1RkMkxGOHhoQXBsTWp1WHdvS19HWWo3NTlfdWpTcDU1ZzBKSklsYTBLTXBNcERncDRPX3FhdVBPNGliVHRTUVJVbUgtSXd5ZDZ2NV8xSHZPb0ZtalBn0gHbAUFVX3lxTE9JVl9iNllpNU43OThrUzlaUzkwWm5CWk1iUWk4WmZyWkNrc2FVNlcxVVdWTmExajhkNEpEQmx4VFRiYUxPRGJ4a1BmaDRRQTFZSnBYeDhITUNkTUFQazVSNWJtN25Pb2JkUGM1UEFyUk5JVGlSUlpQQTEycThoRW1lWW9UWFlqeDVVcnJlTklmRFhoc1QxTDFFcUN6SFBCVFpDZ3RXbE1VS1lKTmZjZWRSeG9ZTEpVUEFCZllxU0xLTGdnRWQyZ0tyUU92YTZRWVh2RGMwbXJOdzBDYw?oc=5&hl=en-US&gl=US&ceid=US:en
+1. **Texas football: Rivalry win over Aggies sends Longhorns to SEC Championship Game - Austin American-Statesman**
+- Publisher: Austin American-Statesman
+- Published: Sat, 28 Nov 2026 04:02:26 GMT
+- Article: https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0RaMGplVVN3MHFHWnA1STBScFhmWl8wbDFUZW9LMWVmeURoOXI0MHpYV3c3VmRVSHkxbDRTSVZlMUJFcHBYNWxBeEgxNWRQUUItTjI3Wm5mb2loWFlqT1Y1bWJtOVpraENnaDNrUnloeW5yMzFTNWpQYzd2QmRDQWdDSEZveHJmZkFvejlwX3pndTdVemRDb0RONV8yMDA?oc=5&hl=en-US&gl=US&ceid=US:en
 
-2. **APL Apollo shares fall another 15% to 52-week low after at least four downgrades on Tata Steel deal - CNBC TV18**
-- Publisher: CNBC TV18
-- Published: Wed, 25 Nov 2026 03:56:25 GMT
-- Article: https://news.google.com/rss/articles/CBMihgJBVV95cUxQdjdDNHl1YlR3X2VwNnVONmZMbi00VTRydFRISkViWHczUUFoOE81YmgwSEh3WVowU1lMa01DSGU5OGVTNU5BT0dwdmVORDFOWHpHWWRVZ0lrUmdMdkRrY2xVTDI4a2JjVWhOMlM4WU5FSWtkQ0xXZWRwWWdCaFdhdzMtZU5sM0NRWm41d2o0Zmt4cnVERDhwalVSejZObHNKX09CQjBJM1JtS0VvS3JKNDdxSllCM2EyVGU4RGZzQ054aW1KUnFtaE11RTdjbGEwbFd6YV9TV1E0RTlmR0Zxc0xnQXpuZ2cxSkNCSkdadkw4RDl5ZWhObHUxdS0tZTdRNU16a2530gGLAkFVX3lxTE5oX2dyY0t3RW5YQk82RG56YXo5UV9QUTdlU0cydFQzUXVSd2M5anYtcm14ZUZ3a2tyTHZrNC02UW05NXpMSWxWWVpsVFVjbi1PeDlxZjJjUEJyOUNKaWI2WDZuU25IRXVwUVRGalZGeHpmb0dZTjRzaHBKSGxXWlF5ZVpTQklmM0RCTXJBMFlPRVdxQmNzU3BVRXpUNkRtVUZqNHlIYnBFcnhLemRtY0ZkX0hHT1ZHclowd0dPc01Lb0hmdHJKaUI1ekMyc0twSWVnQkZsRkU1ckVxZG1BZ1JQbnluY2taV3R2azhJQ1U3dUdkQVFWQjhuOTc2WjZPUjVZSlgxRWptczdtMA?oc=5&hl=en-US&gl=US&ceid=US:en
+2. **Texas Republican's post on Asian Americans at UT Austin sparks accusations of racism - Reuters**
+- Publisher: Reuters
+- Published: Wed, 16 Sep 2026 07:00:00 GMT
+- Article: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWJDODNidTFITllJbVRhUGJmNENWTVpVX0dVMGVwYmUzTW5aQ2ZJWUEzRk5BQ2NLMFM0RFg1NXltdlBMSmRxcEtsZm10OUdmYUtBcTZlWGlxcmJlOGwySFgzbFpQbjFVVF8zRHNIaS1TWnF6UEdfNlU4RTZNMGJJLTFvOG5kUmxUSWdfQWVJbEczY3VTTXA1VGR4RDV3MXNkNGdOczZDcGhLcHdYZm5MNC16bUdtMFE0RHdF?oc=5&hl=en-US&gl=US&ceid=US:en
 
-3. **Tata Steel and APL Apollo May Rework Deal Structure After Investor Backlash; Shares Under Pressure - Kotak Neo**
-- Publisher: Kotak Neo
-- Published: Thu, 26 Nov 2026 06:13:27 GMT
-- Article: https://news.google.com/rss/articles/CBMioAFBVV95cUxPMENKcmV3MVlWTTNhakEtOGpud3BSMzhDNl9lRGg3SjJMOUVxUXhqY1Z1UHhaWFNHTnMxUGtuZGFYQUp3ZzRiRUJWSTdhXzI0V2w4dEpCNTJjUVMtZE5VSXd6cUhlTzBTQXpkcDQ3NHd0Q2FscmtNZV9qMklzeThWWFlJanktYU0zUUgwVXVJMXk0SDU3VkxSR24zMV8xcHhW?oc=5&hl=en-US&gl=US&ceid=US:en
+3. **How Long Have Texas and Oklahoma Been Playing Football? - UT News**
+- Publisher: UT News
+- Published: Wed, 07 Oct 2026 07:00:00 GMT
+- Article: https://news.google.com/rss/articles/CBMilAFBVV95cUxPa2dvUFQtTnVjY3g5ZGY3YkNTbzNaYnQzc2hDSk82WVJzenpFb3RYd1FzaXB5MGI5bURVS2lVOGhpY294Y3FPdHowRUlvVFJ2bmJoNGNtRHcwTnlTWUZrU1piSmNQdVh6MllqTGJoVmJNR1VVeTQzMmlLQjA2bVRDMVJpQ0U3VUZLRXNBMm41dFpGeTcw?oc=5&hl=en-US&gl=US&ceid=US:en
 
-4. **Why Tata Steel Shares Crashed 8% After APL Apollo Deal - Equitypandit**
-- Publisher: Equitypandit
-- Published: Tue, 24 Nov 2026 05:00:30 GMT
-- Article: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2JJQXN1eTFXTEg3YWxlM3NvRjJwSHRGaXZoVlpQMlNnNThjTkNLSFlXZkJ5TDBBN25yNy1BaEF0aWJod2FWZF9LdWRiZ0ZEdjEwR0l5VnpQTmE5RldRUWZxWHB2NWUyaGRJbFhYWWtJQmpZSmUwcmNKNFZVVlhDRlR6ZDJtc0szbmJj?oc=5&hl=en-US&gl=US&ceid=US:en
+4. **Texas Longhorns Move Past Alabama in Week 13's College Football Playoff Rankings - Sports Illustrated**
+- Publisher: Sports Illustrated
+- Published: Wed, 25 Nov 2026 01:20:56 GMT
+- Article: https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTIzSUlJelpDSkdHa0JjLUZPUngzQURzMFI5Q3RydGtzU0h6bklSZDZBUzdWeV9jbi13THJoalpMSFljenlVb19lMy1zTXdDdS1iNDZORndIMUNnNkJmYnJKUzQxTHdYeVozZ21Sd29uOHRJamJhYmNBOFk5ZFdsUjhISVlUREZuRGtmYUtUYW1iTkZOTkxnWXE3UEdhOHlEZ2VxaUpxV3VaWE5kN01HWU9Zc1Y1dmNtcmlvVw?oc=5&hl=en-US&gl=US&ceid=US:en
 
-5. **Tata Steel Share Price - Live NSE: TATASTEEL Stock Price & Chart - Upstox**
-- Publisher: Upstox
-- Published: Thu, 26 Nov 2026 08:38:06 GMT
-- Article: https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LRXJEU2pOS05Zc1RWQTRTNXNFT19YSXA3NG5Fek51VUNvMGpoNG9vNW9jem5MUTd5dEJITmJqLUtmcnhaZnRsbEVlTEt0YTdWM1IxbUFiMmZIVDUteE8zNmNpMTR6ai1L?oc=5&hl=en-US&gl=US&ceid=US:en
-
-6. **Tata Steel shares touch 52-week low; APL Apollo Tubes slides another 20% - Fortune India**
-- Publisher: Fortune India
-- Published: Wed, 25 Nov 2026 07:31:57 GMT
-- Article: https://news.google.com/rss/articles/CBMitAFBVV95cUxQZVRtaUdPajVZcEtEV3hqU2QzaHlRV0pHYTVwSG92ZW9sNkZoV1QwNUhZYXVpTHdQby16Q0pLZDhvYndqa0ZfelUxcXc1RXpfRE5Kc1BIQWtDRXVVT3g1Yl9PNXNrZkNjbXUzcGd4YVRCcEZQSENRTTZfcGV5TjVMRHd5Y0l1NW42RzB5RWRaVkhGcUN2Q2NSTlh2MDRWVUJqVHh4MlJwYTdtMVBpUV9LWE9rbnLSAcIBQVVfeXFMTUQ4SWotNGtRbkhwRUFYekdSZUtETWR1MXgtbHpPUFdVRDVNZUxScE5seHZibTUzY0tHdTB3cWplYnFDaW05Z1ZEYjJPOURrdDg1bG9neGpldE1ndnVkRUNFLTBpVG1Cd1IyMjRURmlRT3A3SjJnU0I5NDNqVmZ4Z3RQNTQwbFBrRmxOZUZvNTNwOUxLNmlYd2o0U2VOenM4QkVYXzA0X0tacU14bWNCS1M2X0VpMjNIUnkwMEUxbGg3SUE?oc=5
-
-7. **Why Tata Steel Share Price is Falling - Equitymaster**
-- Publisher: Equitymaster
-- Published: Mon, 23 Nov 2026 06:19:02 GMT
-- Article: https://news.google.com/rss/articles/CBMiqwFBVV95cUxObGlPYjdwYjlUR25vNHBxTnhjNk4wSmVQZF9OLWk4bDdHSXJzc2EzQk1ock1Jbk5SSVZ2U0N4Qy1CZ2hwSWdKY2MtMmV4RVFrZ25sWXR3aFBuQWFiYjBEYmVQclZFTWRSN3VRcTNXQ0ttc2dncHBUb00xNTdKdUVhemlTLWQwU1VzOEtMcEttZ3oxRkVtNkFZVTcwVDNua2x6ajEtWU16WWJsTVk?oc=5
-
-8. **Tata Steel-Apollo Deal Tests Power of India’s Minority Investors - Bloomberg.com**
-- Publisher: Bloomberg.com
-- Published: Fri, 27 Nov 2026 03:00:00 GMT
-- Article: https://news.google.com/rss/articles/CBMitgFBVV95cUxPTEpmMmwySUNyVnNxRENMVE9XQzdhRXV5bjVHWXFJdWk0RUpqek9RUnFDLXVDSm1INFktZDBvSWVpWm5zNG1HWlBDUFlzVFhBY1RCZXBqN05YSmRJQUY3YnZWd19DdlptVXpRTVJOUTdNOFlRaGR3eGt2VEtCb2Z3Rl9iZUpzc1hqZ1V2YWxfcmgtU0UzNFE2X3BjcXQwYjJkVXM5a2NBVlUtY0k0MWVsbURJMTdQdw?oc=5
+5. **What time does Texas football play today? TV channel, game info - Austin American-Statesman**
+- Publisher: Austin American-Statesman
+- Published: Sat, 07 Nov 2026 08:00:00 GMT
+- Article: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXlBSlBaZExINGJ6Sm85MTk1dWpFbm8wZkdJZEM5YkFod3puRl9sUk9IQUFidW5MNVpUOU1SSTVrbkZWNF9WWEtWdHhIZ3FoQU9pWEtUd0l0SFFMNmxuLU1RODN5SGdRMkdXZGdxdDA3bGZzcDBVanJkUXBsdTFQQkFscVozRkdyWFBfRk5XQUpUNVZfS2FzXzJmYlF3ZVZFcDMzVDZJMXluZw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Extracted information
-- APL Apollo crashes 29% since Tata Steel deal; SG Mart, SG Finserve hit lows Business Standard Tata Steel shares recover over 2% after sliding 10% in 2 days.
-  - Publisher: Business Standard
+- Texas football: Rivalry win over Aggies sends Longhorns to SEC Championship Game Austin American-Statesman
+  - Publisher: Austin American-Statesman
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGdzTHRyTkhfQS1meG96SEttRkdoU0Y0bnJJazRKVGd1LW10OVNVNGw4M25BT2ZEdVdBYlloeTM3YU1kbERFNXBGYjE3OF9sMzJfQXRUbGhvTldxU3ZzdDNiZHgyRF92czlwZDFSNVJjdU5HbG5sN0tHYjVQWFRhQ1RkMkxGOHhoQXBsTWp1WHdvS19HWWo3NTlfdWpTcDU1ZzBKSklsYTBLTXBNcERncDRPX3FhdVBPNGliVHRTUVJVbUgtSXd5ZDZ2NV8xSHZPb0ZtalBn0gHbAUFVX3lxTE9JVl9iNllpNU43OThrUzlaUzkwWm5CWk1iUWk4WmZyWkNrc2FVNlcxVVdWTmExajhkNEpEQmx4VFRiYUxPRGJ4a1BmaDRRQTFZSnBYeDhITUNkTUFQazVSNWJtN25Pb2JkUGM1UEFyUk5JVGlSUlpQQTEycThoRW1lWW9UWFlqeDVVcnJlTklmRFhoc1QxTDFFcUN6SFBCVFpDZ3RXbE1VS1lKTmZjZWRSeG9ZTEpVUEFCZllxU0xLTGdnRWQyZ0tyUU92YTZRWVh2RGMwbXJOdzBDYw?oc=5&hl=en-US&gl=US&ceid=US:en
-- The Economic Times Tata Steel shares rise 1%, APL Apollo falls 9% as brokerages turn cautious on ₹28,000 cr deal BusinessLine Tata Steel’s revised APL Apollo deal must win over shareholders with a history of dissent Moneycontrol.com Sebi may scrutinise Tata Steel-APL Apollo deal over RPT, shareholder worry Business Standard APL Apollo’s minority shareholders will 'foot the bill' in Tata Steel deal: IiAS suggests Sebi...
-  - Publisher: Business Standard
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0RaMGplVVN3MHFHWnA1STBScFhmWl8wbDFUZW9LMWVmeURoOXI0MHpYV3c3VmRVSHkxbDRTSVZlMUJFcHBYNWxBeEgxNWRQUUItTjI3Wm5mb2loWFlqT1Y1bWJtOVpraENnaDNrUnloeW5yMzFTNWpQYzd2QmRDQWdDSEZveHJmZkFvejlwX3pndTdVemRDb0RONV8yMDA?oc=5&hl=en-US&gl=US&ceid=US:en
+- Texas Republican's post on Asian Americans at UT Austin sparks accusations of racism Reuters
+  - Publisher: Reuters
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGdzTHRyTkhfQS1meG96SEttRkdoU0Y0bnJJazRKVGd1LW10OVNVNGw4M25BT2ZEdVdBYlloeTM3YU1kbERFNXBGYjE3OF9sMzJfQXRUbGhvTldxU3ZzdDNiZHgyRF92czlwZDFSNVJjdU5HbG5sN0tHYjVQWFRhQ1RkMkxGOHhoQXBsTWp1WHdvS19HWWo3NTlfdWpTcDU1ZzBKSklsYTBLTXBNcERncDRPX3FhdVBPNGliVHRTUVJVbUgtSXd5ZDZ2NV8xSHZPb0ZtalBn0gHbAUFVX3lxTE9JVl9iNllpNU43OThrUzlaUzkwWm5CWk1iUWk4WmZyWkNrc2FVNlcxVVdWTmExajhkNEpEQmx4VFRiYUxPRGJ4a1BmaDRRQTFZSnBYeDhITUNkTUFQazVSNWJtN25Pb2JkUGM1UEFyUk5JVGlSUlpQQTEycThoRW1lWW9UWFlqeDVVcnJlTklmRFhoc1QxTDFFcUN6SFBCVFpDZ3RXbE1VS1lKTmZjZWRSeG9ZTEpVUEFCZllxU0xLTGdnRWQyZ0tyUU92YTZRWVh2RGMwbXJOdzBDYw?oc=5&hl=en-US&gl=US&ceid=US:en
-- APL Apollo shares fall another 15% to 52-week low after at least four downgrades on Tata Steel deal CNBC TV18
-  - Publisher: CNBC TV18
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWJDODNidTFITllJbVRhUGJmNENWTVpVX0dVMGVwYmUzTW5aQ2ZJWUEzRk5BQ2NLMFM0RFg1NXltdlBMSmRxcEtsZm10OUdmYUtBcTZlWGlxcmJlOGwySFgzbFpQbjFVVF8zRHNIaS1TWnF6UEdfNlU4RTZNMGJJLTFvOG5kUmxUSWdfQWVJbEczY3VTTXA1VGR4RDV3MXNkNGdOczZDcGhLcHdYZm5MNC16bUdtMFE0RHdF?oc=5&hl=en-US&gl=US&ceid=US:en
+- How Long Have Texas and Oklahoma Been Playing Football?
+  - Publisher: UT News
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxQdjdDNHl1YlR3X2VwNnVONmZMbi00VTRydFRISkViWHczUUFoOE81YmgwSEh3WVowU1lMa01DSGU5OGVTNU5BT0dwdmVORDFOWHpHWWRVZ0lrUmdMdkRrY2xVTDI4a2JjVWhOMlM4WU5FSWtkQ0xXZWRwWWdCaFdhdzMtZU5sM0NRWm41d2o0Zmt4cnVERDhwalVSejZObHNKX09CQjBJM1JtS0VvS3JKNDdxSllCM2EyVGU4RGZzQ054aW1KUnFtaE11RTdjbGEwbFd6YV9TV1E0RTlmR0Zxc0xnQXpuZ2cxSkNCSkdadkw4RDl5ZWhObHUxdS0tZTdRNU16a2530gGLAkFVX3lxTE5oX2dyY0t3RW5YQk82RG56YXo5UV9QUTdlU0cydFQzUXVSd2M5anYtcm14ZUZ3a2tyTHZrNC02UW05NXpMSWxWWVpsVFVjbi1PeDlxZjJjUEJyOUNKaWI2WDZuU25IRXVwUVRGalZGeHpmb0dZTjRzaHBKSGxXWlF5ZVpTQklmM0RCTXJBMFlPRVdxQmNzU3BVRXpUNkRtVUZqNHlIYnBFcnhLemRtY0ZkX0hHT1ZHclowd0dPc01Lb0hmdHJKaUI1ekMyc0twSWVnQkZsRkU1ckVxZG1BZ1JQbnluY2taV3R2azhJQ1U3dUdkQVFWQjhuOTc2WjZPUjVZSlgxRWptczdtMA?oc=5&hl=en-US&gl=US&ceid=US:en
-- Tata Steel and APL Apollo May Rework Deal Structure After Investor Backlash; Shares Under Pressure Kotak Neo
-  - Publisher: Kotak Neo
+  - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPa2dvUFQtTnVjY3g5ZGY3YkNTbzNaYnQzc2hDSk82WVJzenpFb3RYd1FzaXB5MGI5bURVS2lVOGhpY294Y3FPdHowRUlvVFJ2bmJoNGNtRHcwTnlTWUZrU1piSmNQdVh6MllqTGJoVmJNR1VVeTQzMmlLQjA2bVRDMVJpQ0U3VUZLRXNBMm41dFpGeTcw?oc=5&hl=en-US&gl=US&ceid=US:en
+- Texas Longhorns Move Past Alabama in Week 13's College Football Playoff Rankings Sports Illustrated
+  - Publisher: Sports Illustrated
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxPMENKcmV3MVlWTTNhakEtOGpud3BSMzhDNl9lRGg3SjJMOUVxUXhqY1Z1UHhaWFNHTnMxUGtuZGFYQUp3ZzRiRUJWSTdhXzI0V2w4dEpCNTJjUVMtZE5VSXd6cUhlTzBTQXpkcDQ3NHd0Q2FscmtNZV9qMklzeThWWFlJanktYU0zUUgwVXVJMXk0SDU3VkxSR24zMV8xcHhW?oc=5&hl=en-US&gl=US&ceid=US:en
-- Why Tata Steel Shares Crashed 8% After APL Apollo Deal Equitypandit
-  - Publisher: Equitypandit
-  - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2JJQXN1eTFXTEg3YWxlM3NvRjJwSHRGaXZoVlpQMlNnNThjTkNLSFlXZkJ5TDBBN25yNy1BaEF0aWJod2FWZF9LdWRiZ0ZEdjEwR0l5VnpQTmE5RldRUWZxWHB2NWUyaGRJbFhYWWtJQmpZSmUwcmNKNFZVVlhDRlR6ZDJtc0szbmJj?oc=5&hl=en-US&gl=US&ceid=US:en
-- Tata Steel Share Price - Live NSE: TATASTEEL Stock Price & Chart Upstox
-  - Publisher: Upstox
-  - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LRXJEU2pOS05Zc1RWQTRTNXNFT19YSXA3NG5Fek51VUNvMGpoNG9vNW9jem5MUTd5dEJITmJqLUtmcnhaZnRsbEVlTEt0YTdWM1IxbUFiMmZIVDUteE8zNmNpMTR6ai1L?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTIzSUlJelpDSkdHa0JjLUZPUngzQURzMFI5Q3RydGtzU0h6bklSZDZBUzdWeV9jbi13THJoalpMSFljenlVb19lMy1zTXdDdS1iNDZORndIMUNnNkJmYnJKUzQxTHdYeVozZ21Sd29uOHRJamJhYmNBOFk5ZFdsUjhISVlUREZuRGtmYUtUYW1iTkZOTkxnWXE3UEdhOHlEZ2VxaUpxV3VaWE5kN01HWU9Zc1Y1dmNtcmlvVw?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Reel script — draft
-**Estimated narration:** 96 words
+**Estimated narration:** 69 words
 
-HOOK: Here's what happened: APL Apollo crashes 29% since Tata Steel deal; SG Mart, SG Finserve hit lows - Business Standard.
+HOOK: Here's what happened: Texas football: Rivalry win over Aggies sends Longhorns to SEC Championship Game - Austin American-Statesman.
 
 REPORTED DETAILS:
-APL Apollo crashes 29% since Tata Steel deal; SG Mart, SG Finserve hit lows Business Standard Tata Steel shares recover over 2% after sliding 10% in 2 days.
-APL Apollo shares fall another 15% to 52-week low after at least four downgrades on Tata Steel deal CNBC TV18
-Tata Steel and APL Apollo May Rework Deal Structure After Investor Backlash; Shares Under Pressure Kotak Neo
-Why Tata Steel Shares Crashed 8% After APL Apollo Deal Equitypandit
+Texas football: Rivalry win over Aggies sends Longhorns to SEC Championship Game Austin American-Statesman
+Texas Republican's post on Asian Americans at UT Austin sparks accusations of racism Reuters
+How Long Have Texas and Oklahoma Been Playing Football?
+Texas Longhorns Move Past Alabama in Week 13's College Football Playoff Rankings Sports Illustrated
 
 ENDING: Follow InfoRush for more important updates.
 
 ### Caption
-What happened in tata steel share? Here are the reported details. Follow InfoRush for more.
+What happened in ut austin football? Here are the reported details. Follow InfoRush for more.
 
 ### Hashtags
 #InfoRush #NewsUpdate #DiscoverMore #LatestUpdates
@@ -107,35 +84,89 @@ What happened in tata steel share? Here are the reported details. Follow InfoRus
 
 ---
 
-## World News: ఎరువు
-**Status:** SINGLE-SOURCE CANDIDATE — VERIFY BEFORE PUBLISHING
+## Sports: st john bosco football
+**Status:** MULTI-SOURCE CANDIDATE — VERIFY BEFORE PUBLISHING
 
 **Important:** This is an automated research draft, not confirmed news.
 
 ### Related reports
-1. **DONATION OF RS. 5 LAKH ORGANIC FERTILIZERS TO TTD _ టీటీడీకి రూ.5 లక్షల సేంద్రియ ఎరువులు విరాళం - TTD News**
-- Publisher: TTD News
-- Published: Sat, 28 Dec 2024 08:00:00 GMT
-- Article: https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGtfeTU3ckE4STJsSEFxaXYtTTg2S091M0ZFaTN3T0FlVVBjVHI4SmZLWkV4YncxYTJiRUxhc3ZqYzRPTkJYM1lyMWktUTBtdXViS0o4LWZjblpkaXdjMlFqajZ4ZGQ0cUtqUmxmOFozdkdUOHl6emF6RHZLR1VpSg?oc=5&hl=en-US&gl=US&ceid=US:en
+1. **Corona Centennial vs. St. John Bosco: Watch California high school football final live from Los Angeles Colis - OregonLive.com**
+- Publisher: OregonLive.com
+- Published: Fri, 27 Nov 2026 21:30:00 GMT
+- Article: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTmtZVUs4akROMkw5Tkx2LTZEaG9yaC1xalFRb3ZCay04bm1nMmVsbWFGWFRJQ2FQc0pZa01OQ2tmRmhTdmNDQ2k0Rl9wenVYTGw1bnY2OGNaRDZWQmZVSGtkU2swOVl0cFNpUWgwaGpkclVLQW9jcXl4dHdtdjNtbFFqdFppRjkyNHA4bG5CazI1RkQ1cnZ5Qy1Rb0NqT2dMSVdPZUdjZ3VBYVBTR0h4VFZOakZTb1NRdElEN3lWczNsTmdCT2h2QUsyalpGOU82MldYUm14eV9kYnVqS29Kak9lVThYdk3SAfsBQVVfeXFMTng3Rlo5VEFxWk1KcUpLZzJuQmRNSzRKT0UyUXRpMjY1TUx2SGRqVVZ3NS05LUF5eWxITnZjUkNOa1c0ai10UDlxY1ZpbUhUNjlBTndTaU4zamlSQUhYaUM4UzVIQ3Y1WWpyRUJyQUc1QnZVVndHQVVrczRKNGhyTjJwdjZ4a3NyRjEtLVduMGMzZVAtdDAyM3pGX3NuRGtBQlczRm02SEc0Z1pnOS1QcXAxNWdYOFVBNnFpcEZoay1ZNWJrOHIzcGRkR0NOcmlGaXoydXdZNVNnNUh1OGI3OTBKU1ZxQnFiaEs1UHZIWFpJa2tpX04tTy1WYzQ?oc=5&hl=en-US&gl=US&ceid=US:en
+
+2. **Centennial/Corona vs St. John Bosco football live updates: Score, highlights, predictions, analysis - FlamboroughToday.com**
+- Publisher: FlamboroughToday.com
+- Published: Sat, 28 Nov 2026 03:11:20 GMT
+- Article: https://news.google.com/rss/articles/CBMiggFBVV95cUxNc3VMUjVvSFhJY2p1UWZaYmR5QUlYS2t0YjQ0T3UzLVltR2JtQzFWRUI5SEk1YWRMVDNjOXkteldudURyRDJ5eGJRXzgwdzZHdDU1VG01U1Rxb1JXbndOUVBQRjlFejFINk1ONUZFUUNwdFdXeUUtamYwNnVmNVFDblBn?oc=5&hl=en-US&gl=US&ceid=US:en
+
+3. **Centennial/Corona vs St. John Bosco football live updates: Score, highlights, predictions, analysis - Sudbury News**
+- Publisher: Sudbury News
+- Published: Sat, 28 Nov 2026 03:11:20 GMT
+- Article: https://news.google.com/rss/articles/CBMidkFVX3lxTE9BdzZ6MlBuYkJnQkpmdTNzTmJ3ZjNMZHB5UnBOcGVmTVd4YmRFQ0dwanAyVXE4SmsyUGJkRWU1d3NGZjhpZ2o0UXU2MzNFRFB0b2dJRkthWXRxVmxCTTM3VDViS2NfVUNYTl9TX28tdUJnMVBiZVE?oc=5&hl=en-US&gl=US&ceid=US:en
+
+4. **Centennial vs St. John Bosco football live updates: Score, highlights, predictions, analysis - Northwest Ontario News**
+- Publisher: Northwest Ontario News
+- Published: Sat, 28 Nov 2026 02:30:26 GMT
+- Article: https://news.google.com/rss/articles/CBMifEFVX3lxTE93OXRPb3E0eWI2MDFZNEo5RkpsU0d0YjJyWnVVTG5lZUhsWjBrRDd3UHVvLWxmRTl3RWYtRVBjazhKcF9IdkZhdlFfNDVRSm4tQl9HMFZXWXZzUVBKMDV3SG1wQXVzWVRubHh2aWdVQWMzXzRaa1o0RXFtNkk?oc=5&hl=en-US&gl=US&ceid=US:en
+
+5. **California high school football power gets surprise from Nike ahead of title game - USA Today**
+- Publisher: USA Today
+- Published: Sat, 28 Nov 2026 03:03:00 GMT
+- Article: https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaDdXcHNSLURieVR3UFE4OWNQUzR2S2JLbFlRUEtxNHM4Z04yWFFZZzM3enZlUl9HcmV3emRTZ3ZvU2xDc255cElCQmFHOG1YREVPUVRhaF9nei1OMlVWcVp4UGwtNmpNUktYcU00eV9BRU9Hc0hQRjRLS3Q4VUkzcWkycjVxZHY1c2Vtb0JSMVd5VV96eERma1ZwYVJTY0ZwWHFKd3BIYW5HWUdyMWM1YUo4X1lSbi1SOU9rellVbWl3dVpUR0lWN2tDOHZsdUFZRGRiNWNXVGZ6ZjZSYlFkSGNSU3I?oc=5&hl=en-US&gl=US&ceid=US:en
+
+6. **LIVE Centennial vs St. John Bosco football live updates: Score, highlights, predictions, analysis - FlamboroughToday.com**
+- Publisher: FlamboroughToday.com
+- Published: Sat, 28 Nov 2026 02:37:12 GMT
+- Article: https://news.google.com/rss/articles/CBMiggFBVV95cUxNOXlUOUF0YjFSSjM0aVYxSXc2T05TNHJCZE12TThMVE1udXpmZlVJaHRaTGpxMGtmaEZubnp2TUprOHA5M09nUUhfa2hSaXZTd3hpMHpMMGRhU2JweURDckpwMjVNSXBXYk1ZV0tIM0hzMUhJMnp1NGtVb2tjT19FZGRR?oc=5
+
+7. **LIVE California High-School Football Playoffs Live: Centennial vs St. John Bosco Live updates - FlamboroughToday.com**
+- Publisher: FlamboroughToday.com
+- Published: Sat, 28 Nov 2026 02:37:12 GMT
+- Article: https://news.google.com/rss/articles/CBMiggFBVV95cUxQa2R0RXgwbktocHc1MS1kaWo5N0Q5U1N3aGQ2YXZHcW14SndUX0x6eHRsNlZ4aDVrRHV3OFRhTDhIX0otTlFnZ2hIdDdVZ2ZURVo5XzlLWGtpM0tScDJVOGI0UnU1QlZIdVRWSW5KdHFCbHAzYkdkTVhIUWQ3RWtUaWRn?oc=5
+
+8. **(((FREE.TV))) LIVE Centennial vs St. John Bosco football live updates - FlamboroughToday.com**
+- Publisher: FlamboroughToday.com
+- Published: Sat, 28 Nov 2026 03:18:03 GMT
+- Article: https://news.google.com/rss/articles/CBMiggFBVV95cUxPenZwTGtnSy04WFpxdmFPVkl4d285N2U4RWJKZi1uZ09xNXFJUzVrWWZLQmk0blI0Z3VWVXhhM3hyekdzQWRtb2VUTkp3Z19YMWRPNnplbnVVc1hRMWdXdmhBVzhiQ1hvcmJoWVhycy03b3ZTcEg1czVWNzFRV3lTZl9B?oc=5
 
 ### Extracted information
-- 5 LAKH ORGANIC FERTILIZERS TO TTD _ టీటీడీకి రూ.5 లక్షల సేంద్రియ ఎరువులు విరాళం TTD News
-  - Publisher: TTD News
+- John Bosco: Watch California high school football final live from Los Angeles Colis OregonLive.com
+  - Publisher: OregonLive.com
   - Extraction: RSS description
-  - Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGtfeTU3ckE4STJsSEFxaXYtTTg2S091M0ZFaTN3T0FlVVBjVHI4SmZLWkV4YncxYTJiRUxhc3ZqYzRPTkJYM1lyMWktUTBtdXViS0o4LWZjblpkaXdjMlFqajZ4ZGQ0cUtqUmxmOFozdkdUOHl6emF6RHZLR1VpSg?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTmtZVUs4akROMkw5Tkx2LTZEaG9yaC1xalFRb3ZCay04bm1nMmVsbWFGWFRJQ2FQc0pZa01OQ2tmRmhTdmNDQ2k0Rl9wenVYTGw1bnY2OGNaRDZWQmZVSGtkU2swOVl0cFNpUWgwaGpkclVLQW9jcXl4dHdtdjNtbFFqdFppRjkyNHA4bG5CazI1RkQ1cnZ5Qy1Rb0NqT2dMSVdPZUdjZ3VBYVBTR0h4VFZOakZTb1NRdElEN3lWczNsTmdCT2h2QUsyalpGOU82MldYUm14eV9kYnVqS29Kak9lVThYdk3SAfsBQVVfeXFMTng3Rlo5VEFxWk1KcUpLZzJuQmRNSzRKT0UyUXRpMjY1TUx2SGRqVVZ3NS05LUF5eWxITnZjUkNOa1c0ai10UDlxY1ZpbUhUNjlBTndTaU4zamlSQUhYaUM4UzVIQ3Y1WWpyRUJyQUc1QnZVVndHQVVrczRKNGhyTjJwdjZ4a3NyRjEtLVduMGMzZVAtdDAyM3pGX3NuRGtBQlczRm02SEc0Z1pnOS1QcXAxNWdYOFVBNnFpcEZoay1ZNWJrOHIzcGRkR0NOcmlGaXoydXdZNVNnNUh1OGI3OTBKU1ZxQnFiaEs1UHZIWFpJa2tpX04tTy1WYzQ?oc=5&hl=en-US&gl=US&ceid=US:en
+- John Bosco football live updates: Score, highlights, predictions, analysis FlamboroughToday.com
+  - Publisher: FlamboroughToday.com
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxNc3VMUjVvSFhJY2p1UWZaYmR5QUlYS2t0YjQ0T3UzLVltR2JtQzFWRUI5SEk1YWRMVDNjOXkteldudURyRDJ5eGJRXzgwdzZHdDU1VG01U1Rxb1JXbndOUVBQRjlFejFINk1ONUZFUUNwdFdXeUUtamYwNnVmNVFDblBn?oc=5&hl=en-US&gl=US&ceid=US:en
+- John Bosco football live updates: Score, highlights, predictions, analysis Sudbury News
+  - Publisher: Sudbury News
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9BdzZ6MlBuYkJnQkpmdTNzTmJ3ZjNMZHB5UnBOcGVmTVd4YmRFQ0dwanAyVXE4SmsyUGJkRWU1d3NGZjhpZ2o0UXU2MzNFRFB0b2dJRkthWXRxVmxCTTM3VDViS2NfVUNYTl9TX28tdUJnMVBiZVE?oc=5&hl=en-US&gl=US&ceid=US:en
+- John Bosco football live updates: Score, highlights, predictions, analysis Northwest Ontario News
+  - Publisher: Northwest Ontario News
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE93OXRPb3E0eWI2MDFZNEo5RkpsU0d0YjJyWnVVTG5lZUhsWjBrRDd3UHVvLWxmRTl3RWYtRVBjazhKcF9IdkZhdlFfNDVRSm4tQl9HMFZXWXZzUVBKMDV3SG1wQXVzWVRubHh2aWdVQWMzXzRaa1o0RXFtNkk?oc=5&hl=en-US&gl=US&ceid=US:en
+- California high school football power gets surprise from Nike ahead of title game USA Today
+  - Publisher: USA Today
+  - Extraction: RSS description
+  - Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaDdXcHNSLURieVR3UFE4OWNQUzR2S2JLbFlRUEtxNHM4Z04yWFFZZzM3enZlUl9HcmV3emRTZ3ZvU2xDc255cElCQmFHOG1YREVPUVRhaF9nei1OMlVWcVp4UGwtNmpNUktYcU00eV9BRU9Hc0hQRjRLS3Q4VUkzcWkycjVxZHY1c2Vtb0JSMVd5VV96eERma1ZwYVJTY0ZwWHFKd3BIYW5HWUdyMWM1YUo4X1lSbi1SOU9rellVbWl3dVpUR0lWN2tDOHZsdUFZRGRiNWNXVGZ6ZjZSYlFkSGNSU3I?oc=5&hl=en-US&gl=US&ceid=US:en
 
 ### Reel script — draft
-**Estimated narration:** 37 words
+**Estimated narration:** 69 words
 
-HOOK: Here's what happened: DONATION OF RS. 5 LAKH ORGANIC FERTILIZERS TO TTD _ టీటీడీకి రూ.5 లక్షల సేంద్రియ ఎరువులు విరాళం - TTD News.
+HOOK: Here's what happened: Corona Centennial vs. St. John Bosco: Watch California high school football final live from Los Angeles Colis - OregonLive.com.
 
 REPORTED DETAILS:
-5 LAKH ORGANIC FERTILIZERS TO TTD _ టీటీడీకి రూ.5 లక్షల సేంద్రియ ఎరువులు విరాళం TTD News
+John Bosco: Watch California high school football final live from Los Angeles Colis OregonLive.com
+John Bosco football live updates: Score, highlights, predictions, analysis FlamboroughToday.com
+John Bosco football live updates: Score, highlights, predictions, analysis Sudbury News
+John Bosco football live updates: Score, highlights, predictions, analysis Northwest Ontario News
 
 ENDING: Follow InfoRush for more important updates.
 
 ### Caption
-What happened in ఎరువు? Here are the reported details. Follow InfoRush for more.
+What happened in st john bosco football? Here are the reported details. Follow InfoRush for more.
 
 ### Hashtags
 #InfoRush #NewsUpdate #DiscoverMore #LatestUpdates
@@ -155,7 +186,7 @@ What happened in ఎరువు? Here are the reported details. Follow InfoRush
 
 ## Run summary
 - Drafts created: 2
-- Topics found: 37
+- Topics found: 39
 - Topics attempted: 2
 - Topics skipped: 0
 
